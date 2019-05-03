@@ -1,4 +1,4 @@
-<!----- Conversion time: 98.223 seconds.
+<!----- Conversion time: 86.44 seconds.
 
 
 Using this Markdown file:
@@ -11,7 +11,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β17
-* Wed May 01 2019 23:52:17 GMT-0700 (PDT)
+* Thu May 02 2019 22:01:10 GMT-0700 (PDT)
 * Source doc: https://docs.google.com/open?id=1cSuVrHqid6g2Bf0dVsT3IjIdOsle6mbYYsJE-gXHH8o
 
 ERROR:
@@ -157,7 +157,7 @@ undefined internal link to this URL: "#heading=h.nkrxdor2oauz".link text: Conson
 ----->
 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 28; WARNINGs: 0; ALERTS: 52.</p>
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 28; WARNINGs: 0; ALERTS: 57.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
 <p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
@@ -212,6 +212,11 @@ undefined internal link to this URL: "#heading=h.nkrxdor2oauz".link text: Conson
 <a href="#gdcalert50">alert50</a>
 <a href="#gdcalert51">alert51</a>
 <a href="#gdcalert52">alert52</a>
+<a href="#gdcalert53">alert53</a>
+<a href="#gdcalert54">alert54</a>
+<a href="#gdcalert55">alert55</a>
+<a href="#gdcalert56">alert56</a>
+<a href="#gdcalert57">alert57</a>
 
 <p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
@@ -5668,7 +5673,7 @@ Restrictions: Here are some restrictions in the present day Khmer which have bee
 *   allows Coeng Ro only as the last Coeng when there are two subscripts in a row and one of which is a Coeng Ro,
 *   allows at most two subscripts in a syllable, and
 *   allows at most one vowel, and at most one above-base and one post-base sign.	
-    22. Character Distribution in a Syllable
+    22. Character Distribution in an Orthographic Syllable
 
 Reahmuk (ះ), Nikahit (ំ), Yuukaleapintu (ៈ), Toandakhiat (៍), Ahsda (៏) and Bantoc (់) always occurs at the syllable final position. They can be considered as orthographic syllable boundary.  
 
@@ -11607,21 +11612,67 @@ U+17AD
 *    ៑ Virama (Huot 1956:20-21)
 *   ៜ Avakraha (Huot 1956:21)
 *    ំ Anusvara or Nikahit (Huot 1956:18-19)
-*    ះ Visarga or Visachani (Huot 1956:19-20)
-*   
+    *   Anusvara is placed on a vowel (ibid:117) \
+ហវីំឞិ \
+
 
 <p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character22.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/Khmer-Character22.png "image_tooltip")
+
+    *   Anusvara is placed on an indepdent vowel (ibid:115) \
+ឧំឞិ \
+
+
+<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character23.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/Khmer-Character23.png "image_tooltip")
+
+*    ះ Visarga or Visachani (Huot 1956:19-20)
+*   
+
+<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character24.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/Khmer-Character24.png "image_tooltip")
  Anuneaseka (Huot 1956:19)
 *   ៌ Athisvara RO in a cluster as the second member (Huot 1956:26). It is not listed as one of the 5 diacritics. It is instead an alternative appearance of រ when occurring after another consonant in an initial cluster.
+    *   AbvV can be placed above the Athisvara (ibid:133) \
+ចតុថ៌ី \
+
+
+<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character25.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/Khmer-Character25.png "image_tooltip")
+
+    *   The Athisvara is placed on a subscript (ibid:160) \
+ចតុក្យ៌ស៑ \
+
+
+<p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character26.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/Khmer-Character26.png "image_tooltip")
+
             29. How is the writing system different from Khmer?
 *   The use of the two obsolete characters (i.e. ឞ ឝ ៑).
 *   Anuneaseka doesn’t exist in the current version of Khmer Unicode character inventory.
 *   Independent vowels are seen to be used like subscripts.
     *   ក្ឫឞ្ណ		kṛṣṇa	‘black’		(Huot 1956ː12)
     *   ស្ប្ឫហា		spṛha	‘wish (n)’	(Huot 1956ː12)
+*   Independent vowel which is used like a subscript can be placed under a subscript (ibid:87)
+    *   ស្ម្ឫតិ \
+
+
+<p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character27.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/Khmer-Character27.png "image_tooltip")
+ \
+
 *   Consonant clusters which never exist in Khmer languageː
     *   សត្ត្វ		sattva	‘animal’
     *   មត្ស្យ		matsya	‘fish’
@@ -11631,17 +11682,17 @@ U+17AD
 
 
 
-<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character23.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character28.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Khmer-Character23.png "image_tooltip")
+![alt_text](images/Khmer-Character28.png "image_tooltip")
 
 
 
 
-10. Inscriptions (ancient script)
+10. Stone Inscriptions (Pre-Angkor, Angkor, Post-Angkor Era)
 
-Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels and three diacritics (Vong 2011ː15). These are used to transcribe inscriptions as they were carved in the stones.
+The oldest stone inscriptions written in Khmer language dated back to the 5th century. In stone inscriptions, there are 33 consonants, 14 vowels and three diacritics (Vong 2011ː15). These are used to transcribe inscriptions as they were carved in the stones. The table below shows the equivalence of each of them. For more details on character comparison, see [https://drive.google.com/drive/folders/1jxv9xxrWNPd0U7j1wDW838elUQMUMrV0?usp=sharing](https://drive.google.com/drive/folders/1jxv9xxrWNPd0U7j1wDW838elUQMUMrV0?usp=sharing).
 
 
 <table>
@@ -11650,11 +11701,9 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
    <td><strong>Subscript</strong>
    </td>
-   <td><strong>Independent Vowels</strong>
+   <td><strong>Vowels</strong>
    </td>
-   <td><strong>Dependent Vowels</strong>
-   </td>
-   <td><strong>Diacritics</strong>
+   <td><strong>Special Signs</strong>
    </td>
   </tr>
   <tr>
@@ -11662,20 +11711,9 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
    <td>្ក 
    </td>
-   <td>ឣ 
+   <td>ឣ
    </td>
-   <td>(inherent)
-   </td>
-   <td rowspan="33" >
-<ul>
-
-<li>ះ
-
-<li> ំ
-
-<li> ៑
-</li>
-</ul>
+   <td>ំ
    </td>
   </tr>
   <tr>
@@ -11685,7 +11723,7 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
    <td>ឤ 
    </td>
-   <td>ា 
+   <td>ះ
    </td>
   </tr>
   <tr>
@@ -11695,7 +11733,8 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
    <td>ឥ 
    </td>
-   <td>ិ 
+   <td>
+<h3>៑[^20]
    </td>
   </tr>
   <tr>
@@ -11705,7 +11744,7 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
    <td>ឦ 
    </td>
-   <td>ី 
+   <td>
    </td>
   </tr>
   <tr>
@@ -11715,7 +11754,7 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
    <td>ឧ 
    </td>
-   <td>ុ 
+   <td>
    </td>
   </tr>
   <tr>
@@ -11725,7 +11764,7 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
    <td>ឩ 
    </td>
-   <td>ូ 
+   <td>
    </td>
   </tr>
   <tr>
@@ -11735,7 +11774,7 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
    <td>ឯ 
    </td>
-   <td>េ 
+   <td>
    </td>
   </tr>
   <tr>
@@ -11745,7 +11784,7 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
    <td>ឰ 
    </td>
-   <td>ៃ 
+   <td>
    </td>
   </tr>
   <tr>
@@ -11755,7 +11794,7 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
    <td>ឱ 
    </td>
-   <td>ោ
+   <td>
    </td>
   </tr>
   <tr>
@@ -11765,7 +11804,7 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
    <td>ឳ
    </td>
-   <td>ៅ
+   <td>
    </td>
   </tr>
   <tr>
@@ -11959,29 +11998,9 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
    </td>
   </tr>
   <tr>
-   <td>ស 
+   <td>ឝ
    </td>
-   <td>្ស 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>ហ 
-   </td>
-   <td>្ហ 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>ឝ 
-   </td>
-   <td>្ឝ 
+   <td>្ឝ
    </td>
    <td>
    </td>
@@ -11991,7 +12010,27 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
   <tr>
    <td>ឞ
    </td>
-   <td>្ឞ
+   <td>្ឞ 
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>ស
+   </td>
+   <td>្ស
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>ហ
+   </td>
+   <td>្ហ
    </td>
    <td>
    </td>
@@ -12002,12 +12041,9 @@ Ancient Khmer character inventory has 33 consonants, 14 vowels, four semi-vowels
 
 
 
-## 
-
-
 
     35. How is the writing system different from Khmer?
-*   the use of obsolete characters (ឞ ឝ ៑)
+*   the use of obsolete characters (ឞ ឝ )
 11. Sample Texts for Orthography Check
 
 This section includes sample text of each ethnic minority language.
@@ -12266,7 +12302,7 @@ It is observed (1) that some obsolete characters are commonly used in minority l
 
 All possible word-initial consonant clusters as found in the headwords in Khmer-Khmer Dictionary together with their phonemic representations, series, number of instances in the dictionary and the examples are illustrated in the table below. In the official Khmer-Khmer dictionary, 4397 instances of word-initial consonant clusters are found and and there are at least 164 possible unique clusters. Nine consonants (#33, #55, #56, #57, #58, #59, #134, #135 and #169) do not take a subscript in word-initial position. 
 
-The number of instances found in the Khmer-Khmer Dictionary (KKD) is obtained by doing RegEx[^20] searches on a pattern matching any words whose first member in the word-initial position is a consonant followed by a subscript without any trailing subscript after it. For instance, to find words beginning with ក្ង, look this pattern “^ក្ង([^្]|$)” up in an online dictionary (i.e. [http://dictionary.tovnah.com/reg-search](http://dictionary.tovnah.com/reg-search)). This could give a list of words which begin with ក្ង followed by either any character beside a subscript or nothing at all.
+The number of instances found in the Khmer-Khmer Dictionary (KKD) is obtained by doing RegEx[^21] searches on a pattern matching any words whose first member in the word-initial position is a consonant followed by a subscript without any trailing subscript after it. For instance, to find words beginning with ក្ង, look this pattern “^ក្ង([^្]|$)” up in an online dictionary (i.e. [http://dictionary.tovnah.com/reg-search](http://dictionary.tovnah.com/reg-search)). This could give a list of words which begin with ក្ង followed by either any character beside a subscript or nothing at all.
 
 
 <table>
@@ -15432,7 +15468,7 @@ In order not to show the same sequences of the consonant clusters, only the ones
 <p>
  -ក្យ-
 <p>
- -ក្ដ-[^21]
+ -ក្ដ-[^22]
 <p>
  -ក្ត-
 <p>
@@ -15792,7 +15828,7 @@ In order not to show the same sequences of the consonant clusters, only the ones
   <tr>
    <td>-ត្.-
 <p>
- -ត្ត-[^22]
+ -ត្ត-[^23]
 <p>
  -ត្ដ​-
 <p>
@@ -17022,7 +17058,7 @@ The consonant clusters with two subscripts occurs mostly in word-medial position
 <p>
  ស្ត្រ-
 <p>
-<strong> </strong>ហ្វ្រ-[^23]
+<strong> </strong>ហ្វ្រ-[^24]
    </td>
    <td><strong>4</strong>
 <p>
@@ -17166,11 +17202,11 @@ The consonant clusters with two subscripts occurs mostly in word-medial position
 
 The following table is an extended list of 
 
-<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Initial Consonant Clusters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Initial Consonant Clusters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Initial Consonant Clusters](#heading=h.m5yfr5ee1x2b). The clusters modified by 
 
-<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Consonant Shifters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Consonant Shifters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Consonant Shifters](#heading=h.nkrxdor2oauz) are included next to their respective pair, however they are not officially used or recognized by the public yet. They are there as a reminder that they might be needed in the future, especially with transliterated words. 
 
@@ -18334,18 +18370,22 @@ No attempt has been made to create a list of the more complex initial consonant 
 <p>
      This sign should be added to the Unicode character inventory.
 
-[^20]:
-     RegEx is a shorthand for [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression).
+[^20]:     Viriam is no longer used due to readability issue (ibid:16).</h3>
+
+
 
 [^21]:
-<p>
-     -ក្ដ- and  -ក្ត- look identical, but they are different.
+     RegEx is a shorthand for [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression).
 
 [^22]:
 <p>
-     -ត្ត- and  -ត្ដ​- looks identical, but they are different.
+     -ក្ដ- and  -ក្ត- look identical, but they are different.
 
 [^23]:
+<p>
+     -ត្ត- and  -ត្ដ​- looks identical, but they are different.
+
+[^24]:
 <p>
      The data in the Khmer-Khmer online dictionary has different character sequences. Instead of ហ្វ្រ (ហ ្វ ្រ), its sequence is ហ្រ្វ (ហ ្រ ្វ). The one used in this documentation is ហ្វ្រ (ហ ្វ ្រ).
 
