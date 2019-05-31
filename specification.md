@@ -877,15 +877,11 @@ where:
 
 Sok (2016:24) wrote:
 
-
-    _Series assimilation, សម្របសូរ or ការលំឱនសូ "lit. sound adaptation" as proposed by Prom (2013:24) and ទំនាញសូរ "lit. sound inclination" by Chan (2010:100), is the core of Khmer pronunciation and it is regularly correlated with the writing system. The series system and the sonority hierarchy drive the series assimilation phenomenon. Huffman (1970:43) refers to this phenomenon as Vowel Governance, for the pronunciation of a vowel symbol, including the invisible inherent vowel, is determined or governed by the series of the initial consonant symbol it is attached to (see Table 6 above). Thus, it is simple to pronounce a Khmer word which begins with a single consonant and a consonant cluster whose members are from the same series. For instance,_
-
-
-
-*   _ក ‘neck’ and កា (ក+ា) 'cup' are pronounced as _/kɑɑ/_ and _/kaa/_ respectively because these words begin with first series consonant symbol (ក), and the first series of the inherent vowel is _/ɑɑ/_ and the first series of vowel symbol ា is _/aa/.
-*   _គ ‘to be mute’ and គា (គ+ា) are pronounced as /kɔɔ/ and /kie/ respectively because they begin with the second series consonant symbol (គ), and the second series of the inherent vowel is /ɔɔ/ and the second series of vowel symbol ា is /ie/._
-*   _ក្បាល (ក+្+ប+ា+ល) 'head' is pronounced as /kɓaal/ because ក /k/ and ប /ɓ/ are in the first series, and the first series of vowel symbol ា is _/aa/_._
-*   _គ្នា (គ+្+ន+ា) 'first person singular (informal)' is pronounced as /knie/ because គ and ន are both in the second series, and the second series of the vowel symbol ា is /ie/._
+>_Series assimilation, សម្របសូរ or ការលំឱនសូ "lit. sound adaptation" as proposed by Prom (2013:24) and ទំនាញសូរ "lit. sound inclination" by Chan (2010:100), is the core of Khmer pronunciation and it is regularly correlated with the writing system. The series system and the sonority hierarchy drive the series assimilation phenomenon. Huffman (1970:43) refers to this phenomenon as Vowel Governance, for the pronunciation of a vowel symbol, including the invisible inherent vowel, is determined or governed by the series of the initial consonant symbol it is attached to (see Table 6 above). Thus, it is simple to pronounce a Khmer word which begins with a single consonant and a consonant cluster whose members are from the same series. For instance,_
+>*   _ក ‘neck’ and កា (ក+ា) 'cup' are pronounced as _/kɑɑ/_ and _/kaa/_ respectively because these words begin with first series consonant symbol (ក), and the first series of the inherent vowel is _/ɑɑ/_ and the first series of vowel symbol ា is _/aa/_._
+>*   _គ ‘to be mute’ and គា (គ+ា) are pronounced as /kɔɔ/ and /kie/ respectively because they begin with the second series consonant symbol (គ), and the second series of the inherent vowel is /ɔɔ/ and the second series of vowel symbol ា is /ie/._
+>*   _ក្បាល (ក+្+ប+ា+ល) 'head' is pronounced as /kɓaal/ because ក /k/ and ប /ɓ/ are in the first series, and the first series of vowel symbol ា is _/aa/_._
+>*   _គ្នា (គ+្+ន+ា) 'first person singular (informal)' is pronounced as /knie/ because គ and ន are both in the second series, and the second series of the vowel symbol ា is /ie/._
 
 After describing three accounts on the series assimilation, Sok (ibidː26-27) categorized the orthographic consonants into five groupsː IMPLOSIVE, UNASPIRATED PLOSIVE, ASPIRATED PLOSIVE, FRICATIVE, and SONORANT (See the table below). He hypothesized that the least sonorous consonant of an initial cluster determines the series of the following vowel based on the three accounts (Huffman (1970ː44), Kin (2007ː63) and Chan (2010ː107)).
 
@@ -1118,20 +1114,12 @@ The series assimilation does not only occur in the monosyllabic words, but also 
 
 Sok (ibid:29) describes:
 
-
-    _Khin (2007:63) wrote that, in disyllabic words, if the initial consonant of the major syllable is one of these (ង /ŋ/, ញ /ɲ/, ន /n/, ម /m/, យ /j/, រ /r/, ល /l/, and វ /w/), the vowel of the major syllable should be in the same series as the series of the initial consonant of the minor syllable. [...]_
-
-
-    _Exceptions: _
-
-
-    _• អន្លក់ 'vegetable' is pronounced as_ /ʔɑn.luək/_, not _/ʔɑn.lɑk/_ (if assimilation occurs) _
-
-
-    _• អង្រែ 'pestle' is pronounced as /ʔɑŋ.rɛɛ/, not _/ʔɑŋ.rae/_ (if assimilation occurs)_
+>_Khin (2007:63) wrote that, in disyllabic words, if the initial consonant of the major syllable is one of these (ង /ŋ/, ញ /ɲ/, ន /n/, ម /m/, យ /j/, រ /r/, ល /l/, and វ /w/), the vowel of the major syllable should be in the same series as the series of the initial consonant of the minor syllable. [...]_</br>
+>_Exceptions:_</br>
+>_• អន្លក់ 'vegetable' is pronounced as_ /ʔɑn.luək/_, not _/ʔɑn.lɑk/_ (if assimilation occurs)_ </br>
+>_• អង្រែ 'pestle' is pronounced as /ʔɑŋ.rɛɛ/, not _/ʔɑŋ.rae/_ (if assimilation occurs)_
 
 For instance, បន្លា ‘thorn’ is pronounced as /ɓɑn.laa/ not /ɓɑn.lie/ because the minor syllable is in the 1st series, and the initial of the major syllable is one of the consonant listed above.
-
 
 <table>
   <tr>
@@ -1194,8 +1182,7 @@ For instance, បន្លា ‘thorn’ is pronounced as /ɓɑn.laa/ not /ɓɑ
 Sok (ibid:30) continues:
 
 
-    [...] if each syllable of a disyllable word begins with a plosive or fricative, the series of each vowel is determined independently. Thus, for example, បន្ទាយ (ប /ɓ/, ន /n/, ទ /t/, ា \
- /aa|ie/, យ /j/) 'barracks' is pronounced as /ɓɑn.tiej/ (not /ɓɑn.taaj/) and ទន្សាយ (ទ /t/, ន /n/, ស /s/, ា /aa|ie/, យ /j/) 'rabbit' is pronounced as /tun.saaj/ (not /tun.siej/). Khin (2007:63) and Chan (2010:107) also agree that if the initial consonant of the major syllable is a strong consonant group (i.e. implosives, plosives, or fricative) then the series of the vowel of the major and minor syllable should be independent from one another (i.e. no series assimilation between the two syllables), as show in the example below.
+>[...] if each syllable of a disyllable word begins with a plosive or fricative, the series of each vowel is determined independently. Thus, for example, បន្ទាយ (ប /ɓ/, ន /n/, ទ /t/, ា /aa|ie/, យ /j/) 'barracks' is pronounced as /ɓɑn.tiej/ (not /ɓɑn.taaj/) and ទន្សាយ (ទ /t/, ន /n/, ស /s/, ា /aa|ie/, យ /j/) 'rabbit' is pronounced as /tun.saaj/ (not /tun.siej/). Khin (2007:63) and Chan (2010:107) also agree that if the initial consonant of the major syllable is a strong consonant group (i.e. implosives, plosives, or fricative) then the series of the vowel of the major and minor syllable should be independent from one another (i.e. no series assimilation between the two syllables), as show in the example below.
 
 
 <table>
@@ -2594,7 +2581,7 @@ Consonant clusters are found in the coda position of Pali/Sanskrit loanwords. Th
 
 សាស្ត្រ does not have a vowel after the cluster -ស្ត្រ, which is why it is left out of the pronunciation; សាស្ត្រា, however, has ា after the cluster (-ស្ត្រ). In this case, another syllable is created--ស្ត្រា /straa/. 
 
-**F = 	{ក ខ គ ឃ ង ច ជ ញ ដ ឋ ឌ ឍ ណ ត ថ ទ ធ ន ប ព ភ ម យ រ ល វ ស} or \
+**F = 	{ក ខ គ ឃ ង ច ជ ញ ដ ឋ ឌ ឍ ណ ត ថ ទ ធ ន ប ព ភ ម យ រ ល វ ស} or** \
 	a random consonant clusters of two or three consonants (See 
 
 <p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Consonant Clusters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -2603,41 +2590,79 @@ Consonant clusters are found in the coda position of Pali/Sanskrit loanwords. Th
 
 It is important to note that, unlike old Khmer, subscript never occurs after a dependent vowel in the present day Khmer. Here are some examples from Bernard (1902:40-42) and their corresponding words from Khmer Choun Nath Dictionary (1967).
 
-**Old Khmer				Present Day Khmer	Gloss**
-
-ចក្រី្យ					ចក្រី	/caʔ.krej/	‘chakri’
-
-ចំហា្យ					ចំហាយ	/cɑm.haaj/	‘steam (n)’
-
-ចំហុយ					ចំហុយ /cɑm.hoj/	‘steam (v)’
+<table width="50%">
+  <tr>
+    <th width="30%">Old Khmer</th>
+    <th width="40%">Present Day Khmer</th>
+    <th width="30%">Gloss</th>
+  </tr>
+  <tr>
+    <td>ចក្រី្យ</td>
+    <td>ចក្រី	/caʔ.krej/</td>
+    <td>‘chakri’</td>
+  </tr>
+  <tr>
+    <td>ចំហា្យ</td>
+    <td>ចំហាយ /cɑm.haaj/</td>
+    <td>‘steam (n)’</td>
+  </tr>
+  <tr>
+    <td>ចំហុយ</td>
+    <td>ចំហុយ /cɑm.hoj/</td>
+    <td>‘steam (v)’</td>
+  </tr>
+</table>
 
 Bernard (ibid) mostly used subscript ្យ after dependent vowel. For instance, ចំហុយ (with consonant យ) ‘to steam’ was not written as ចំហុ្យ (with subscript ្យ). 
 
 Maspero (1915:38) explained in his book entitled “Grammar of Khmer Language” that the subscript ្យ after a dependent vowel is a semi-vowel. For examples:
 
-ញី្យ					ញី	/ɲii/		‘female’	
-
-ដី្យ					ដី	/ɗej/		‘soil’
-
-ជ្រៃ្យ					ជ្រៃ	/cej/		‘fig tree’
+<table width="50%">
+  <tr>
+    <td width="30%">ញី្យ</td>
+    <td width="40%">ញី /ɲii/</td>
+    <td width="30%">‘female’</td>
+  </tr>
+  <tr>
+    <td>ដី្យ</td>
+    <td>ដី /ɗej/</td>
+    <td>‘soil’</td>
+  </tr>
+  <tr>
+    <td>ជ្រៃ្យ</td>
+    <td>ជ្រៃ	/cej/</td>
+    <td>‘fig tree’</td>
+  </tr>
+</table>
 
 He further gave more examples that Sanskrit loanwords with “aya” at the end are written with ៃ and a final subscript ្យ . For examples:
 
-ជៃ្យ “jaya”				ជ័យ	/cej/		‘victory’
-
-ភៃ្យ “bhaya”				ភ័យ	/pʰej/		‘fright’
+<table width="50%">
+  <tr>
+    <td width="30%">ជៃ្យ “jaya”</td>
+    <td width="40%">ជ័យ	/cej/</td>
+    <td width="30%">‘victory’</td>
+  </tr>
+  <tr>
+    <td>ភៃ្យ “bhaya”</td>
+    <td>ភ័យ	/pʰej/</td>
+    <td>‘fright’</td>
+  </tr>
+</table>
 
 Maspero (ibid:70,138) also described the used of subscript ្ង can also be placed after a dependent vowel, and it is equivalent to the final consonant. For example
 
-ទាំ្ង = ទាង				ទាំង	/teaŋ/		‘all’	
-
-
+<table width="50%">
+  <tr>
+    <td width="30%">ទាំ្ង = ទាង	</td>
+    <td width="40%">ទាំង	/teaŋ/</td>
+    <td width="30%">‘all’	</td>
+  </tr>
+</table>
 
 #### 5.2.4. Vowels
 
 Vowels are divided into three types in this paper: Inherent Vowels, Dependent Vowels and Independent Vowels. 
-
-
 
 ##### 5.2.4.1. Inherent Vowels
 
@@ -2686,9 +2711,9 @@ Inherent vowels are invisible, so they do not have their orthographic representa
    </td>
   </tr>
   <tr>
-   <td>ង៉
+   <td bgcolor="#BEBEBE">ង៉
    </td>
-   <td>/ŋɑɑ/
+   <td bgcolor="#BEBEBE">/ŋɑɑ/
    </td>
    <td>ង
    </td>
@@ -2716,9 +2741,9 @@ Inherent vowels are invisible, so they do not have their orthographic representa
    </td>
   </tr>
   <tr>
-   <td>ញ៉
+   <td bgcolor="#BEBEBE">ញ៉
    </td>
-   <td>/ɲɑɑ/
+   <td bgcolor="#BEBEBE">/ɲɑɑ/
    </td>
    <td>ញ
    </td>
@@ -2796,9 +2821,9 @@ Inherent vowels are invisible, so they do not have their orthographic representa
    </td>
   </tr>
   <tr>
-   <td>យ៉
+   <td bgcolor="#BEBEBE">យ៉
    </td>
-   <td>/jɑɑ/
+   <td bgcolor="#BEBEBE">/jɑɑ/
    </td>
    <td>យ
    </td>
@@ -2806,9 +2831,9 @@ Inherent vowels are invisible, so they do not have their orthographic representa
    </td>
   </tr>
   <tr>
-   <td>រ៉
+   <td bgcolor="#BEBEBE">រ៉
    </td>
-   <td>/rɑɑ/
+   <td bgcolor="#BEBEBE">/rɑɑ/
    </td>
    <td>រ
    </td>
@@ -2826,9 +2851,9 @@ Inherent vowels are invisible, so they do not have their orthographic representa
    </td>
   </tr>
   <tr>
-   <td>វ៉
+   <td bgcolor="#BEBEBE">វ៉
    </td>
-   <td>/wɑɑ/
+   <td bgcolor="#BEBEBE">/wɑɑ/
    </td>
    <td>វ
    </td>
@@ -2840,9 +2865,9 @@ Inherent vowels are invisible, so they do not have their orthographic representa
    </td>
    <td>/sɑɑ/
    </td>
-   <td>ស៊
+   <td bgcolor="#BEBEBE">ស៊
    </td>
-   <td>/sɔɔ/
+   <td bgcolor="#BEBEBE">/sɔɔ/
    </td>
   </tr>
   <tr>
@@ -2850,9 +2875,9 @@ Inherent vowels are invisible, so they do not have their orthographic representa
    </td>
    <td>/hɑɑ/
    </td>
-   <td>ហ៊
+   <td bgcolor="#BEBEBE">ហ៊
    </td>
-   <td>/hɔɔ/
+   <td bgcolor="#BEBEBE">/hɔɔ/
    </td>
   </tr>
   <tr>
@@ -2860,9 +2885,9 @@ Inherent vowels are invisible, so they do not have their orthographic representa
    </td>
    <td>/ʔɑɑ/
    </td>
-   <td>អ៊
+   <td bgcolor="#BEBEBE">អ៊
    </td>
-   <td>/ʔɔɔ/
+   <td bgcolor="#BEBEBE">/ʔɔɔ/
    </td>
   </tr>
 </table>
@@ -2874,22 +2899,54 @@ Inherent vowels in Pali/Sanskrit loanwords are different from those of Khmer. Th
 
 ##### 5.2.4.2. Dependent Vowels
 
-There are two types of themː dependent vowels and independent vowels. The first type is always attached to an initial consonant, and the second one can start a syllable on its own. It is important to note that different vowels stand in various places around the base consonant. It can go before, after, above, below and around the base. Please see the examples below.
+There are two types of themː dependent vowels and independent vowels. The first type is always attached to an initial consonant, and the second one can start a syllable on its own. It is important to note that different vowels stand in various places around the base consonant. It can go to the left, right, above, below and around the base. Please see the examples below.
 
 
-
-*   before		កេ	ក េ	/kee/
-*   after		កា	ក ា	/kaa/
-*   above		កិ	ក ិ	/keʔ/
-*   below		កុ	ក ុ	/koʔ/
-*   around		កៀ	ក ៀ	/kiə/
+<table>
+	<tr>
+		<th>Position</th>
+		<th>Example</th>
+		<th>Character Combination</th>
+		<th>IPA</th>
+	</tr>
+	<tr>
+		<td>left</td>
+		<td>កេ</td>
+		<td>ក េ</td>
+		<td>/kee/</td>
+	</tr>
+	<tr>
+		<td>right</td>
+		<td>កា</td>
+		<td>ក ា</td>
+		<td>/kaa/</td>
+	</tr>
+	<tr>
+		<td>above</td>
+		<td>កិ</td>
+		<td>ក ិ</td>
+		<td>/keʔ/</td>
+	</tr>
+	<tr>
+		<td>below</td>
+		<td>កុ</td>
+		<td>ក ុ</td>
+		<td>/koʔ/</td>
+	</tr>
+	<tr>
+		<td>around</td>
+		<td>កៀ</td>
+		<td>ក ៀ</td>
+		<td>/kiə/</td>
+	</tr>
+</table>		
 
 The table below shows the vowels as taught in school (Um & Seng 2012ː1).
 
 
 <table>
   <tr>
-   <td colspan="8" ><strong>Dependent Vowels</strong>
+   <td style="text-align:center" colspan="8"><strong>Dependent Vowels</strong>
    </td>
   </tr>
   <tr>
@@ -3153,15 +3210,15 @@ Vowels whose second member is ំ (a.k.a. Nikahit) or ះ (a.k.a. Reahmuk) alway
 A sign behaves like a vowel, ៈ (a.k.a. Yuukaleapintu), yet it is not counted as a vowel. It has its 1st and 2nd series realizations, and it never takes a final consonant.
 
 
-<table>
+<table width="80%">
   <tr>
-   <td><strong>Grapheme</strong>
+   <td width="15%"><strong>Grapheme</strong>
    </td>
-   <td><strong>Code Points</strong>
+   <td width="20%"><strong>Code Points</strong>
    </td>
-   <td colspan="3" ><strong>1st Series</strong>
+   <td width="35%" colspan="3" ><strong>1st Series</strong>
    </td>
-   <td colspan="3" ><strong>2nd Series</strong>
+   <td width="30%" colspan="3" ><strong>2nd Series</strong>
    </td>
   </tr>
   <tr>
@@ -3180,15 +3237,15 @@ A sign behaves like a vowel, ៈ (a.k.a. Yuukaleapintu), yet it is not counted a
 Yuukaleapintu can also be used to combine with another vowel just like Nikahit and Reahmuk. 
 
 
-<table>
+<table width="80%">
   <tr>
-   <td><strong>Grapheme</strong>
+   <td width="15%"><strong>Grapheme</strong>
    </td>
-   <td><strong>Code Points</strong>
+   <td width="20%"><strong>Code Points</strong>
    </td>
-   <td colspan="3" ><strong>1st Series</strong>
+   <td width="35%" colspan="3" ><strong>1st Series</strong>
    </td>
-   <td colspan="3" ><strong>2nd Series</strong>
+   <td width="30%" colspan="3" ><strong>2nd Series</strong>
    </td>
   </tr>
   <tr>
@@ -3207,15 +3264,15 @@ Yuukaleapintu can also be used to combine with another vowel just like Nikahit a
 These are the vowels that do not exist in the official alphabetical order.
 
 
-<table>
+<table width="80%">
   <tr>
-   <td><strong>Grapheme</strong>
+   <td width="15%"><strong>Grapheme</strong>
    </td>
-   <td><strong>Code Points</strong>
+   <td width="20%"><strong>Code Points</strong>
    </td>
-   <td colspan="3" ><strong>1st Series</strong>
+   <td width="35%" colspan="3" ><strong>1st Series</strong>
    </td>
-   <td colspan="3" ><strong>2nd Series</strong>
+   <td width="30%" colspan="3" ><strong>2nd Series</strong>
    </td>
   </tr>
   <tr>
@@ -3444,25 +3501,17 @@ Independent vowels are able to start a syllable without an initial consonant or 
 
 In the present day, there is no evidence of an instance where an independent vowel is used as a subscript in the contemporary Khmer, even though there are three instances of ឫ being used as a subscript in three headwords (i.e. សុហ្ឫទ, សៅហ្ឫទ, and ហ្ឫទ័យ ), plus more than 190 instances of Sanskrit transliteration in the Chuon Nath dictionary. Here are some examples:
 
-Khmer Contemporary Spelling		Sanskrit Transliteration		Gloss
-
-ក្រិស					ក្ឫឝ				‘small, dwarf’
-
-គ្រឹះ					គ្ឫហ				‘house’
-
-ព្រឹក្ស					វ្ឬក្ស				‘tree’
-
-មុសា					ម្ឫឞា				‘to be false’
-
-វុឌ្ឍិ					វ្ឫទ្ធិ				‘prosperity’
-
-សតិ					ស្ម្ឫតិ				‘consciousness’
-
-សំស្ក្រឹត					សំស្ក្ឫត				‘Sanskrit’
-
-ស្រឹង្គារ					ឝ្ឫង្គារ				‘love, lover’
-
-ឧក្រិដ្ឋ					ឧត្ក្ឫឞ្ដ				‘seriously, criminally’
+Khmer Contemporary Spelling | IPA | Sanskrit Transliteration | Gloss
+--- | --- | --- |  ---  
+ក្រិស (ក ្រ ិ ស) | /krəh/ | ក្ឫឝ (ក ្ឫ ឝ) | ‘small, dwarf’
+គ្រឹះ (គ ្រ ឹ ះ) | /krɨh/ | គ្ឫហ	 (គ ្ឫ ហ) | ‘house’
+ព្រឹក្ស (ព ្រ ឹ ក ្ស) | /prɨʔ.saa/ | វ្ឬក្ស (វ ្ឫ ក ្ស) | ‘tree’
+មុសា (ម ុ ស ា) | /muʔ.saa/ | ម្ឫឞា (ម ្ឫ ឞា) | ‘to be false’
+វុឌ្ឍិ (វ ុ ឌ ្ឍ ិ) | /wut.tʰiʔ/ | វ្ឫទ្ធិ (វ ្ឫ ទ ្ធ ិ) | ‘prosperity’
+សតិ (ស ត ិ) | /saʔ.teʔ/ | ស្ម្ឫតិ (ស ្ម ្ឫ ត ិ) | ‘consciousness’
+សំស្ក្រឹត (ស ំ ស ្ក ្រ ឹ ត) | /saŋ.skrət/ | សំស្ក្ឫត (ស ំ ស ្ក ្ឨ ត) | ‘Sanskrit’
+ស្រឹង្គារ (ស ្រ ឹ ង ្គ ា រ) | /srəŋ.kie/ | ឝ្ឫង្គារ (ឝ ្ឫ ង ្គ ា រ) | ‘love, lover’
+ឧក្រិដ្ឋ (ឧ ក ្រ ិ ដ ្ឋ) | /ʔuʔ.krət/ | ឧត្ក្ឫឞ្ដ (ឧ ត ្ឫ ឞ ្ដ) | ‘seriously, criminally’
 
 
 
@@ -3587,33 +3636,82 @@ Consonant Shifters can also be used to change the series of consonant clusters. 
 
 Muusikatoan (​៉), a.k.a. ធ្មេញ​កណ្ដុរ ‘Thmenh Kandol’ or សម្លាប់​ពីរ ‘Samlab Pii’, is used to change the series of the consonants -- from the 2nd series to 1st series. Not any consonant can be used with Muusikatoan. It is only applicable with the ones that does not have their counterpart in the 1st series. 
 
-ង /ŋɔɔ/		+ ​៉	> 	ង៉ /ŋɑɑ/
-
-ញ /ɲɔɔ/	+ ​៉	> 	ញ៉ /ɲɑɑ/
-
-ម /mɔɔ/	+ ​៉	> 	ម៉ /mɑɑ/
-
-យ /jɔɔ/		+ ​៉	> 	យ៉ /jɑɑ/
-
-រ /rɔɔ/		+ ​៉	> 	រ៉ /rɑɑ/
-
-វ /wɔɔ/		+ ​៉ 	> 	វ៉ /wɑɑ/
-
-ប /ɓɑɑ/		+ ​៉ 	> 	ប៉ /pɑɑ/ 
-
+<table>
+<tr>
+	<td>ង /ŋɔɔ/	</td>
+	<td>+ ​៉</td>
+	<td> > </td>
+	<td>ង៉ /ŋɑɑ/</td>
+</tr>
+<tr>
+	<td>ញ /ɲɔɔ/</td>
+	<td>+ ​៉</td>
+	<td> > </td>
+	<td>ញ៉ /ɲɑɑ/</td>
+</tr>
+<tr>
+	<td>ម /mɔɔ/	</td>
+	<td>+ ​៉</td>
+	<td> > </td>
+	<td>ម៉ /mɑɑ/</td>
+</tr>
+<tr>
+	<td>យ /jɔɔ/</td>
+	<td>+ ​៉</td>
+	<td> > </td>
+	<td>យ៉ /jɑɑ/</td>
+</tr>
+<tr>
+	<td>រ /rɔɔ/</td>
+	<td>+ ​៉	</td>
+	<td> > </td>
+	<td>រ៉ /rɑɑ/</td>
+</tr>
+<tr>
+	<td>វ /wɔɔ/</td>
+	<td>+ ​៉ </td>
+	<td> > </td>
+	<td>វ៉ /wɑɑ/</td>
+</tr>
+<tr>
+	<td>ប /ɓɑɑ/</td>
+	<td>+ ​៉ </td>
+	<td> > </td>
+	<td>ប៉ /pɑɑ/ </td>
+</tr>
+</table>
 
 
 ##### 5.3.1.2. Triisap (​៊)
 
 Triisap (​៊), a.k.a. សក់ក ‘Sakka’,  is used to change the series of the consonants -- from the 1st series to the 2nd series.
 
-ប /ɓɑɑ/		+ ៊	>	ប៊ /ɓɔɔ/
-
-ស /sɑɑ/	+ ៊ 	>	ស៊ /sɔɔ/
-
-ហ /hɑɑ/	+ ៊ 	>	ហ៊ /hɔɔ/
-
-អ /ʔɑɑ/		+ ៊	> 	អ៊ /ʔɔɔ/
+<table>
+<tr>
+	<td>ប /ɓɑɑ/	</td>
+	<td>+ ​៊	 </td>
+	<td> > </td>
+	<td>ប៊ /ɓɔɔ/</td>
+</tr>
+<tr>
+	<td>ស /sɑɑ/</td>
+	<td>+ ​៊	 </td>
+	<td> > </td>
+	<td>ស៊ /sɔɔ/</td>
+</tr>
+<tr>
+	<td>ហ /hɑɑ/</td>
+	<td>+ ​៊	 </td>
+	<td> > </td>
+	<td>ហ៊ /hɔɔ/</td>
+</tr>
+<tr>
+	<td>អ /ʔɑɑ/	</td>
+	<td>+ ​៊	 </td>
+	<td> > </td>
+	<td>អ៊ /ʔɔɔ/</td>
+</tr>
+</table>
 
 
 
@@ -3621,11 +3719,24 @@ Triisap (​៊), a.k.a. សក់ក ‘Sakka’,  is used to change the series
 
 ប is the only consonant that either Muusikatoan or Triisap can be attached to, and Muusikatoan does not change the series of it, it changes the consonant instead; On the other hand, Triisap does changes the series of ប from the first to the second series. 
 
-ប			/ɓɑɑ/
-
-ប ៊	ប៊		/ɓɔɔ/
-
-ប ៉	ប៉ 		/pɑɑ/
+<table>
+<tr>
+	<td>ប</td>
+	<td></td>
+	<td>/ɓɑɑ/</td>
+</tr>
+<tr>
+	<td>ប ៊	</td>
+	<td>ប៊</td>
+	<td>/ɓɔɔ/</td>
+</tr>
+<tr>
+	<td>ប ៉	</td>
+	<td>ប៉ </td>
+	<td>/pɑɑ/</td>
+</tr>
+</table>
+	
 
 Another special case for ប is that even though its consonant quality is /ɓ/, it would be realized as /p/ when it precedes subscript ្រ in a cluster, i.e. ប្រៃ ‘salty’ is pronounced as /praj/ not /ɓraj/. 
 
@@ -3640,26 +3751,101 @@ Kul (ibid) and Nuon (1954:វសហ) describes a few exceptional cases of when S
 
 
 *   One caveat is that when Triisap is attached to ប and they followed by one of the Above Vowels mentioned above, Triisap does not change its orthographic realization to ុ. It should stay the same. If changing, it would get confused with Muusikatoan.
-    *   ប៊ិក	ប ៊ ិ ក		/ɓɨc/	‘pen’
-    *   ប៊ិន	ប ៊ ិ ន		/ɓɨn/	‘cooler box’
-    *   ប៉ិន	ប ៉ ិ ន		/pən/	‘to be keen on something’
+
+<table width="80%">
+<tr>
+	<td width="20%">ប៊ិក</td>
+	<td width="20%">ប ៊ ិ ក</td>
+	<td width="20%">/ɓɨc/</td>
+	<td width="30%">‘pen’</td>
+</tr>
+<tr>
+	<td>ប៊ិន</td>
+	<td>ប ៊ ិ ន</td>
+	<td>/ɓɨn/</td>
+	<td>‘cooler box’</td>
+</tr>
+<tr>
+	<td>ប៉ិន</td>
+	<td>ប ៉ ិ ន</td>
+	<td>/pən/</td>
+	<td>‘to be keen on something’</td>
+</tr>
+</table>
+
+	
 *   Triisap may stay the same when attached to អ even though there is an above vowel after it.
-    *   អ៊‌ឹម[^10]	អ ៊ ZWNJ ឹ ម	/ʔɨm/	‘to be breastfed’
 
+<table width="80%">
+<tr>
+	<td width="20%">អ៊‌ឹម[^10]</td>
+	<td width="20%">អ ៊ ZWNJ ឹ ម</td>
+	<td width="20%">/ʔɨm/</td>
+	<td width="30%">‘to be breastfed’</td>
+</tr>
+<tr>
+	<td>អ៊ំ</td>
+	<td>អ ៊ ំ</td>
+	<td>/ʔum/</td>
+	<td>‘uncle/aunty’</td>
+</tr>
+</table>
 
-    *   អ៊ំ	អ ៊ ំ		/ʔum/	‘uncle/aunty’
+	
 *   Triisap may stay the same or be changed when there is an above vowel attached to it. This is only with ហ (U+17A0).
-    *   ហ៊ឹម	ហ ៊ ឹ ម	/hɨm/	‘(sigh)’ \
+<table width="80%">
+<tr>
+	<td width="20%">ហ៊ឹម</td>
+	<td width="20%">ហ ៊ ឹ ម</td>
+	<td width="20%">/hɨm/</td>
+	<td width="30%">‘(sigh)’</td>
+</tr>
+</table>
+
+
 ហ៊‌ឹម	ហ ៊ ZWNJ ឹ ម (The ZWNJ is placed in between the Triisap and the vowel in order to prevent the default rendering from happening.)
 *   For the above two cases of Triisap  ៊ being used with អ and ហ, Um & Seng (2012:52) rules out that the Triisap has to change its glype to look like ុ, i.e. ហ៊ីង, អ៊ីកអ៊ាក។ 
 *   Samyok Sannya (​័) is seen to influence the orthographic realization of the consonant shifter in the same way the above vowels do. However, no reference has been found to describe this phenomenon.
-    *   ប៉័ង	ប ៉ ័ ង	/paŋ/	‘bread’ 
-    *   ប៊័រ	ប ៊ ័ រ		/ɓəə/	‘butter’
+
+<table width="80%">
+<tr>
+	<td width="20%">ប៉័ង</td>
+	<td width="20%">ប ៉ ័ ង</td>
+	<td width="20%">/paŋ/</td>
+	<td width="30%">‘bread’ </td>
+</tr>
+<tr>
+	<td>ប៊័រ</td>
+	<td>ប ៊ ័ រ	</td>
+	<td>/ɓəə/</td>
+	<td>‘butter’</td>
+</tr>
+</table>
+
+	
 *   Disyllabic words should never take a consonant shifter in the second syllable. The series assimilation does the job of changing the series of the second syllable​ which results in changing the vowel of the syllable (Sok 2016:28-30).
-    *   ច្រងាង			/crɑ.ŋaaŋ/	‘scatter in the way’ \
-not 	ច្រង៉ាង	
-    *   ព្រហើន			/prɔ.həən/	‘to be insolent’ \
-not	ព្រហ៊ើន nor ព្រហ៊‌ើន
+
+<table>
+<tr>
+	<td>ច្រងាង</td>
+	<td>/crɑ.ŋaaŋ/</td>
+	<td>‘scatter in the way’</td>
+</tr>
+<tr>
+	<td colspan="3">not 	ច្រង៉ាង</td>
+</tr>
+<tr>
+	<td>ព្រហើន</td>
+	<td>/prɔ.həən/</td>
+	<td>‘to be insolent’</td>
+</tr>
+<tr>
+	<td colspan="3">not	ព្រហ៊ើន nor ព្រហ៊‌ើន</td>
+</tr>
+</table>
+
+
+
 *   When the Triisap is followed by this vowel (​​ុំ), one has to change the second part of the vowel (i.e. ំ) to ម (Kul ibid:32). 
     *   ស៊ុំ should be written as ស៊ុម 
     *   ហ៊ុំ should be written as ហ៊ុម
@@ -3693,32 +3879,29 @@ For list of all possible initial consonant clusters with their corresponding cou
 
 Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quote of the accountː
 
+<blockquote>
 
-    _Two vowels could be modified by adding a diacritic to it. The diacritic used is called Bantoc "់". The Bantoc is used to shorten as well as change the vowel quality completely. The two vowels are:_
-
-
-
+_Two vowels could be modified by adding a diacritic to it. The diacritic used is called Bantoc "់". The Bantoc is used to shorten as well as change the vowel quality completely. The two vowels are:_
 *   _Inherent vowels in the first series and the second series_
-*   _ ា in the first series and the second series_
+*   _ា in the first series and the second series_ </br>
 
-    _Bantoc is usually placed on the final consonant, and only certain orthographic consonants could have the Bantoc. They could be one of these nine final consonants: -ក /k/, -ង /ŋ/, -ច /c/, -ញ /ɲ/, -ត /t/, -ន​ /n/, ​-ល​ /l/, -ស /s/, or -ប /ɓ/. [...]_
+_Bantoc is usually placed on the final consonant, and only certain orthographic consonants could have the Bantoc. They could be one of these nine final consonants: -ក /k/, -ង /ŋ/, -ច /c/, -ញ /ɲ/, -ត /t/, -ន​ /n/, ​-ល​ /l/, -ស /s/, or -ប /ɓ/. [...]_
 
-
-<table>
+<table width="100%">
   <tr>
-   <td>
+   <td width="5%">
     <strong><em>No.</em></strong>
    </td>
-   <td>
+   <td width="10%">
     <strong><em>Syllable Structure</em></strong>
    </td>
-   <td>
+   <td width="37%">
     <strong><em>1st Series</em></strong>
    </td>
-   <td>
+   <td width="10%">
     <strong><em>Syllable Structure</em></strong>
    </td>
-   <td>
+   <td width="38%">
     <strong><em>2nd Series</em></strong>
    </td>
   </tr>
@@ -3738,62 +3921,36 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
     <em>1</em>
    </td>
    <td>
-    <em>CF់</em>
-<p>
-
+    <em>CF់</em> </br>
     <em>C៉F់</em>
    </td>
    <td rowspan="2" >
-    <em>/</em>ɑɑ<em>/ ​ is shorted to  /</em>ɑ<em>/</em>
-<p>
-
-    <em>Where</em>
-<p>
-
+    <em>/</em>ɑɑ<em>/ ​ is shorted to  /</em>ɑ<em>/</em> </br>
+    <em>Where</em></br>
     <em>F = -ក/-ង/-ច/-ញ/</em>
-<p>
-
-    <em>-ត/-ន/-ល/-ស/-ប</em>
+	<em>-ត/-ន/-ល/-ស/-ប</em>
    </td>
    <td>
-    <em>CF់</em>
-<p>
-
+    <em>CF់</em> </br>
     <em>C៊F់</em>
    </td>
    <td rowspan="2" >
-    <em>/</em>ɔɔ<em>/  is changed to  /</em>uə<em>/</em>
-<p>
-
-    <em>Where</em>
-<p>
-
+    <em>/</em>ɔɔ<em>/  is changed to  /</em>uə<em>/</em> </br>
+    <em>Where</em> 
     <em>F = -ក/-ស</em>
-<p>
-
-    <em>/</em>ɔɔ<em>/  is changed to  /</em>u<em>/</em>
-<p>
-
-    <em>(else where)</em>
-<p>
-
+    <em>/</em>ɔɔ<em>/  is changed to  /</em>u<em>/</em> </br>
+    <em>(else where)</em> </br>
     <em>F = -ង/-ច/-ញ/-ត/</em>
-<p>
-
     <em>-ន/-ល/-ប</em>
    </td>
   </tr>
   <tr>
    <td>
-    <em>C្CF់</em>
-<p>
-
+    <em>C្CF់</em> </br>
     <em>C្C៉F់</em>
    </td>
    <td>
-    <em>C្CF់</em>
-<p>
-
+    <em>C្CF់</em> </br>
     <em>C្C៊F់</em>
    </td>
   </tr>
@@ -3802,89 +3959,56 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
     <em>2</em>
    </td>
    <td>
-    <em>CាF់</em>
-<p>
-
+    <em>CាF់</em> </br>
     <em>C៉ាF់</em>
    </td>
    <td rowspan="2" >
-    <em>/</em>aa<em>/  is shorten to  /</em>a<em>/</em>
-<p>
-
-    <em>Where</em>
-<p>
-
+    <em>/</em>aa<em>/  is shorten to  /</em>a<em>/</em> </br>
+    <em>Where</em> </br>
     <em>F = -ក/-ង/-ច/-ញ/</em>
-<p>
-
     <em>-ត/-ន/-ល/-ស/-ប</em>
    </td>
    <td>
-    <em>CាF់</em>
-<p>
-
+    <em>CាF់</em> </br>
     <em>C៊ាF់</em>
    </td>
    <td rowspan="2" >
-    <em>/ie/  is changed to  /</em>ea<em>/</em>
-<p>
-
-    <em>Where</em>
-<p>
-
-    <em>F = -ក/-ង/-ច/-ញ</em>
-<p>
-
-    <em>/</em>ie<em>/  is changed to  /</em>oa<em>/</em>
-<p>
-
-    <em>Where</em>
-<p>
-
+    <em>/ie/  is changed to  /</em>ea<em>/</em> </br>
+    <em>Where</em> </br>
+    <em>F = -ក/-ង/-ច/-ញ</em> </br>
+    <em>/</em>ie<em>/  is changed to  /</em>oa<em>/</em> </br>
+    <em>Where</em> </br>
     <em>F = -ត/-ន/-ល/-ស/-ប</em>
    </td>
   </tr>
   <tr>
    <td>
-    <em>C្CាF់</em>
-<p>
-
+    <em>C្CាF់</em> </br>
     <em>C្C៉ាF់</em>
    </td>
    <td>
-    <em>C្CាF់</em>
-<p>
-
+    <em>C្CាF់</em> </br>
     <em>C្C៊ាF់</em>
    </td>
   </tr>
 </table>
 
-
-
-    _1a.  The first series inherent vowel /ɑɑ/ is shortened to /ɑ/ when the Bantoc is placed on the final consonant. For example, កក 'to be harden/frozen' is transcribed as /kɑɑk/, while កក់ 'to wash (hair)' is transcribed as /kɑk/._
-
-
-<table>
+_1a. The first series inherent vowel /ɑɑ/ is shortened to /ɑ/ when the Bantoc is placed on the final consonant. For example, កក 'to be harden/frozen' is transcribed as /kɑɑk/, while កក់ 'to wash (hair)' is transcribed as /kɑk/._
+>
+<table width="50%">
   <tr>
-   <td colspan="5" >
+   <td colspan="4" >
 <em>កក ‘to be harden/frozen’</em>
-   </td>
-   <td>
    </td>
   </tr>
   <tr>
-   <td><em>character sequence</em>
+   <td width="45%"><em>character sequence</em>
    </td>
    <td><em>ក</em>
    </td>
    <td>
    </td>
    <td><em>ក</em>
-   </td>
-   <td>
-   </td>
-   <td>
    </td>
   </tr>
   <tr>
@@ -3896,10 +4020,6 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td><em>k</em>
    </td>
-   <td>
-   </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td><em>series of character</em>
@@ -3910,17 +4030,11 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td>
    </td>
-   <td>
-   </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td><em>series of syllable</em>
    </td>
-   <td colspan="2" ><em>1</em>
-   </td>
-   <td colspan="3" >
+   <td colspan="3" ><em>1</em>
    </td>
   </tr>
   <tr>
@@ -3928,24 +4042,16 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td colspan="4" ><em>/</em>kɑɑk<em>/</em>
    </td>
-   <td>
-   </td>
   </tr>
 </table>
 
-
-
-
-
-<table>
+<table width="50%">
   <tr>
    <td colspan="5" ><em>កក់ ‘to wash (hair)’</em>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
-   <td><em>character sequence</em>
+   <td width="45%"><em>character sequence</em>
    </td>
    <td><em>ក</em>
    </td>
@@ -3955,8 +4061,6 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td><em>់</em>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td><em>character mapping</em>
@@ -3966,8 +4070,6 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    <td>ɑɑ|ɔɔ
    </td>
    <td><em>k</em>
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -3983,15 +4085,13 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td><em>series of syllable</em>
    </td>
    <td colspan="2" ><em>1</em>
    </td>
-   <td colspan="3" >
+   <td colspan="2" >
    </td>
   </tr>
   <tr>
@@ -3999,25 +4099,18 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td colspan="4" ><em>/</em>kɑk<em>/</em>
    </td>
-   <td>
-   </td>
   </tr>
 </table>
 
+_1b.  The second series inherent vowel /ɔɔ/ is changed to /uə/ when the Bantoc is placed on one of the these two final consonants (-ក /k/ or -ស /s/), and it is changed to /u/ when the Bantoc is placed on any other final consonants. Therefore, for instance, គក់ 'to wash (clothes)' is transcribed as /kuək/ (See the illustration below)_
 
-
-        _1b.  The second series inherent vowel /ɔɔ/ is changed to /uə/ when the Bantoc is placed on one of the these two final consonants (-ក /k/ or -ស /s/), and it is changed to /u/ when the Bantoc is placed on any other final consonants. Therefore, for instance, គក់ 'to wash (clothes)' is transcribed as /kuək/ (See the illustration below)_
-
-
-<table>
+<table width="50%">
   <tr>
    <td colspan="5" ><em>គក់ ‘to wash (clothes)’</em>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
-   <td><em>character sequence</em>
+   <td width="45%"><em>character sequence</em>
    </td>
    <td><em>គ</em>
    </td>
@@ -4027,8 +4120,6 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td><em>់</em>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td><em>character mapping</em>
@@ -4038,8 +4129,6 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    <td>ɑɑ|ɔɔ
    </td>
    <td><em>k</em>
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -4055,15 +4144,13 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td><em>series of syllable</em>
    </td>
    <td colspan="2" ><em>2</em>
    </td>
-   <td colspan="3" >
+   <td colspan="2" >
    </td>
   </tr>
   <tr>
@@ -4071,25 +4158,18 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td colspan="4" ><em>/</em>kuək<em>/</em>
    </td>
-   <td>
-   </td>
   </tr>
 </table>
 
+_2a.  The first series vowel ា /_aa_/ is shorten to /_a_/ when the Bantoc is placed on the final consonant. Thus, as illustrate below, កាក់ 'coin' is transcribed as /_kak_/._
 
-
-        _2a.  The first series vowel ា /_aa_/ is shorten to /_a_/ when the Bantoc is placed on the final consonant. Thus, as illustrate below, កាក់ 'coin' is transcribed as /_kak_/._
-
-
-<table>
+<table width="50%">
   <tr>
    <td colspan="5" ><em>កាក់ ‘coin’</em>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
-   <td><em>character sequence</em>
+   <td width="45%"><em>character sequence</em>
    </td>
    <td><em>ក</em>
    </td>
@@ -4098,8 +4178,6 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    <td><em>ក</em>
    </td>
    <td><em>់</em>
-   </td>
-   <td>
    </td>
   </tr>
   <tr>
@@ -4110,8 +4188,6 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    <td>aa|ie
    </td>
    <td><em>k</em>
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -4127,15 +4203,13 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td><em>series of syllable</em>
    </td>
    <td colspan="2" ><em>1</em>
    </td>
-   <td colspan="3" >
+   <td colspan="2" >
    </td>
   </tr>
   <tr>
@@ -4143,25 +4217,17 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td colspan="4" ><em>/</em>kak<em>/</em>
    </td>
-   <td>
-   </td>
   </tr>
 </table>
 
-
-
-        _2b.  The second series vowel ា /_ie_/ is changed to /_ea_/ when the Bantoc is placed on -ក /-k/, -ង /-ŋ/, -ច /-c/, or -ញ /-ɲ/ as in ទាក់ 'to trap' which is transcribed phonemically as /teak/ (see the illustration of ទាក់ below); and it is changed to /_oa_/ when the Bantoc is placed on any other final consonant as in គាត់ '3S' phonetically transcribed as /_koat_/ (see the illustration of គាត់ below)._
-
-
-<table>
+_2b.  The second series vowel ា /_ie_/ is changed to /_ea_/ when the Bantoc is placed on -ក /-k/, -ង /-ŋ/, -ច /-c/, or -ញ /-ɲ/ as in ទាក់ 'to trap' which is transcribed phonemically as /teak/ (see the illustration of ទាក់ below); and it is changed to /_oa_/ when the Bantoc is placed on any other final consonant as in គាត់ '3S' phonetically transcribed as /_koat_/ (see the illustration of គាត់ below)._
+<table width="50%">
   <tr>
    <td colspan="5" ><em>ទាក់ ‘to trap’</em>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
-   <td><em>character sequence</em>
+   <td width="45%"><em>character sequence</em>
    </td>
    <td><em>ទ</em>
    </td>
@@ -4171,8 +4237,6 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td><em>់</em>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td><em>character mapping</em>
@@ -4182,8 +4246,6 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    <td>aa|ie
    </td>
    <td><em>k</em>
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -4199,15 +4261,13 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td><em>series of syllable</em>
    </td>
    <td colspan="2" ><em>2</em>
    </td>
-   <td colspan="3" >
+   <td colspan="2" >
    </td>
   </tr>
   <tr>
@@ -4215,22 +4275,16 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td colspan="4" ><em>/</em>teak<em>/</em>
    </td>
-   <td>
-   </td>
   </tr>
 </table>
 
-
-
-<table>
+<table width="50%">
   <tr>
    <td colspan="5" ><em>គាត់ ‘3S’</em>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
-   <td><em>character sequence</em>
+   <td width="45%"><em>character sequence</em>
    </td>
    <td><em>គ</em>
    </td>
@@ -4240,8 +4294,6 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td><em>់</em>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td><em>character mapping</em>
@@ -4251,8 +4303,6 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    <td>aa|ie
    </td>
    <td><em>t</em>
-   </td>
-   <td>
    </td>
    <td>
    </td>
@@ -4268,15 +4318,13 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td><em>series of syllable</em>
    </td>
    <td colspan="2" ><em>2</em>
    </td>
-   <td colspan="3" >
+   <td colspan="2" >
    </td>
   </tr>
   <tr>
@@ -4284,30 +4332,26 @@ Sok (2016ː66-68) called this phenomenon “Vowel Modification”. Here is a quo
    </td>
    <td colspan="4" ><em>/</em>koat<em>/</em>
    </td>
-   <td>
-   </td>
   </tr>
 </table>
 
+_Bantoc never occurs after a consonant cluster._
 
-Bantoc never occurs after a consonant cluster.
+_Bantoc is never used in Pali/Sanskrit loanwords._
 
-Bantoc is never used in Pali/Sanskrit loanwords.
+_*   កុហក		/koʔ.hɑk/	‘to tell a lie’ \
+not កុហក់_
+_*   សុគត		/soʔ.kut/	‘to die (royal register)’_
 
+_Note: The combination of ា ង ់ is not allowed in Khmer spelling convention (Kol 2008:33). In cases uəlike that, ាំ ង is used instead._
 
+_*   តាំង 		/taŋ/		‘to exhibit’ \
+not	តាង់_
+_*   ទាំង		/teaŋ/		‘both, all’ \
+not	ទាង់_ 
 
-*   កុហក		/koʔ.hɑk/	‘to tell a lie’ \
-not កុហក់
-*   សុគត		/soʔ.kut/	‘to die (royal register)’
+</blockquote>
 
-Note: The combination of ា ង ់ is not allowed in Khmer spelling convention (Kol 2008:33). In cases uəlike that, ាំ ង is used instead.
-
-
-
-*   តាំង 		/taŋ/		‘to exhibit’ \
-not	តាង់
-*   ទាំង		/teaŋ/		‘both, all’ \
-not	ទាង់
 #### 5.3.3. Robat (​៌)
 
 According to the Khmer-English dictionary, Robat (​៌), which literally means ‘subscript រ (្រ)’; however, it looks like the top part of the consonant (រ), is a diacritical mark which indicates  an orthographic ‘r’ in some words borrowed from Sanskrit. It is never used in Pali loanwords nor Khmer words. It is used in the same way as Repha in Sanskrit, but it is silent in Khmer (i.e. It does not have any audible pronunciation). It also silents the final consonant which has no vowel after it, but when a vowel is attached to the consonant, the consonant should be pronounced as normal.
@@ -4315,9 +4359,7 @@ According to the Khmer-English dictionary, Robat (​៌), which literally means
 Robat is always put on the consonant, but never on a subscript. It may be followed by a vowel. It never occurs after a consonant cluster. No sign or vowel should be put above it.
 
 	គភ៌	/koa/		‘pregnancy’ 
-
 	ធម៌	/tʰoa/		‘Dhama’
-
 	មាគ៌ា	/mie.kie/	‘road, way’
 
 
@@ -4328,33 +4370,76 @@ There is no reference on where Kakabat (​៎) should be placed. In a manual on
 
 Here are some examples of words (from the Choun Nath Dictionary) written with Kakabat.
 
+<table width="100%">
+  <tr>
+    <th width="10%">Khmer</th>
+	<th width="10%">IPA</th>
+    <th width="20%">Character</th>
+    <th width="60%">Gloss</th>
+  </tr>
+  <tr>
+    <td>កូ៎ក ! </td>
+	<td>/kook/</td>
+    <td>ក ូ ៎ ក !</td>
+    <td>	‘sound made to catch others’ attention’</td>
+  </tr>
+  <tr>
+    <td>កូ៎កៗ </td>
+	<td>/kook.kook/</td>
+    <td>ក ូ ៎ ក ៗ</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ណា៎ ! </br> ណ៎ះ[^11]  </br> ហ្ន៎ះ ! </td>
+    <td>/naa/</br>/nah/ </br> /nah/</td>
+	<td>ណ ា ៎ ! </br> ណ ៎ ះ ! </br> ហ ្ន ៎ ះ !</td>
+    <td>‘(affirmation)’</td>
+  </tr>
+  <tr>
+    <td>អឺ៎ះ ! </td>
+	<td>/ʔəəh/</td>
+    <td>អ ឺ ៎ ះ !</td>
+    <td>‘(exclamation denoting surprise)’</td>
+  </tr>
+    <tr>
+    <td>អុ៎ក </td>
+	<td>/ʔok/</td>
+    <td>អ ុ ៎ ក</td>
+    <td>‘to blame’</td>
+  </tr>
+  <tr>
+    <td>អោ៎ ! </td>
+	<td>/ʔao/</td>
+    <td>អ ោ ៎ !</td>
+    <td>‘(exclamation of distress)’</td>
+  </tr>
+  <tr>
+    <td>អ្ហ៊‌ឺ៎ះ ! </td>
+	<td>/ʔhɨh/</td>
+    <td>អ ្ហ ៊ ZWNJ ‍ ឺ ៎ ះ</td>
+    <td>‘(exclamation of when having a burden)’</td>
+  </tr>
+  <tr>
+    <td>ឆា៎ </td>
+	<td>/cʰaa/</td>
+    <td>ឆ ា ៎</td>
+    <td>‘(a word used to refrain in a song)’</td>
+  </tr> 
+</table>
 
 
-*   កូ៎ក !		ក ូ ៎ ក !		/kook/	‘sound made to catch others’ attention’
-*   កូ៎កៗ		ក ូ ៎ ក ៗ		/kook.kook/
-*   ណា៎ !		ណ ា ៎ !		/naa/	‘(affirmation)’ \
-ណ៎ះ[^11] !		ណ ៎ ះ !		/nah/ \
-ហ្ន៎ះ !		ហ ្ន ៎ ះ !		/nah/
 
-
-*   អឺ៎ះ !		អ ឺ ៎ ះ !		/ʔəəh/	‘(exclamation denoting surprise)’
-*   អុ៎ក		អ ុ ៎ ក			/ʔok/	‘to blame’
-*   អោ៎ !		អ ោ ៎ ! 		/ʔao/	‘(exclamation of distress)’
-*   អ្ហ៊‌ឺ៎ះ !		អ ្ហ ៊ ZWNJ ‍ ឺ ៎ ះ	/ʔhɨh/	‘(exclamation of when having a burden)’
-*   ឆា៎		ឆ ា ៎			/cʰaa/	‘(a word used to refrain in a song)’
 #### 5.3.5. Ahsda (​៏)
 
 Ahsda (​៏)  is restrictedly used on five consonants: ក ដ ន ម ហ. They are pronounced with their respective inherent vowel. It is used to disambiguate the single character words
 
-ក៏	/kɑɑ/		‘also’
-
-ដ៏	/ɗɑɑ/		‘so, very’
-
-ន៏	/nɑɑ/		‘(usually used with នុ៎ះ)’
-
-ម៏	/mɔɔ/		‘to come (colloquial)’
-
-ហ៏ 	/hɑɑ/		‘(say this when passing something to someone)’
+Khmer | IPA | Gloss
+-- | -- | --
+ក៏ | /kɑɑ/ | ‘also’
+ដ៏ | /ɗɑɑ/ | ‘so, very’
+ន៏ | /nɑɑ/ | ‘(usually used with នុ៎ះ)’
+ម៏ | /mɔɔ/ |	‘to come (colloquial)’
+ហ៏ | /hɑɑ/ | ‘(say this when passing something to someone)’
 
 Ahsda never occurs after a consonant cluster.
 
@@ -4364,13 +4449,12 @@ There is only one occurence of when Ahsda is placed after a dependent vowelː �
 
 #### 5.3.6. Samyok Sannya (​័)
 
-Samyok Sannya (​័) is usually placed after a consonant, a subscript or after a consonant shifter. 
-
-	ជ័រ	ជ ័ រ		/coa/		‘rubber’
-
-	ប៉័ង	ប ៉ ័ ង	/paŋ/		‘bread’
-
-	ត្រ័យ	ត ្រ ័ យ	/traj/		‘threefold’
+Samyok Sannya (​័) is usually placed after a consonant, a subscript or after a consonant shifter. \
+Khmer | Character | IPA | Gloss
+-- | -- | -- | --
+ជ័រ |	ជ ័ រ | /coa/ | ‘rubber’
+ប៉័ង | ប ៉ ័ ង | /paŋ/ | ‘bread’
+ត្រ័យ | ត ្រ ័ យ | /traj/ | ‘threefold’
 
 Samyok Sannya is equivalent with vowel /a/ when the consonant preceding it is in the 1st series, but it can realize as /ea/, /e/ or /oa/ in other environments. 
 
@@ -4445,13 +4529,12 @@ Samyok Sannya is equivalent with vowel /a/ when the consonant preceding it is in
 
 Samyok Sannya (​័) in the present-day Khmer has another phonetic property, it is [əə]. Most words borrowed from English with the rhotacization at the end usually are transliterated into a consonant with Samyok.
 
-ម៉ាស្ទ័រ	ម ៉ ា ស ្ទ ័ រ		/maa.stəə/		‘master’
-
-កុំព្យូទ័រ	ក ុំ ព ្យ ូ ទ ័ រ	/kom.pjuu.təə/		‘computer’
-
-កុងទ័រ	ក ុ ង ទ ័ រ		/koŋ.təə/		‘counter’
-
-គូល័រ	គ ូ ល ័ រ		/kuu.ləə/		‘color’
+Khmer | Character | IPA | Gloss 
+-- | -- | -- | -- 
+ម៉ាស្ទ័រ | ម ៉ ា ស ្ទ ័ រ | /maa.stəə/ | ‘master’
+កុំព្យូទ័រ | ក ុំ ព ្យ ូ ទ ័ រ | /kom.pjuu.təə/ | ‘computer’
+កុងទ័រ | ក ុ ង ទ ័ រ | /koŋ.təə/ | ‘counter’
+គូល័រ | គ ូ ល ័ រ | /kuu.ləə/ | ‘color’
 
 
 
@@ -4464,31 +4547,36 @@ Examples of words with Toandakhiat placed:
 
 
 *   after a subscript and a vowel:
-    *   កិរ្តិ៍		ក ិ រ ្ត ិ ៍			/kee/ ‘reputation’ \
-កេរ្តិ៍		ក េ រ ្ត ិ ៍
-    *   ប៉ុស្តិ៍		ប ៉ ុ ស ្ត ិ ៍			/poh/ ‘post office’
-    *   ប្រសិទ្ធិ៍		ប ្រ ស ិ ទ ្ធ ិ ៍		/prɑ.sət/ ‘a place name’
-    *   រាមកិរ្តិ៍		រ ា ម ក ិ រ ្ត ិ ៍		/riem.kee/ ‘Ramayanak’
-    *   សួស្តិ៍		ស ួ ស ្ត ិ ៍			/suah/ ‘glory’
+Khmer | Character | IPA | Gloss 
+-- | -- | -- | -- 
+កិរ្តិ៍ </br> កេរ្តិ៍	 | ក ិ រ ្ត ិ ៍  </br> ក េ រ ្ត ិ ៍ | /kee/ | ‘reputation’ 
+ប៉ុស្តិ៍ | ប ៉ ុ ស ្ត ិ ៍ | /poh/ | ‘post office’
+ប្រសិទ្ធិ៍ | ប ្រ ស ិ ទ ្ធ ិ ៍ | /prɑ.sət/ | ‘a place name’
+រាមកិរ្តិ៍ | រ ា ម ក ិ រ ្ត ិ ៍ | /riem.kee/ | ‘Ramayanak’
+សួស្តិ៍ | ស ួ ស ្ត ិ ៍ | /suah/ | ‘glory’
 *   after a consonant and vowel ិ 
-*   កឡោបិ៍		ក ឡ ោ ប ិ ៍			/kaʔ.laop/ ‘a kind of basket’
-*   តែនតិ៍		ត ែ ន ត ិ ៍			/taen/ ‘tent’
-*   ទីបេតិ៍		ទ ី ប េ ត ិ ៍			/tii.ɓee/ ‘Tibet mount’
-*   នាំអាទិ៍		ន ាំ អ ា ទ ិ ៍			/noam.ʔaat/ ‘to initiate’
-*   ពោធិ៍		ព ោ ធ ិ ៍			/poo/ ‘banyan’
-*   ពោធិ៍ធំ		ព ោ ធ ិ ៍ ធ ំ			/poo.tʰum/ ‘a kind of plant’
-*   ពោធិ៍ធ្លេ		ព ោ ធ ិ ៍ ធ ្ល េ		/poo.tlee/ ‘a kind of plant’
-*   ពោធិ៍បាយ	ព ោ ធ ិ ៍ ប ា យ		/poo.ɓaaj/ ‘a kind of banyan tree’
-*   ពោធិ៍សាត់	ព ោ ធ ិ ៍ ស ា ត ់		/poo.sat/ ‘Pursat province’
-*   ព្យាធិ៍		ព ្យ ា ធ ិ ៍			/pjie/ ‘leprosy’
-*   ព្រហស្បតិ៍	ព ្រ ហ ស ្ប ត ិ ៍		/prɔ.hoah/ ‘Thursday’
-*   វាទអាទិ៍		វ ា ទ អ ា ទ ិ ៍		/wiet.ʔaat/ ‘to try to gain power’
-*   សកវាទិ៍		ស ក វ ា ទ ិ ៍			/sak.kak.waa/	‘’
-*   ស្មាធិ៍		ស ្ម ា ធ ិ ៍			/smaat/	 ‘meditate’
-*   ស្លឹកពោធិ៍	ស ្ល ឹ ក ព ោ ធ ិ ៍		/slək.poo/ ‘banyan leaf’
+Khmer | Character | IPA | Gloss 
+-- | -- | -- | -- 
+កឡោបិ៍ | ក ឡ ោ ប ិ ៍ | /kaʔ.laop/ | ‘a kind of basket’
+តែនតិ៍ | ត ែ ន ត ិ ៍ | /taen/ | ‘tent’
+ទីបេតិ៍ | ទ ី ប េ ត ិ ៍ | /tii.ɓee/ |  ‘Tibet mount’
+នាំអាទិ៍ | ន ាំ អ ា ទ ិ ៍ | /noam.ʔaat/ |  ‘to initiate’
+ពោធិ៍ | ព ោ ធ ិ ៍ | /poo/ |  ‘banyan’
+ពោធិ៍ធំ | ព ោ ធ ិ ៍ ធ ំ | /poo.tʰum/ |  ‘a kind of plant’
+ពោធិ៍ធ្លេ | ព ោ ធ ិ ៍ ធ ្ល េ | /poo.tlee/ |  ‘a kind of plant’
+ពោធិ៍បាយ | ព ោ ធ ិ ៍ ប ា យ | /poo.ɓaaj/ |  ‘a kind of banyan tree’
+ពោធិ៍សាត់ | ព ោ ធ ិ ៍ ស ា ត ់ | /poo.sat/ |  ‘Pursat province’
+ព្យាធិ៍ | ព ្យ ា ធ ិ ៍ | /pjie/ |  ‘leprosy’
+ព្រហស្បតិ៍ | ព ្រ ហ ស ្ប ត ិ ៍ | /prɔ.hoah/ |  ‘Thursday’
+វាទអាទិ៍ | វ ា ទ អ ា ទ ិ ៍ | /wiet.ʔaat/ |  ‘to try to gain power’
+សកវាទិ៍ | ស ក វ ា ទ ិ ៍ | /sak.kak.waa/ | 	‘’
+ស្មាធិ៍ | ស ្ម ា ធ ិ ៍ | /smaat/ | ‘meditate’
+ស្លឹកពោធិ៍ | ស ្ល ឹ ក ព ោ ធ ិ ៍ | /slək.poo/ | ‘banyan leaf’
 *   after ុ 
-    *   រាហុ៍		រ ា ហ ុ ៍			/rie/ ‘name of a giant’
-    *   ចារុ៍		ច ា រ ុ ៍			/caa/ ‘small tubes made of gold’
+Khmer | Character | IPA | Gloss 
+-- | -- | -- | -- 
+រាហុ៍ | រ ា ហ ុ ៍ | /rie/ | ‘name of a giant’
+ចារុ៍ | ច ា រ ុ ៍ | /caa/ | ‘small tubes made of gold’
 
 It should be rendered right on the consonant. It has never seen being used with any other vowel besides the ones mentioned above.
 
@@ -5299,13 +5387,7 @@ Khmer months of the year is used in fortune telling and they have their own nume
   </tr>
 </table>
 
-
-
-
 ## 6. Ligatures <a name="6"></a>
-
-
-
 ### 6.1. Consonant and Vowel Combination
 Khin (2007:41) illustrates the anatomy of Khmer consonants and how Khmer characters should be written. There are three levels to consider: (1) the top level is reserved for a vowel, Consonant Shifters and/or a diacritic, (2) the middle level is for consonants and (3) the bottom level is for subscripts and/or a vowel (see the image below). In level (1), if a vowel and a diacritic occur together, the diacritic stay above the vowel (i.e. អឺ៎), but if the diacritic is a Triisap, the vowel should be placed above the Triisap (i.e. អ៊‌ីត). In level (3), if a subscript is used with a Below Vowel[^13], the Below vowel should be placed right below the subscript (i.e. ស្ដុក). 
 
@@ -5648,24 +5730,17 @@ Here is what we propose.
 
 Partial clusters defined:
 
-
-    **Base: BaseCommon | BaseOther**
-
-
-    **VowelGroup: (Z + AbvV) | PreV | BlwV | PstV**
-
-
-    **CoengGroup: Coeng + Base**
+    Base: BaseCommon | BaseOther
+    VowelGroup: (Z + AbvV) | PreV | BlwV | PstV
+    CoengGroup: Coeng + Base
 
 Robat/Ahsda cluster defined:
 
-
-    **Base [Robat | Ahsda] [PreV | BlwV | PstV] [PstS]**
+    Base [Robat | Ahsda] [PreV | BlwV | PstV] [PstS]
 
 General cluster defined:
 
-
-    **Base {CoengGroup} [RegShift] [VowelGroup] [AbvS] [PstS | CoengGroup]**
+    Base {CoengGroup} [RegShift] [VowelGroup] [AbvS] [PstS | CoengGroup]
 
 Independent Cluster: All Khmer characters not classified above are considered clusters by themselves.
 
@@ -5678,6 +5753,9 @@ Restrictions: Here are some restrictions in the present day Khmer which have bee
 *   allows Coeng Ro only as the last Coeng when there are two subscripts in a row and one of which is a Coeng Ro,
 *   allows at most two subscripts in a syllable, and
 *   allows at most one vowel, and at most one above-base and one post-base sign.	
+
+
+
 ### 7.3. Character Distribution in an Orthographic Syllable
 
 Reahmuk (ះ), Nikahit (ំ), Yuukaleapintu (ៈ), Toandakhiat (៍), Ahsda (៏) and Bantoc (់) always occurs at the syllable final position. They can be considered as orthographic syllable boundary.  
@@ -5687,10 +5765,8 @@ Not any character can be weaved together with another one. An independent vowel 
 The table below illustrates which character can be placed after another in the same orthographic syllable. “v” denotes that characters in the top row (1) can follow those in the left most column (2), “x” 1 can't follow 2, and “v'” 1 can follow 2 in theory in the same syllable.
 
 
-<table>
-  <tr>
-   <td><strong>​             ​        1</strong>
-<p>
+<table width="100%">
+  <tr> <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>​1</strong> </br>
 <strong>2</strong>
    </td>
    <td><strong>Cons</strong>
@@ -5705,9 +5781,7 @@ The table below illustrates which character can be placed after another in the s
    </td>
    <td><strong>V</strong>
    </td>
-   <td><strong>Samyok</strong>
-<p>
-<strong>Sannya</strong>
+   <td><strong>Samyok Sannya</strong>
    </td>
    <td><strong>Kakabat</strong>
    </td>
@@ -5715,7 +5789,7 @@ The table below illustrates which character can be placed after another in the s
   <tr>
    <td><strong>Cons</strong>
    </td>
-   <td>x
+   <td bgcolor="#f4aa42">x
    </td>
    <td>x
    </td>
@@ -5737,7 +5811,7 @@ The table below illustrates which character can be placed after another in the s
    </td>
    <td>x
    </td>
-   <td>x
+   <td bgcolor="#f4aa42">x
    </td>
    <td>v'
    </td>
@@ -5759,7 +5833,7 @@ The table below illustrates which character can be placed after another in the s
    </td>
    <td>v'
    </td>
-   <td>x
+   <td bgcolor="#f4aa42">x
    </td>
    <td>x
    </td>
@@ -5781,7 +5855,7 @@ The table below illustrates which character can be placed after another in the s
    </td>
    <td>x
    </td>
-   <td>x
+   <td bgcolor="#f4aa42">x
    </td>
    <td>x
    </td>
@@ -5803,7 +5877,7 @@ The table below illustrates which character can be placed after another in the s
    </td>
    <td>x
    </td>
-   <td>x
+   <td bgcolor="#f4aa42">x
    </td>
    <td>x
    </td>
@@ -5825,7 +5899,7 @@ The table below illustrates which character can be placed after another in the s
    </td>
    <td>v
    </td>
-   <td>x
+   <td bgcolor="#f4aa42">x
    </td>
    <td>x
    </td>
@@ -5847,7 +5921,7 @@ The table below illustrates which character can be placed after another in the s
    </td>
    <td>x
    </td>
-   <td>x
+   <td bgcolor="#f4aa42">x
    </td>
    <td>x
    </td>
@@ -5869,7 +5943,7 @@ The table below illustrates which character can be placed after another in the s
    </td>
    <td>v'
    </td>
-   <td>x
+   <td bgcolor="#f4aa42">x
    </td>
   </tr>
   <tr>
@@ -5996,12 +6070,9 @@ The table below illustrates which character can be placed after another in the s
 
 
 
-
 ### 7.4. Rendering Issues
 
 According to Horton et al. (2017), there are at least eight cases of rendering issues in Khmer Unicode implementation. These eight issues lead to other problem for the end users and developers.
-
-
 
 *   **Confusability**: users are not able to make a sound judgement on which is the right way to type a word. Oftentimes, different sequences of the same characters are shown up exactly the same on the screen.
 *   **Vulnerability**: users can be spoofed and taken advantage of. 
@@ -6010,24 +6081,20 @@ According to Horton et al. (2017), there are at least eight cases of rendering i
 
 The following sections list the issues one by one. The examples are adopted from the paper (Horton et al. 2017). The rendered text were done in Google Chrome 58.0 and Android 6.0.1.
 
-
-
 #### 7.4.1. Subscript and Vowel Concatenation
 
 This is a case of when a “subscript” and a “vowel” are combined. Typing either one before another does not make any difference in the visual output on the screen, but it is invalid to place a Vowel before a Subscript. 
 
-
-
 *   Subscript + Vowel	ខ ្ម ែ រ 	> ខ្មែរ 	‘Khmer’
 *    Vowel + Subscript	ខ ែ ្ម រ 	> ខែ្មរ	**invalid sequence**
+
 #### 7.4.2. Concatenation of Two Subscripts
 
 This is a case of when having two subscripts after a base consonant, and one of the subscript is [U+17D2 U+179A] ្ត. Placing either subscript before another would have the same visual output. 
 
-
-
 *   Subscript + [U+17D2 U+179A]		ស ្ត ្រ ី 	> ស្ត្រី	‘woman’
 *   [U+17D2 U+179A] + Subscript		ស ្រ ្ត ី	> ស្រ្តី 	**invalid sequence**
+
 #### 7.4.3. Concatenation of a Subscript and a Consonant Shifter
 
 This is a case of combining a subscript with a consonant shifter. The Khmer spelling convention (Kol 2008:28-32) does not mention which one should come first, but Open Forum of Cambodia (2004:11) claims that the consonant shifter should always come after the subscript. 
@@ -6036,6 +6103,7 @@ This is a case of combining a subscript with a consonant shifter. The Khmer spel
 
 *   Subscript + Consonant Shifter		ម ្យ ៉ ា ង 	> ម្យ៉ាង 	‘one way’ 
 *   Consonant shifter + Subscript		ម ៉ ្យ ា ង	> ម៉្យាង	**invalid sequence**
+
 #### 7.4.4. Concatenation of A Consonant Shifter and a Vowel
 
 This is a special case of Khmer text rendering. The consonant shifter, either ៊ [U+17CA] or ៉ [U+17C9], has to be rendered as a glyph that looks like ុ , when there is an above vowel attached to it (See 
@@ -6044,8 +6112,6 @@ This is a special case of Khmer text rendering. The consonant shifter, either �
 
 [Special Treatment on Consonant Shifters](#heading=h.p5qypot06j09)).
 
-
-
 *   Consonant Shifter (​៊) + Above vowel	ស ៊ ី		> ស៊ី	‘to eat (vulgar)’ 
 *   Above vowel + Below vowel		ស ី ុ 		> សុី 	**invalid sequence**
 *   Below vowel + Above vowel		ស ុ ី 		> សុី 	**invalid sequence**
@@ -6053,23 +6119,18 @@ This is a special case of Khmer text rendering. The consonant shifter, either �
 
 The last example is considered as incorrect rather than invalid because the character sequence is valid, but according to the usage of Muusikatoan (​៉) it cannot be used with the 1st series consonants.
 
-
-
 #### 7.4.5. Vowels of Two Unicode Code Points
 
 This is one of the most common confusing character sequences. Which should come first is not a concern among users though because, like other issue, the output on the screen does not look any different.
-
-
 
 *   [U+17BB] [U+17C6]		ក ុ ំ		> កុំ	‘don’t’ 
 *   [U+17C6] [U+17BB]		ក ំ ុ		> កំុ	**invalid sequence**
 *   [U+17B6] [U+17C6]		ច ា ំ		> ចាំ 	‘to wait’
 *   [U+17C6] [U+17B6]		ច ំ ា		> ចំា	**invalid sequence**
+
 #### 7.4.6. One Unicode Code Point
 
 ោ [U+17C4] can be confused with a combination of េ [U+17C1] and ា [U+17B6] because the outputs of the three encoding on the screen look the same.
-
-
 
 *   [U+17C4]			ល ោ ក	> លោក	‘Mr.’ 
 *   [U+17C1] [U+17B6]		ល េ ា ក	> លេាក 		**invalid sequence**
@@ -6077,20 +6138,19 @@ This is one of the most common confusing character sequences. Which should come 
 
 Similarly, ើ [U+17BE] can be confused with a combination of េ [U+17C1] and ី [U+17B8].
 
-
-
 *   [U+17BE] 			ប ើ		> បើ	‘if’	
 *   [U+17C1] [U+17B8]		ប េ ី		> បេី	**invalid sequence**
 *   [U+17B8] [U+17C1]		ប ី េ		 > បីេ	**invalid sequence**
+
 #### 7.4.7. Similar Subscripts
 
 This is the case of identical subscript. The users do not see any different in the outlook of these two.
 
-
-
 *   [U+17D2] [U+178A]		ក ណ ្ដ ា ល	> កណ្ដាល 	‘Kandal province’
 *   [U+17D2] [U+178F]		ក ណ ្ដ ា ល	> កណ្តាល	**incorrect sequence**
+
 #### 7.4.8. Spaces and Joiners
+
 *   Zero Width Space is an invisible space (i.e. no width) which is usually put in between words in a sentence. It is helpful for text processing tools because it tells where the word boundaries are (Open Forum of Cambodia 2004:16-17).
 *   Zero Width non-Joiner can be inserted before consonant shifters in order to prevent them from being rendered as subscript (​ុ), and it can also be inserted directly before vowels in order to prevent the formation of ligatures between the base character and the vowel. (Kanjahn 2012:3).
 *   Zero Width Joiner can also be used before vowels to force a ligature between above vowels (see the section on **
@@ -6098,14 +6158,14 @@ This is the case of identical subscript. The users do not see any different in t
 <p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Special Treatment of Consonant Shifters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Special Treatment of Consonant Shifters](#heading=h.jowrd5ecyj4r)**) and certain consonants.
+
 ## 8. Text Processing <a name="8"></a>
+
 ### 8.1. Keyboard
 
 Below is the standard key arrangement approved by the National ICT Development Authority (NiDA). There keyboard layout is divided into three layers: (1) the main layer, (2) the Shift layer and (3) the AltGr layer. A normal press on any key could output the character on the main layer. To output the character on Shift layer or AltGr layer, press and hold the Shift or AltGr key and then press any key of the expected character. Here is a list of character on each layer:
 
 (1) the main layer
-
-
 
 *   first row: « ១ ២ ៣ ៤ ៥ ៦ ៧ ៨ ៩ ០ ឥ ឲ ឮ
 *   second row: ឆ ឹ េ រ ត យ ុ ិ ោ ផ ៀ ឪ 
@@ -6114,16 +6174,12 @@ Below is the standard key arrangement approved by the National ICT Development A
 
 (2) the Shift layer
 
-
-
 *   first row: » ! ៗ “ ៛ % ៍ ័ ៏ ( ) ៌ = ឭ
 *   second row: ឈ ឺ ែ ឬ ទ ួ ូ ី ៅ ភ ឿ ឧ
 *   third row: ាំ ៃ ឌ ធ អ ះ ញ គ ឡ ោះ ៉
 *   fourth row: ឍ ឃ ជ េះ ព ណ ំ ុះ ៕ ?
 
 (3) the AltGr layer
-
-
 
 *   first row: ‍‌zwj zwnj @​ ៑ $ € ៙ ៚ * { } × ៎ \
 *   second row: ឯ ឫ ឦ ឱ ឰ ឩ ឳ
@@ -6142,34 +6198,23 @@ Here is how the layout looks:
 
 For smartphone, there is no standard keyboard layout in place when it comes to the number of rows on each layer and the number of characters on each row. However, most keyboards use 4x10 on each layer, meaning 4 rows and 10 characters on each row.
 
-
-
 ### 8.2. Sorting
 
 The Royal Academy of Cambodia was approached and asked for advice regarding the sorting in Khmer. It turns out that there is no documentation related to this topic that could help. The Choun Nath dictionary seems to deploy two ways of sorting: (1) alphabetical order of characters and (2) alphabetical order of sounds. You may find words written with similar initial consonant sounds listed next to another. For instance, words begin with independent vowel ឫ are listed after the consonant រ which sounds similar to the independent vowel. A paper done by PAN localization[^16](nd) entitled “Khmer Collation Development” suggests a solution that the sorting used in the Chuon Nath dictionary has to be adapted. Chuon Nath dictionary sorts entries based on they are pronounced, not the spelling. For instance, បង់ [U+1794 U+1784 U+17CB] is listed before បកតិ [U+1794 U+1780 U+178F U+17B7] even though the second character of the second word (i.e. ក [U+1780]) appears before that of the first word (i.e. ង [U+1784]) in the alphabet chart.
-
-
 
 ### 8.3. Fonts 
 
 Khmer typefaces have changed significantly since the 6th century. The following image shows how Khmer consonants evolved over time as quoted by Scheuren (2010:8) from Maspero (1915:48).
 
-
-
 <p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character17.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
 ![alt_text](images/Khmer-Character17.png "image_tooltip")
-
-
-
 
 #### 8.3.1. Font Style
 
 According to Scheuren (ibid:9-10) there are three main types of Khmer font styles: (a) មូល Mool ‘lit. round’, (b) ជ្រៀង Chrieng ‘lit. slanted’ and (c) Upright which is the standing version of Chrieng. Mool style was commonly found in inscriptions, while Chrieng was used in palm-leaf manuscript (a.k.a. Sastra) which existed before the printing types introduced in 1877. 
 
 To date, the Mool style is usually used in banners and titles of books or articles; while the Upright, the standing Chrieng, is of everyday uses. The table below shows how the three styles look.
-
 
 <table>
   <tr>
@@ -6178,7 +6223,6 @@ To date, the Mool style is usually used in banners and titles of books or articl
    <td>
 
 <p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character18.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/Khmer-Character18.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -6191,7 +6235,6 @@ To date, the Mool style is usually used in banners and titles of books or articl
 
 <p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character19.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
 <img src="images/Khmer-Character19.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -6203,22 +6246,17 @@ To date, the Mool style is usually used in banners and titles of books or articl
 
 <p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character20.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
 <img src="images/Khmer-Character20.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
 </table>
 
-
-
-
 #### 8.3.2. Font Rendering 
 
 Khmer font rendering is complex because characters are not rendered in a linear order. Vowels are not always found after the base consonant. They can go to the left, right, above, below or even around the base. Similarly, subscripts can be rendered to the left, right or below the base. These make it confusing to the users as to what should be typed when and placed where.
 
 Lists of vowel according to their positions when collating with the base are shown in the table below. 
-
 
 <table>
   <tr>
@@ -6285,101 +6323,91 @@ Lists of vowel according to their positions when collating with the base are sho
   </tr>
 </table>
 
-
 Here is a list of subscripts and where they should be rendered in their respective categories.
 
-
-<table>
+<table width="50%">
   <tr>
-   <td><strong>left</strong>
-   </td>
-   <td colspan="3" ><strong>below</strong>
-   </td>
-   <td><strong>right</strong>
-   </td>
+   <th>left
+   </th>
+   <th colspan="3">below
+   </th>
+   <th>right
+   </th>
   </tr>
   <tr>
    <td>្រ
    </td>
-   <td>្ក
-<p>
+   <td>្ក </br>
 ្ខ
-<p>
+</br>
 ្គ
-<p>
+</br>
 ្ង
-<p>
+</br>
 ្ច
-<p>
+</br>
 ្ឆ
-<p>
+</br>
 ្ជ
-<p>
+</br>
 ្ញ
    </td>
    <td>្ដ
-<p>
+</br>
 ្ឋ
-<p>
+</br>
 ្ឌ
-<p>
+</br>
 ្ណ
-<p>
+</br>
 ្ត
-<p>
+</br>
 ្ថ
-<p>
+</br>
 ្ទ
-<p>
+</br>
 ្ធ
    </td>
    <td>្ន
-<p>
+</br>
 ្ផ
-<p>
+</br>
 ្ព
-<p>
+</br>
 ្ភ
-<p>
+</br>
 ្ម
-<p>
+</br>
 ្ល
-<p>
+</br>
 ្វ
-<p>
+</br>
 ្ហ
-<p>
+</br>
 ្អ
    </td>
    <td>្ឃ
-<p>
+</br>
 ្ឈ
-<p>
+</br>
 ្ឍ
-<p>
+</br>
 ្ប
-<p>
+</br>
 ្យ
-<p>
+</br>
 ្ស
    </td>
   </tr>
 </table>
 
-
-
-
 ### 8.4. Diacritic Position
 
 All diacritics are placed on top of the base: ៉ ៊ ់ ៌ ៍ ័ ៏ ៎ ៝. Only one diacritic is usually found on a consonant in a syllable, except ‘a Consonant Shifter + Samyok Sannya’. There is also a common occurence of a consonant shifter with Nikahit “Consonant Shifter + Nikahit,” but be aware that Nikahit functions as a vowel in that environment, despites its name.
 
-
-
 ## 9. Application of Khmer Script to Other Languages <a name="9"></a>
 
 Khmer alphabet is not only used to write Khmer language, but it  is also used to write at least six ethnic minority languages (i.e. Bunong, Tampuan, Brao, Krung, Jarai and Kuay) and two dead languages (i.e. Pali and Sanskrit). Each language requires unique syllable configuration and character sequences. This section describes the two main points in each language:
-
-
 
 *   a list of consonants, subscripts, vowels, diacritics, symbols and punctuations if applicable
 *   how the writing system is different from Khmer
@@ -6392,18 +6420,13 @@ See
 
 The following sections has a list of characters used in each ethnic minority language if the form of table where the orthographic characters are in the first row, phonemic representations corresponding with the orthographic characters in the second row and the unicode code points in the third row.
 
-
-
 ### 9.1. Bunong
 
 According to the Bunong-Khmer Bilingual Dictionary​ (2011:ទ-ន), 53 Khmer characters are used in writing Bunong. 
 
-
-
 #### 9.1.1. Bunong Consonants
 
 There are 28 orthographic consonants in Bunong. យ្ស /ç/ and ស /h/ always occurs at the final position. 
-
 
 <table>
   <tr>
@@ -6473,8 +6496,6 @@ There are 28 orthographic consonants in Bunong. យ្ស /ç/ and ស /h/ alway
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -6549,8 +6570,6 @@ U+179F
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ល
@@ -6616,13 +6635,9 @@ U+179C
   </tr>
 </table>
 
-
-
-
 #### 9.1.2. Bunong Subscripts
 
 ្អ [U+17D2 U+17A2] is not listed in the table because it is used not in the Bunong Khmer Dictionary, however, it is used by some speakers.
-
 
 <table>
   <tr>
@@ -6672,9 +6687,6 @@ U+17A0
    </td>
   </tr>
 </table>
-
-
-
 
 #### 9.1.3. Bunong Vowels
 
@@ -6748,8 +6760,6 @@ U+17A0
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ែ
@@ -6789,14 +6799,11 @@ U+17A0
   </tr>
 </table>
 
-
 ៀ /iᵊ/ [U+17C0] is used in certain words borrowed from Khmer.
 
 ៃ /ăj/ [17C3] and ៅ /ăw/ [U+17C5] are phonological compounds of a vowel and a consonant.
 
 Bunong does not have an inherent vowel.
-
-
 
 #### 9.1.4. Bunong Additional Vowels
 
@@ -6879,13 +6886,9 @@ U+17CB
 
 ឿ /ɨᵊ/ [U+17BF] is used in certain words borrowed from Khmer.
 
-
-
 #### 9.1.5. Bunong Symbols and Punctuation
 
 In Bunong writing, four symbols are used in the same way as those of Khmer language(i.e. ៗ ។ ៕ and ៖) and other which are borrowed.
-
-
 
 #### 9.1.6. How is the writing system different from Khmer?
 *   The use of two Khmer obsolete characters: 
@@ -6896,11 +6899,10 @@ In Bunong writing, four symbols are used in the same way as those of Khmer langu
 *   ៝ [U+17DD] behaves like a vowel, and it can be followed by a final consonant with or without ់ as in គ៝ង (គ ៝ ង) /gɔŋ/ ‘k.o. gong’ and គ៝ង់ (គ ៝ ង ់) /gɔ̆ŋ/ ‘to roast’. 
 *   Sequences uniquely used in Bungong (i.e. ប្ហ្យៅ, ប្ហ្វៃ, អ្យ្រ៝ស).
 *   The writing system does not follow the Khmer two series system where one vowel symbol can represent two sounds, depending on which consonant series precedes it. In Bunong, each vowel symbol represents only one sound in every instance.
+
 ### 9.2. Tampuan
 
 The number of consonants and vowels in the Tampuan Alphabet book (Pech 2006) and the Tampuan-Khmer Dictionary (Muang 2012) varies. The first lists 30 consonants and 27 vowels. The latter lists 29 consonants and 28 vowels. The following details are adapted from the Tampuan Alphabet book (ibid), the Tampuan-Khmer dictionary (ibid) and other documents obtained from SIL members.
-
-
 
 #### 9.2.1. Tampuan Consonants
 
@@ -6974,8 +6976,6 @@ The number of consonants and vowels in the Tampuan Alphabet book (Pech 2006) and
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ណ
@@ -7044,8 +7044,6 @@ The number of consonants and vowels in the Tampuan Alphabet book (Pech 2006) and
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -7120,8 +7118,6 @@ U+1799
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ច្យ
@@ -7151,10 +7147,7 @@ U+1789
   </tr>
 </table>
 
-
 “Tampuan Khmer English Dictionary with English Khmer Tampuan Glossary” (2007)​ uses /ñ/ instead of /ɲ/ for ញ [U+1789] and /d/ instead of /ʔd/ for ដ [U+178A] and ឌ [U+178C].
-
-
 
 #### 9.2.2. Tampuan Subscripts
 
@@ -7240,12 +7233,9 @@ U+179C
   </tr>
 </table>
 
-
 ្ង [U+17D2 U+1784] and ្ញ [U+17D2 U+1789] are used to write proper names only. They do not usually used in common Tampuan words.
 
 ្គ [U+17D2 U+1782] only occurs word finally under វ and យ.
-
-
 
 #### 9.2.3. Tampuan Vowels
 
@@ -7336,8 +7326,6 @@ N/A
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -7431,8 +7419,6 @@ U+17C6
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -7531,33 +7517,29 @@ U+17C7
   </tr>
 </table>
 
-
 ែះ exists in the Tampuan-Khmer dictionary (ibid), but not in the Tampuan alphabet book (ibid). One of the reference documents states that ែះ is not used.
 
 The empty cell in the first column of the first vowel table above is the inherent vowel. 
-
-
 
 #### 9.2.4. Tampuan Diacritics
 
 The Tampuan Alphabet book (ibid) illustrates examples of the usage of ៉ (U+17C9) and ៊ (U+17CA). They are used to change the series of the consonant.
 
-
-
 *   ប៉ ម៉ ង៉ យ៉ រ៉ វ៉ ញ៉
 *   ស៊ ហ៊ ប៊ អ៊
+
 #### 9.2.5. How is the writing system different from Khmer?
+
 *   The ័ [U+17D0] symbol indicates that the main vowel is pronounced with a breathy phonation. The symbol only ever occurs word finally. It is only used in situations where the vowel would otherwise be tense. In most cases a second series consonant will indicate breathy phonation on the following vowel too. It should be noted that the ័ is supposed to stand at the word boundary​ (i.e. usually on the final consonant), but since there is restriction in the Khmer Unicode character ordering when combining ះ [U+17C7] with ័ , it has to be encoded before the vowel. If placing ័ after ះ , the text would not look right (i.e. the dotted circle appears in between the two characters). 
 *   Only nine consonants have subscript forms.
 *   ៉ [U+17C9] is used with clusters like ប្រ ប្ល to indicate that ប sounds [p], not [b]. Therefore, ប្រ is [br] and ប្រ៉ is [pr]; ប្ល is [bl] and ប្ល៉ is [pl].
 *   ់ can be put on any final consonant. It does not have the same restriction as in Khmer.
 *   A white space is used in between each word to denote a word boundary.
 *   Subscript ្វ [U+17D2 U+179C] is placed after subscript ្រ [U+17D2 U+179A]. 
+
 ### 9.3. Brao
 
 The following is the character inventory of Brao language (a.k.a. Brao Ombaa). There are 36 consonants, 2 subscripts, 19 vowels and 5 diacritics.
-
-
 
 #### 9.3.1. Brao Consonants
 
@@ -7631,8 +7613,6 @@ The following is the character inventory of Brao language (a.k.a. Brao Ombaa). T
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ដ
@@ -7701,8 +7681,6 @@ The following is the character inventory of Brao language (a.k.a. Brao Ombaa). T
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -7773,8 +7751,6 @@ The following is the character inventory of Brao language (a.k.a. Brao Ombaa). T
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ហ
@@ -7824,9 +7800,6 @@ U+1799
   </tr>
 </table>
 
-
-
-
 #### 9.3.2. Brao Subscripts
 
 <table>
@@ -7850,9 +7823,6 @@ U+1799
    </td>
   </tr>
 </table>
-
-
-
 
 #### 9.3.3. Brao Vowels
 
@@ -7948,8 +7918,6 @@ N/A
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ៀ
@@ -8037,8 +8005,6 @@ U+17C6
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ាំង
@@ -8059,9 +8025,6 @@ U+1784
    </td>
   </tr>
 </table>
-
-
-
 
 #### 9.3.4. Brao Diacritics
 
@@ -8093,9 +8056,6 @@ U+1784
   </tr>
 </table>
 
-
-
-
 #### 9.3.5. How is the writing system different from Khmer?
 *   Two obsolete  characters (i.e. ឝ and ឞ) are used as consonants. 
 *   Only two subscripts are used in Brao.
@@ -8103,16 +8063,14 @@ U+1784
 *   ់ is placed on any final consonant whose vowel (either /aa/ and /ɔɔ/) before it is shortened.
 *   A white space is used in between each word to denote a word boundary.
 *   ៎ lengthens the vowel in the /ɔɔh/ sequence. 
+
 ### 9.4. Krung
 
 In Krung language, there are 33 consonants, 6 subscripts, 16 vowels and 3 diacritics. Krung series system mostly conforms to Khmer writing system.
 
-
-
 #### 9.4.1. Krung Consonants
 
 The source does not provide phonemic representation, but the romanized version of each orthographic consonant. They are listed in the second rows.
-
 
 <table>
   <tr>
@@ -8183,8 +8141,6 @@ The source does not provide phonemic representation, but the romanized version o
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ដ
@@ -8253,8 +8209,6 @@ The source does not provide phonemic representation, but the romanized version o
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -8325,8 +8279,6 @@ The source does not provide phonemic representation, but the romanized version o
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>អ
@@ -8353,9 +8305,6 @@ The source does not provide phonemic representation, but the romanized version o
    </td>
   </tr>
 </table>
-
-
-
 
 #### 9.4.2. Krung Subscripts
 
@@ -8416,9 +8365,6 @@ U+17A2
    </td>
   </tr>
 </table>
-
-
-
 
 #### 9.4.3. Krung Vowels
 
@@ -8512,8 +8458,6 @@ N/A
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ៀ
@@ -8587,14 +8531,9 @@ U+1784
   </tr>
 </table>
 
-
-
-
 #### 9.4.4. Krung Diacritics
 
 Three diacritics are used:
-
-
 
 *   ់ shortens the vowel length.
 *   ៉ changes the consonant to the 1st series
@@ -8620,18 +8559,15 @@ Three diacritics are used:
   </tr>
 </table>
 
-
-
-
 #### 9.4.5. How is the writing system different from Khmer?
+
 *   Two obsolete  characters (i.e. ឝ and ឞ) are used as consonants. 
 *   The consonant shifters are used with the obsolete characters (i.e. ឝ៊ and ឞ៊).
 *   A white space is used in between each word to denote a word boundary.
+
 ### 9.5. Jarai
 
 In Jarai language, there are 35 consonants, nine subscripts, 22 vowels and four diacritics.
-
-
 
 #### 9.5.1. Jarai Consonants
 
@@ -8705,8 +8641,6 @@ In Jarai language, there are 35 consonants, nine subscripts, 22 vowels and four 
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ដ
@@ -8775,8 +8709,6 @@ In Jarai language, there are 35 consonants, nine subscripts, 22 vowels and four 
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -8847,8 +8779,6 @@ In Jarai language, there are 35 consonants, nine subscripts, 22 vowels and four 
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ហ
@@ -8887,9 +8817,6 @@ In Jarai language, there are 35 consonants, nine subscripts, 22 vowels and four 
    </td>
   </tr>
 </table>
-
-
-
 
 #### 9.5.2. Jarai Subscripts
 
@@ -8966,9 +8893,6 @@ U+179C
    </td>
   </tr>
 </table>
-
-
-
 
 #### 9.5.3. Vowels
 
@@ -9061,8 +8985,6 @@ N/A
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -9159,8 +9081,6 @@ U+17C7
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ុំ
@@ -9222,21 +9142,18 @@ U+17C7
   </tr>
 </table>
 
-
-
-
 #### 9.5.4. Jarai Diacritics
 
 Four diacritics are used.
-
-
 
 *   ់ [U+17CB] marks short vowel.
     *   
 *   ៉ [U+17C9] changes second series consonant to the first series.
 *   ៊ [U+17CA] changes the first series consonant to the second series.
 *   ័ [U+17D0] marks nasalization, but since it can be confused in function with the Khmer Samyok Sannya, another form is proposedː ម៍, placing before the syllable it modifies. 
+
 #### 9.5.5. How is the writing system different from Khmer?
+
 *   Two obsolete  characters (i.e. ឝ and ឞ) are used as consonants. 
 *   A white space is used in between each word to denote a word boundary.
 *   The placement of  ័ is unclear, but it seems to be inconsistent with how it is used in Khmer.
@@ -9246,11 +9163,10 @@ Four diacritics are used.
     *   វុៈ័	?		[wãʔ]		‘oil’
     *   ក្លា័ប	?		[klaap]		‘difficult’
     *   ឝ្វ័ះ	?		[gũah]		‘morning’
+	
 ### 9.6. Kuay
 
 In Kuay language, there are 34 consonants, 21 subscripts, 25 vowels, and 4 diacritics.
-
-
 
 #### 9.6.1. Kuay Consonants
 
@@ -9324,8 +9240,6 @@ In Kuay language, there are 34 consonants, 21 subscripts, 25 vowels, and 4 diacr
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ដ
@@ -9394,8 +9308,6 @@ In Kuay language, there are 34 consonants, 21 subscripts, 25 vowels, and 4 diacr
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -9466,8 +9378,6 @@ In Kuay language, there are 34 consonants, 21 subscripts, 25 vowels, and 4 diacr
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>អ្ច
@@ -9486,9 +9396,6 @@ U+1785
    </td>
   </tr>
 </table>
-
-
-
 
 #### 9.6.2. Kuay Subscripts
 
@@ -9582,8 +9489,6 @@ U+178C
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>្ត
@@ -9673,8 +9578,6 @@ U+179A
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>្ល
@@ -9723,9 +9626,6 @@ U+17A2
    </td>
   </tr>
 </table>
-
-
-
 
 #### 9.6.3. Kuay Vowels
 
@@ -9819,8 +9719,6 @@ N/A
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ឿ
@@ -9912,8 +9810,6 @@ U+17C7
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ោះ
@@ -9985,13 +9881,9 @@ U+1784
   </tr>
 </table>
 
-
-
-
 #### 9.6.4. Kuay Diacritics
 
 Four diacritics are used.
-
 
 <table>
   <tr>
@@ -10016,15 +9908,15 @@ Four diacritics are used.
   </tr>
 </table>
 
-
 Punctuation are used in the same as in Khmer language (i.e. ។ “” «» ? ! ៖ ៗ … ៕ ‌៚).
 
-
-
 #### 9.6.5. How is the writing system different from Khmer?
+
 *   ់ gets to be used on រ, a thing which never occurs in Khmer.
 *   ់ can be used on a final consonant preceded by a Samyok Sannya or ែ.
+
 ### 9.7. Sastras
+
 #### 9.7.1. Pali
 
 Nhok (1962:1-2) wrote that there are 41 characters in the Pali alphabet inventory--8 vowels and 33 consonants. Note that vowels are divided into two groups: independent and dependent. It is observed independent vowels usually start a syllable, while the dependent ones always attached to a initial consonant.
@@ -10032,8 +9924,6 @@ Nhok (1962:1-2) wrote that there are 41 characters in the Pali alphabet inventor
 No diacritic is used in Pali.
 
 The tables below present Khmer characters used in Pali in the first row, romanization of them in the second and the unicode code points in the third row.
-
-
 
 ##### 9.7.1.1. Pali Consonants
 
@@ -10107,8 +9997,6 @@ The tables below present Khmer characters used in Pali in the first row, romaniz
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ដ
@@ -10177,8 +10065,6 @@ The tables below present Khmer characters used in Pali in the first row, romaniz
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -10249,8 +10135,6 @@ The tables below present Khmer characters used in Pali in the first row, romaniz
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ហ
@@ -10278,10 +10162,7 @@ The tables below present Khmer characters used in Pali in the first row, romaniz
   </tr>
 </table>
 
-
-
-
-            18. Pali Subscripts
+##### 9.7.1.2. Pali Subscripts
 
 <table>
   <tr>
@@ -10373,8 +10254,6 @@ U+1789
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>្ដ
@@ -10463,8 +10342,6 @@ U+1793
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -10555,8 +10432,6 @@ U+179F
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>្ហ
@@ -10573,9 +10448,6 @@ U+17A0
    </td>
   </tr>
 </table>
-
-
-
 
 ##### 9.7.1.3. Pali Independent Vowels
 
@@ -10637,9 +10509,6 @@ U+17A0
   </tr>
 </table>
 
-
-
-
 ##### 9.7.1.4. Pali Dependent Vowels
 
 <table>
@@ -10700,9 +10569,6 @@ inherent
   </tr>
 </table>
 
-
-
-
 ##### 9.7.1.5. Pali Vowel Combination
 
 <table>
@@ -10737,20 +10603,17 @@ U+17C6
   </tr>
 </table>
 
-
-
-
 ##### 9.7.1.6. How is the writing system different from Khmer?
+
 *   Nikahit (​ំ) is in the consonant chart and used in the same way as a consonant. Chin et. al. (2012:2) wrote that it is not only used to put on top of a consonant, but also on one of these three independent vowels: ឣ ឥ ឧ (i.e. ឣំ ឥំ ឧំ).
 *   Nikahit is used to combine with two vowels: ិ and ុ to make ិំ and ុំ. ិំ is exceptionally found in Pali, and never in Khmer spelling convention. (It may be replaced by ឹ in Khmer alphabet.)
 *   Consonants can be stacked together but not pronounced as a cluster. The subscript is pronounced as an initial consonant of the next syllable whether or not there is a vowel after it.
+
 #### 9.7.2. Sanskrit
 
 This inventory is adapted from Huot (1956:1-5,18-21). In a more recent book, Hum (2005:ឌ,ឍ,ធ) includes three additional consonants: ឡ ក្ស ជ្ញ. Sanskrit has 33 consonants, 33 subscripts, nine dependent vowels, 13 independent vowels and six diacritics.
 
 The tables that follow present Khmer characters used in Sanskrit in the first row, romanization of them in the second and the unicode code points in the third row.
-
-
 
 ##### 9.7.2.1. Sanskrit Consonants
 
@@ -10824,8 +10687,6 @@ The tables that follow present Khmer characters used in Sanskrit in the first ro
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ដ
@@ -10895,8 +10756,6 @@ The tables that follow present Khmer characters used in Sanskrit in the first ro
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ប
@@ -10965,8 +10824,6 @@ The tables that follow present Khmer characters used in Sanskrit in the first ro
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -11090,8 +10947,6 @@ U+1789
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>្ដ
@@ -11180,8 +11035,6 @@ U+1793
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -11272,8 +11125,6 @@ U+179D
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>្ឞ
@@ -11306,9 +11157,6 @@ U+17A0
    </td>
   </tr>
 </table>
-
-
-
 
 ##### 9.7.2.3. Sanskrit Independent Vowels
 
@@ -11382,8 +11230,6 @@ U+17A0
   </tr>
 </table>
 
-
-
 <table>
   <tr>
    <td>ឰ
@@ -11410,9 +11256,6 @@ U+17A0
    </td>
   </tr>
 </table>
-
-
-
 
 ##### 9.7.2.4. Sanskrit Dependent Vowels
 
@@ -11486,13 +11329,9 @@ inherent
   </tr>
 </table>
 
-
-
-
 ##### 9.7.2.5. Sanskrit Combinations of Consonant and Independent Vowel
 
 ក [U+1780] serves as a placeholder for any consonant.
-
 
 <table>
   <tr>
@@ -11527,10 +11366,7 @@ U+17AD
   </tr>
 </table>
 
-
 ក្ឭ is rendered incorrectly here, it should be rendered as shown below
-
-
 
 ##### 9.7.2.6. Sanskrit Diacritics
 
@@ -11550,7 +11386,6 @@ U+17AD
    <td>
 
 <p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character21.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/Khmer-Character21.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -11610,9 +11445,6 @@ U+17AD
    </td>
   </tr>
 </table>
-
-
-
 
 *    ៑ Virama (Huot 1956:20-21)
 *   ៜ Avakraha (Huot 1956:21)
@@ -12043,28 +11875,19 @@ The oldest stone inscriptions written in Khmer language dated back to the 5th ce
   </tr>
 </table>
 
-
-
-
 ## 11. Sample Texts for Orthography Check <a name="11"></a>
 
 This section includes sample text of each ethnic minority language.
 
-
-
 ### 11.1. Bunong Sample Text
 
 នអើន​ទែស​ក៝ន​នទ្រោក.. នើម​ងក៝ច​ម៝ស ក្រូយ ចិត.. នតើម​ឆា​អើម ឞុត​ឞូនុយ្ស​ឞារ​ហៃ​គុ​ប៝ន​នហាញ។ ឞុត​នទ្រោក​ទូ​ហៃ​ម្វាយ​ៗ ទូ​ហៃ​ឞុត​នទ្រោក​ងក្វាង់ ទូ​ហៃ​ជឹត​ឞុត​នទ្រោក​មែ គុ​នហាញ ច្យាប់​នហាញ។ ជ៝ៈ​នារ​ជ៝ៈ​ខៃ​ជ៝ៈ​នាម់​ពាង់​អី​ច្យាប់​នទ្រោក​មែ នទ្រោក​មែ​រី​ឞុន ឞុន​រី​គែស​ក៝ន។ ពាង់​ឞារ​ហៃ​ហោម​ច្យាប់​នទ្រោក​នហាញ​ដ៝ង់។ ទូ​នារ​រី​ពាង់​អី​ច្យាប់​នទ្រោក​ងក្វ៝ង់​គែស​រាវេ។ រាវេ​ឞារ​ពែ​នារ ឞិច​មោ​រើយ ឆោង​មោ​កាស។ ទាស​អី​ពាង់​ទូ​ហៃ​ជាៈ​ឆោង​នហាញ ឆោង​នហាញ​មោ​អុច​ដ៝ង់។ ងើយ​ឞាស​ពាង់​អី​ច្យាប់​នទ្រោក​មែ ពាង់​អី​ច្យាប់​នទ្រោក​មែ​គែស​នាវ​រាវេ​មា​ពាង់​អី​ច្យាប់​នទ្រាក​ងក្វ៝ង់។ ពាង់​អោប ៖ “ហៃ​កោញ! ម៝ស​នាវ​រាវេ​ម្រែ​នៃ? ឞារ​ពែ​នារ​ហើយ មោ​លាង់​ឆោង​មោ​លាង់​ឆា​រ៝​នៃ”។ ពាង់​រី កោញ​ពាង់​អើស ៖ “មោ​ឞុត​នាវ​រាវេ​អោស គ៝ប់​រាវេ​អាប់​នារ​កាល់​ទឹ​រាវេ​នាវ​ក៝ន​នទ្រោក​នៃ​ទើម”។ ពាង់​អី​ច្យាប់​នទ្រោក​មែ​អោប ៖ “មើម​ក៝ន​នទ្រោក?” “អើ ក៝ន​នទ្រោក​មៃ​នៃ ក៝ន​នទ្រោក​គ៝ប់”។ ពាង់​ព្លើង​អើស ៖ “ក៝ន​នទ្រោក​មៃ?” ពាង់​អើស ៖ “អើ ក៝ន​នទ្រោក​នៃ​ក៝ន​នទ្រោក​គ៝ប់​ងាន់​គ៝ប់​ឞិច​អា​មាង់​ងក្ល៝ន់​នហេល​មៃ​រាលាច់​មា​គ៝ប់​មោ​ទើយ​អោស”។ ព្លើង ៖ “មោ​ក៝ន​នទ្រោក​មៃ ក៝ន​នទ្រោក​គ៝ប់​ងាន់ នទ្រោក​មៃ​នទ្រោក​ងក្វ៝ង់​មោ​ឞ្លោវ​គែស​ក៝ន។ នទ្រោក​មែ​ជេង​ឞុត​ក៝ន”។ “មៃ​លើយ​រាលាច់ រាលាវ​នទ្រោក​គ៝ប់​ជើង​នទ្រោក​មែ​មៃ នទ្រី​នទ្រោក​នៃ​ក៝ន​នទ្រោក​គ៝ប់​ងាន់ គែស​នទ្រោក​ងក្វ៝ង់​គ៝ប់​ទឹង​គែស​ក៝ន​នទ្រោក​មែ​មៃ”។ ជេសរី​ពាង់​អី​ច្យាប់​នទ្រោក​មែ​មោ​ទើយ​រាលាច់ ពាង់​គុ​ឆ្រុង​ជេសរី​ហាន់​ឆឹត​អា​ច្វាញ។ ត៝ត់​ឆឹត​អា​ច្វាញ​គែស​នាវ​រាវេ​ឞឹច​មោ​រើយ​ឆោង​មោ​កាស​ងោយ​មា​រាវេ​ក៝ន​នទ្រោក ក៝ប់​ត៝ត់​អាង​អោយ​មា​ព្លឹ​រាលាច់​នាវ​ក៝ន​នទ្រោក​ជឹត។ រី​រាលាច់​មោ​ទើយ តា​ឆាក់​ពាង់​នូយ្ស​ហោ​ងាន់ មោ​លែៈ​នូយ្ស​អោស ៖ ​“ក៝ន​នទ្រោក​នៃ​ក៝ន​នទ្រោក​គ៝ប់​ងាន់ មើម​ទឹង​លាស​ក៝ន​នទ្រោក​ពាង់​ច្រាវ”។ ជេសរី​ពាង់​ងើយ​អ៝ន់​មា​ពាង់​ច្យាប់​នទ្រោក​ងក្វ៝ង់ ៖ ​“មៃ​លាស​ក៝ន​នទ្រោក​មៃ​នឹង​នែង នទ្រី​ហាន់​ជ៝យ​ឞូ​រាញ​ញច្រាៈ​នាវ​ទោយ្ស​អ៝ន់​រាង្លាច់​នាវ​អា មៃ​ហាន់​ជ៝យ​ឞូរាញ​មៃ គ៝ប់​ជ៝យ​ឞូរាញ​គ៝ប់”។ ជេសរី​ផូង​ខាន់ពាង់​​តឹមនាល​នារ ឞារ​នារ​ហែ​តឹម​ម៝ប់​ឞាល់។ “ល៝រ​មៃ មៃ​ក៝ប់​គ៝ប់ ល៝រ​គ៝ប់​គ៝ប់​ក៝ប​មៃ”។ ជេសរី​កោញ​អី​ច្យាប់​នទ្រោក​ងក្វ៝ង់ ជ៝យ​ឞូ​រាញ​គែស​ល៝រ​ពាង់​អី​ច្យាប់​នទ្រោក​មែ​ងោយ​មា​រាវេ ឞើយ​មោ​គែស​ឞូរាញ​ញច្រាៈ។ ជេសរី​ពាង់​កាស​ឞើស​អោយ​ហាន់​ជ៝យ​ឞូនុយ្ស​ហាន់​ត៝ត់​អា​ត្រ៝ង​រី​ម៝ប់​មា​កោញ​រាពាយ​ញច្វាត់ នទ្រ៝ត់​ព្រុស មផារ​នទ្រ៝ត់​រាពាយ​រី​ពាង់​រាក​រាពាយ​ឞើស​កើយ​លាស៖ “​ច្យាក​រាពាយ​មពីក​កាប់​យៅ​ឆា​ម៝ស​ញច្វាត់​ពាង់​តើម​អោយ​តើម​ព្លា​នៃ”។ ជេសរី​រាពាយ​តាង់​ពាង់​រាក រាពាយ​លាស ៖ “ហៃ​កោញ! ម៝ស​មៃ​ទឹង​រាក​គ៝ប់​មេស?” ពាង់​អើស ៖ “គ៝ប់​នទ្រ៝ត់​មៃ​នៃ​ហើយ មៃ​ម៝ន​រាពាយ​ឞើស?” “អើ​គ៝ប់។ គ៝ប់​ហើយ​រាពាយ”។ “នទ្រី​កោញ​ទាន់​ទោយ្ស​ម៝ន​អើ គ៝ប់​លិច គឹត”។ “លិច​ច្រាវ​អោស គ៝ប់​មោ​នូយ្ស​មា​មៃ​អោស រាពាយ​អោប៖ ​មៃ​អាស​ហាន់​ហាៈ​កោញ​ឞើស​អើម​អោយ​នៃ​ញអោត​នទ៝ស​មោ​នាន់​ញអោត​នទើ​មោ​នាន់​ក្វាន់​ព្រីត​តា​តី​ឞារ​អឹ”។ ពាង់​អើស ៖ “គ៝ប់​គើញ​ហាន់​ជ៝យ​ឞូរាញ​ច្រាៈ​ទោយ្ស​ម៝ស​ម្រែ​ហៃ”។ រាពាយ​អោប ៖ “មើម​នាវ​មៃ​រី កោញ?” កោញ​ពាង់​ងក៝ច​លែៈ​រាងោច​នាវ​ផូង​ខាន់ពាង់​វៃ​គុ​នហាញ​ច្យាប់​នទ្រោក​នហាញ​មា​ត៝ត់​នទ្រោក​គែស​ក៝ន រាពាយ​អ្យាត់​លែៈ​នោ​នាវ​រាពាយ​អោប ៖ “នទ្រី​នតើម​នាវ​មៃ​រី​កោញ”។ “អើ​ទាស​រី​ទើម​ម៝ន មេៈ”។ “មៃ​លិច​ច្រាវ​អោស​តៃ​គ៝ប់​កើល​មៃ នទ្រី​មៃ​ហាន់​ជ៝យ​ព្រីត​អ៝ន់​គ៝ប់​ទោស​មៃ​ជ៝យ​ព្រីត​អ៝ន់​គ៝ប់ គែស​មៃ​ហាន់​ល៝រ​អា​នតិច គ៝ប់​ហាន់​ឞើស​កើយ”។ ជេសរី​កោញ​អី​ច្យាប់​នទ្រោក​មែ ហាន់​ឆឹត​ល៝រ។ ​ពាង់​ទឹង​លែៈ​គុ​ក៝ប់ ក៝ប់​ទុត​មា​ជ៝ៈ ជេសរី​ត៝ត់​រាពាយ​ឆៃ​ត៝ត់​រាពាយ​ឞូរាញ​បាៈៗ អោប​អ្វែស​លាង។ ត្រុយ្ស​កោញ​អី​ច្យាប់​នទ្រាក​ងក្វ៝ង់ ៖ “ម៝ស​ជ៝ៈ​មៃ? ជ៝ៈ​ឞូរាញ​គុ​ក៝ប់​មៃ​ទូ​ហៃ​ទើម”។ រាពាយ​អើស ៖ “គែស​នាវ​ដ៝ង់”។ ពាង់​អីរី​អោប​ជឹត ៖ “ម៝ស​នាវ​មៃ?” “មោ​នី​អោស​នាវ។ នទ្រី​រឹង​លែៈ​ឞូរាញ​ឞ៝ន់?” អើស ៖ “រឹង​លែៈ​ហើយ ក៝ប់​មៃ​ទើម”។ “គ៝ប់​អោយ​អា​នើស​ម៝ស​មោ​ជ៝ៈ​ម្រែ​ហៃ ពើស​អ្វាញ់​ទែស​ក៝ន​កោញ​គ៝ប់​មេៈ”។ ផូង​ខាន់ពាង់​ហីស​រាហ៝ល់។ ជេសរី អោប ៖ “អាស​ទែស​ក៝ន​កោញ?” “អើ​ទែស​ក៝ន​កោញ​គ៝ប់​ងាន់​ហែស”។ ពាង់​អី​ច្យាប់​នទ្រោក​ងក្វ៝ង់​អើស ៖ “គ៝ប់​មោ​អ្យាត់​លិច​វៃ​ឆៃ​ឞូនុយ្ស​ឞូក្លោ​គែស​ក៝ន​អោស”។ “ងាន់​ហែស គ៝ប់​នើស​អ្វាញ់​អុញ។ អូរ​ពាង់​នទុត​ហាន់​អា​មីរ កោញ​គ៝ប់​នើស​ទែស​ឞើស​កើយ”។ ពាង់​អី​ច្យាប់​នទ្រោក​ងក្វ៝ង់​រី​រាលាច់ ៖ “គ៝ប់​មោ​តាង់​រ៝​វៃ​លាស​ឞូនុយ្ស​ឞូក្លោ​គែស​ក៝ន​អោស”។ រាពាយ​អើស ៖ “មៃ​មោ​អ្យាត់​គ៝ប់ គ៝ប់​មោ​អ្យាត់​មៃ​ដ៝ង់។ គ៝ប់​មោ​វៃ​តាង់​នទ្រោក​ងក្វ៝ង់​ទែស​ក៝ន។ នទ្រី​ឞូរាញ​អើម​វៃ​ឆៃ វៃ​តាង់​នទ្រោក​ងក្វ៝ង់​ទែស​ក៝ន​ដ៝ង់?” ឞើស​ផូង​ឞូរាញ​អើស ៖ “មោ​វៃ​ឆៃ​អោស”។ ទឹង​លែៈ​ឞូ​លាស​កើត​រី​ទាទេ។ “លាស​នទ្រី​មើម​លាស​ក៝ន​នទ្រោក​ពាង់​ច្រាវ? លាស​នទ្រោក​ងក្វ៝ង់​ពាង់​ឞ្លាវ​ទែស​ក៝ន កោញ​គ៝ប់​ឞ្លាវ​ទែស​ក៝ន​ដ៝ង់។ លាស​នទ្រី​ក៝ន​នទ្រោក​នៃ​ក៝ន​នទ្រោក​ឞូ មោ​ទី​ក៝ន​នទ្រោក​មៃ​ក៝ន​នទ្រោក​មែ​ពាង់​អី​តី នទ្រោក​មៃ​ងក្វ៝ង់”។ កោញ​អី​ច្យាប់​នទ្រោក​ងក្វ៝ង់​តាង់​រាពាយ​លាស​នទ្រី មឞើស​ឞូ​លាស​ហាន់​អាច់​ទាច់​មា​ទុត​ញច្វាត់​ឆឹត​អា​ច្វាញ​រី៕
-
-
 
 ### 11.2. Tampuan Sample Text
 
 (A drowning boy)
 
 ទី ដារ់ ម៉ោញ អាញ់ លូ គួប អាញ់ ទី ជៀក គួប សោប ឡាំ ប៉ាគ់ ទៀក តាំងលោ័ ភឿ ហៀន រែ ទៀក។ ផះ ឡាំ ទឹល ប៉ាគ់ ទៀក ណោះ អាញ់ កា ប៉ាស្រាំ រែ ទៀក។ អាញ់ សាំលឹះ រែ អាញ់ កា ឡង់ ទៀក។ ផះ អាញ់ ឡង់ ណោះ អាញ់ អ្យូគ ខាក់។ អាញ់ កា ឡុង អើ ពូ ណាំង ប៉ាណូស តង័ អាញ់។ ណោះ ហង អាញ់ កា កាវ៉ះ័ ណាំង គួប អាញ់ គួប អាញ់ ណោះ អ៊ែ អ្លុ រែ ទៀក អ៊ែ ប៉ប័ អាញ់ ឡង់។ អ៊ែ កា ទី តង័ អាញ់ អ្យក់ អាញ់ ហាវ ឡាំ ប៉ាគ់ គូក។ កេះណោះ អ៊ែ ប៉ាំងហៀន ឡឹង កាន រែ ទៀក ណោះ អន់ កា អាញ់។ ឡៃង ឡឹង ណោះ អាញ់ កា ទី ប្រ៉គ័ ពួយ កាន អ៊ែ ប៉ាំងហៀន ណោះ។ កេះណោះ អាញ់ កា អ្លុ រែ សឹត រែ ឡាំ រែ សឹត រែ ឡាំ។ ទឹល ទុញ ទុញ អាញ់ កា អ្លុ រែ ទៀក ទឹល រ៉ប់ ដារ់ អា។ ‌៚
-
-
 
 ### 11.3. Brao Sample Text
 
@@ -12078,7 +11901,7 @@ This section includes sample text of each ethnic minority language.
 
 អែ ឡើ កឡឹ ឡើ ដក់ សាត ឡឹះ អន់ណាវ តគ់ កណូវ ឡង ណគ ឡឹះ អន់ណាវ ណាគ់ តៃ ឡើ តៃ។ អ៊ែ ឡើ កឡូវ ប្រយ៖ «ឡា អុះ ប្រះ ប្រ៊ី យ៉ាង បង៉ាង ជ្រឺវ អរ៉ាក់ ប្រ៊ី ដាក គ្រែដៃ ថែ ពឋា វន់សាត ជូង អៃ អុះ ណាគ់ អន់ឡាប់ អាំ កួន ប្រោះ ហឹ ហន់ណាម ប៉ាគ់ មន់តៃ ជូង អៃ ណាគ់ អន់ឡាប់ អាំ កួន ប្រោះ អន់សូច ហឹ ហន់ណាម តគ់»។
 
-	អ៊ែ គ្រុង ប៊ិះ នែ ឡើ ដុង ប៉ាគ់ អ៊ិន ឌិះ ម៉ាត។ អែ ឡើ តទឺត ចាក់ ណគ ឡើ វឹរ ប៊ិះ ក្រាគ់ អ៊ែ ឡើ ដក់ ប្រយ តគ់ យ៉ាគ់ អាត់ញ៉ា អ៊ែ ឡើ តង៉ា៖ «អង់ង៉ាយ យ៉ាគ់ អ ហដាំង?» យ៉ាគ់ អាត់ញ៉ា ឡើ ត្រណើវ រៀន៖ «អដាំង ជូង អៃ»។ គ្រុង ប៊ិះ ឡើ តង៉ា៖ «ឡើ បើម ង៉ាយ ដឹះ ជូង ហៃ អ៊ិន?» យ៉ាគ់ អាត់ញ៉ា ឡើ ត្រណើវ៖ «អកូវ ឡង ឡើយ ឡើ ប៉ាត់ ទឹង ណិះ ឡើយ។ ប៉ាគ់ ហន់សាត តៃ ចូវ អើយ ណាគ់ អន់ឡាប់ អង់អាំ កួន ប្រោះ ដើ ហៃ»។ អ៊ែ ឡើ ត្រណើវ៖ «ណោះ អន់សាត រួយ ឞ»។ អែ ឡើ សាត ប្រយ ឈុំ តើម ឡង អ៊ែ ឡើ តៃ ប្រយ ទឹង ត្រម ឡង។ អ៊ែ ឡើ រៀន៖ «នែ យ៉ាគ់ អ ជូង ហៃ ឡើ ទឹប ទឹង ត្រម ឡង»។ អ៊ែ យ៉ាគ់ អាត់ញ៉ា ឡើ ហួត ប្រយ ជឹ តៀត ហឹ ហន់ណាម។ អ៊ែ ឡើ កឡូវ ប្រយ មែ ខំឡាំង ឞាវ ណគ៖ «ម៉ិច វន់កួន ចូវ វន់ដក់ ទូង ប៊ិះ ក្រាគ់ ហឹ មឺរ អៃ តគ់»។ អ៊ែ ម៉ើ ដក់ ប្រយ អ៊ែ ម៉ើ តៃ ប៊ិះ ក្រាគ់ ទិះ អ៊ែ ម៉ើ រៀន៖ «យ៉ើយ ប៊ិះ ទិះ ឌិះ ងំចា អាត លំញឹម ប្រយ!»។ អ៊ែ យ៉ាគ់ អាត់ញ៉ា ឡើ ត្រណើវ៖ «ងំចា បើម ង៉ាយ យ៉ាក់ ណគ ឡើយ ឡើ តៃ ជូង អៃ ទឹង ត្រម ឡង។ ណិះៗ នែ អំប្រយ៉ង់ ប៊ឹង កួន អៃ»។ អ៊ែ ម៉ើ ជឹ ទូង ម៉ើ ចក់ ឞ ម៉ើ ទូង ជឹ តៀត ហឹ ហន់ណាម តគ់។ អ៊ែ ឡើ ប៉្រៃ ប្រយ កួន អិះ តៃ ឌីៗ មន់ចក់ បើម ក្ល។ អ៊ែ ប៊ិះ រៀន៖ «យ៉ាគ់ អើយ ហន់ដុង ប៉ាគ់ តៃ ហរែម ហង់កោះ កជែត តាក់»។ អ៊ែ ណាំង អន់សូច អ៊ែ លំចក់ បើម ក្ល។
+អ៊ែ គ្រុង ប៊ិះ នែ ឡើ ដុង ប៉ាគ់ អ៊ិន ឌិះ ម៉ាត។ អែ ឡើ តទឺត ចាក់ ណគ ឡើ វឹរ ប៊ិះ ក្រាគ់ អ៊ែ ឡើ ដក់ ប្រយ តគ់ យ៉ាគ់ អាត់ញ៉ា អ៊ែ ឡើ តង៉ា៖ «អង់ង៉ាយ យ៉ាគ់ អ ហដាំង?» យ៉ាគ់ អាត់ញ៉ា ឡើ ត្រណើវ រៀន៖ «អដាំង ជូង អៃ»។ គ្រុង ប៊ិះ ឡើ តង៉ា៖ «ឡើ បើម ង៉ាយ ដឹះ ជូង ហៃ អ៊ិន?» យ៉ាគ់ អាត់ញ៉ា ឡើ ត្រណើវ៖ «អកូវ ឡង ឡើយ ឡើ ប៉ាត់ ទឹង ណិះ ឡើយ។ ប៉ាគ់ ហន់សាត តៃ ចូវ អើយ ណាគ់ អន់ឡាប់ អង់អាំ កួន ប្រោះ ដើ ហៃ»។ អ៊ែ ឡើ ត្រណើវ៖ «ណោះ អន់សាត រួយ ឞ»។ អែ ឡើ សាត ប្រយ ឈុំ តើម ឡង អ៊ែ ឡើ តៃ ប្រយ ទឹង ត្រម ឡង។ អ៊ែ ឡើ រៀន៖ «នែ យ៉ាគ់ អ ជូង ហៃ ឡើ ទឹប ទឹង ត្រម ឡង»។ អ៊ែ យ៉ាគ់ អាត់ញ៉ា ឡើ ហួត ប្រយ ជឹ តៀត ហឹ ហន់ណាម។ អ៊ែ ឡើ កឡូវ ប្រយ មែ ខំឡាំង ឞាវ ណគ៖ «ម៉ិច វន់កួន ចូវ វន់ដក់ ទូង ប៊ិះ ក្រាគ់ ហឹ មឺរ អៃ តគ់»។ អ៊ែ ម៉ើ ដក់ ប្រយ អ៊ែ ម៉ើ តៃ ប៊ិះ ក្រាគ់ ទិះ អ៊ែ ម៉ើ រៀន៖ «យ៉ើយ ប៊ិះ ទិះ ឌិះ ងំចា អាត លំញឹម ប្រយ!»។ អ៊ែ យ៉ាគ់ អាត់ញ៉ា ឡើ ត្រណើវ៖ «ងំចា បើម ង៉ាយ យ៉ាក់ ណគ ឡើយ ឡើ តៃ ជូង អៃ ទឹង ត្រម ឡង។ ណិះៗ នែ អំប្រយ៉ង់ ប៊ឹង កួន អៃ»។ អ៊ែ ម៉ើ ជឹ ទូង ម៉ើ ចក់ ឞ ម៉ើ ទូង ជឹ តៀត ហឹ ហន់ណាម តគ់។ អ៊ែ ឡើ ប៉្រៃ ប្រយ កួន អិះ តៃ ឌីៗ មន់ចក់ បើម ក្ល។ អ៊ែ ប៊ិះ រៀន៖ «យ៉ាគ់ អើយ ហន់ដុង ប៉ាគ់ តៃ ហរែម ហង់កោះ កជែត តាក់»។ អ៊ែ ណាំង អន់សូច អ៊ែ លំចក់ បើម ក្ល។
 
 
 
@@ -12091,6 +11914,7 @@ This section includes sample text of each ethnic minority language.
 *   បាវ ឡៃគ់ ឝ្ល៉ៃគ៖ «អ៊ិះម៍ អ្នាំ ឡៃគ អុះ! មនូស ផា រ៉ា ណោះ! កតាំង ណោះ! តា អូ ឃិន ញូ អុះ!» «ហ្វ៊ិម៍ យ៉ិត ឝញូ? ពគ ប៉ៈ ញូ ណាវ?»
 *   បាវ  នុន ឡៃគ ឝ៉្លៃគ៖ «ញូ ឝ្ល៉ៃគ ណាវ ពគ សាង បស ញូ ណាវ ឞង់ សយ ញូ។
 *   គើញ ញូ រ៉ៃ បស រើយ ដង់ គើញ ញូ រ៉ៃ ដគ ឝ៉ន មើយ្គ។»
+
 ### 11.5. Kuay Sample Text and the Translation in English
 
 (The Story about Angels and Men))
@@ -12152,7 +11976,11 @@ This section includes sample text of each ethnic minority language.
 
 
 ### 11.7. Sanskrit Sample Text
+
 (To be obtained)
+
+
+
 ### 11.8. Inscription Sample Text
 
 (K.557 Inscription, Mungkol Borey, Takeo)
@@ -12286,8 +12114,7 @@ It is observed (1) that some obsolete characters are commonly used in minority l
     The Unicode Consortium. The Unicode Standard, Version 10.0.0, (Mountain View, CA: The Unicode Consortium, 2017. ISBN 978-1-936213-16-0). Retrieved January 23, 2018, from[ http://www.unicode.org/versions/Unicode10.0.0/](http://www.unicode.org/versions/Unicode10.0.0/).
 
 
-    Thun, H. (2011). វេយ្យាករណ៍ខ្មែរ “Khmer Grammar.” Retrieved January 16, 2019, from \
-[http://www.elibraryofcambodia.org/veyeakor-khmer-somrab-krob-phom-siksa-ebook/](http://www.elibraryofcambodia.org/veyeakor-khmer-somrab-krob-phom-siksa-ebook/) 
+    Thun, H. (2011). វេយ្យាករណ៍ខ្មែរ “Khmer Grammar.” Retrieved January 16, 2019, from \http://www.elibraryofcambodia.org/veyeakor-khmer-somrab-krob-phom-siksa-ebook/](http://www.elibraryofcambodia.org/veyeakor-khmer-somrab-krob-phom-siksa-ebook/) 
 
 
     Um, B., & Seng, T. (2012). Khmer Grammar for Primary School. Phnom Penh: Publishing and Distribution House.
@@ -12298,8 +12125,6 @@ It is observed (1) that some obsolete characters are commonly used in minority l
 
 
 # Appendixes <a name="appendix"></a>
-
-
 
 ## 1. Word-Initial Consonant Clusters
 
@@ -15443,15 +15268,11 @@ The number of instances found in the Khmer-Khmer Dictionary (KKD) is obtained by
   </tr>
 </table>
 
-
-
-
 ## 2. Word-Medial Consonant Clusters
 
 The table below show a list of all possible consonant clusters occurs in word-medial position. To do so, a RegEx pattern is used to filter for them. The pattern is “[^្]C្C[^្]” which guarantees that there is no preceding or trailing subscript. Figures and examples are obtained from an online dictionary ([http://dictionary.tovnah.com/reg-search](http://dictionary.tovnah.com/reg-search)). For example, [^្]ក្.[^្] matches any word containing ក and ្ which is followed by a consonant which has no subscript after it. 
 
 In order not to show the same sequences of the consonant clusters, only the ones whose sequences are different from the ones occurs in the word-initial position are presented. 
-
 
 <table>
   <tr>
@@ -16256,13 +16077,9 @@ In order not to show the same sequences of the consonant clusters, only the ones
   </tr>
 </table>
 
-
-
-
 ## 3. Word-Final Consonant Clusters
 
 Words ending in consonant clusters are Pali/Sanskrit loanwords.
-
 
 <table>
   <tr>
@@ -17043,13 +16860,9 @@ Words ending in consonant clusters are Pali/Sanskrit loanwords.
   </tr>
 </table>
 
-
-
-
 ## 4. Three Consonant Clusters
 
 The consonant clusters with two subscripts occurs mostly in word-medial position (i.e. 170 instances found in the Khmer-Khmer Dictionary), then less frequent in the word-final position (i.e. 50 instances), and it rarely occurs in the initial position (i.e. only 4 instances found). There is no instance of when there are three subscripts follows a consonant. See the table below. Instances of three subscripts following a consonant does not exist in the KKD.
-
 
 <table>
   <tr>
@@ -17198,9 +17011,6 @@ The consonant clusters with two subscripts occurs mostly in word-medial position
   </tr>
 </table>
 
-
-
-
 ## 5. Initial Consonant Clusters in Both Series
 
 The following table is an extended list of 
@@ -17214,7 +17024,6 @@ The following table is an extended list of
 [Consonant Shifters](#heading=h.nkrxdor2oauz) are included next to their respective pair, however they are not officially used or recognized by the public yet. They are there as a reminder that they might be needed in the future, especially with transliterated words. 
 
 No attempt has been made to create a list of the more complex initial consonant clusters (i.e. three consonant clusters).
-
 
 <table>
   <tr>
@@ -18290,9 +18099,6 @@ No attempt has been made to create a list of the more complex initial consonant 
    </td>
   </tr>
 </table>
-
-
-
 
 ## 6. Orthographic comparison [charts](https://docs.google.com/spreadsheets/d/1z-bBl4KJCcD2HNFnAgeshK7gNF37cJJi1nv30btg8Mk/edit#gid=13999464)
 ## 7. Khmer signs distribution [chart](https://docs.google.com/spreadsheets/d/1oDN8Eg05nXxVrrph3HBowa_R-2W75afB6uGNVDXfqBs/edit#gid=0)
