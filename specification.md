@@ -3501,17 +3501,68 @@ Independent vowels are able to start a syllable without an initial consonant or 
 
 In the present day, there is no evidence of an instance where an independent vowel is used as a subscript in the contemporary Khmer, even though there are three instances of ឫ being used as a subscript in three headwords (i.e. សុហ្ឫទ, សៅហ្ឫទ, and ហ្ឫទ័យ ), plus more than 190 instances of Sanskrit transliteration in the Chuon Nath dictionary. Here are some examples:
 
-Khmer Contemporary Spelling | IPA | Sanskrit Transliteration | Gloss
---- | --- | --- |  ---  
-ក្រិស (ក ្រ ិ ស) | /krəh/ | ក្ឫឝ (ក ្ឫ ឝ) | ‘small, dwarf’
-គ្រឹះ (គ ្រ ឹ ះ) | /krɨh/ | គ្ឫហ	 (គ ្ឫ ហ) | ‘house’
-ព្រឹក្ស (ព ្រ ឹ ក ្ស) | /prɨʔ.saa/ | វ្ឬក្ស (វ ្ឫ ក ្ស) | ‘tree’
-មុសា (ម ុ ស ា) | /muʔ.saa/ | ម្ឫឞា (ម ្ឫ ឞា) | ‘to be false’
-វុឌ្ឍិ (វ ុ ឌ ្ឍ ិ) | /wut.tʰiʔ/ | វ្ឫទ្ធិ (វ ្ឫ ទ ្ធ ិ) | ‘prosperity’
-សតិ (ស ត ិ) | /saʔ.teʔ/ | ស្ម្ឫតិ (ស ្ម ្ឫ ត ិ) | ‘consciousness’
-សំស្ក្រឹត (ស ំ ស ្ក ្រ ឹ ត) | /saŋ.skrət/ | សំស្ក្ឫត (ស ំ ស ្ក ្ឨ ត) | ‘Sanskrit’
-ស្រឹង្គារ (ស ្រ ឹ ង ្គ ា រ) | /srəŋ.kie/ | ឝ្ឫង្គារ (ឝ ្ឫ ង ្គ ា រ) | ‘love, lover’
-ឧក្រិដ្ឋ (ឧ ក ្រ ិ ដ ្ឋ) | /ʔuʔ.krət/ | ឧត្ក្ឫឞ្ដ (ឧ ត ្ឫ ឞ ្ដ) | ‘seriously, criminally’
+<table width="80%">
+  <tr>
+    <th width="30%">Khmer Contemporary Spelling</th>
+    <th width="20%">IPA</th>
+    <th width="30%">Sanskrit Transliteration</th>
+	<th width="20%">Gloss</th>
+  </tr>
+  <tr>
+    <td>ក្រិស (ក ្រ ិ ស) </td>
+    <td>/krəh/ </td>
+	<td>ក្ឫឝ (ក ្ឫ ឝ) </td>
+    <td>‘small, dwarf’</td>
+  </tr>
+  <tr>
+    <td>គ្រឹះ (គ ្រ ឹ ះ) </td>
+    <td>/krɨh/ </td>
+	<td>គ្ឫហ	 (គ ្ឫ ហ) </td>
+    <td>‘house’</td>
+  </tr>
+  <tr>
+    <td>ព្រឹក្ស (ព ្រ ឹ ក ្ស)</td>
+    <td>/prɨʔ.saa/ </td>
+	<td>វ្ឬក្ស (វ ្ឫ ក ្ស) </td>
+    <td>‘tree’</td>
+  </tr>
+  <tr>
+    <td>មុសា (ម ុ ស ា) </td>
+    <td>/muʔ.saa/ </td>
+	<td>ម្ឫឞា (ម ្ឫ ឞា) </td>
+    <td>‘to be false’</td>
+  </tr>
+  <tr>
+    <td>វុឌ្ឍិ (វ ុ ឌ ្ឍ ិ) </td>
+    <td>/wut.tʰiʔ/ </td>
+	<td>វ្ឫទ្ធិ (វ ្ឫ ទ ្ធ ិ) </td>
+    <td>‘prosperity’</td>
+  </tr>
+  <tr>
+    <td>សតិ (ស ត ិ) </td>
+    <td>/saʔ.teʔ/ </td>
+	<td>ស្ម្ឫតិ (ស ្ម ្ឫ ត ិ) </td>
+    <td>‘consciousness’</td>
+  </tr>
+  <tr>
+    <td>សំស្ក្រឹត (ស ំ ស ្ក ្រ ឹ ត) </td>
+    <td>/saŋ.skrət/ </td>
+	<td>សំស្ក្ឫត (ស ំ ស ្ក ្ឨ ត) </td>
+    <td>‘Sanskrit’</td>
+  </tr>
+  <tr>
+    <td>ស្រឹង្គារ (ស ្រ ឹ ង ្គ ា រ) </td>
+    <td>/srəŋ.kie/ </td>
+	<td>ឝ្ឫង្គារ (ឝ ្ឫ ង ្គ ា រ) </td>
+    <td>‘love, lover’</td>
+  </tr>
+  <tr>
+    <td>ឧក្រិដ្ឋ (ឧ ក ្រ ិ ដ ្ឋ) </td>
+    <td>/ʔuʔ.krət/ </td>
+	<td>ឧត្ក្ឫឞ្ដ (ឧ ត ្ឫ ឞ ្ដ) </td>
+    <td>‘seriously, criminally’</td>
+  </tr>
+</table>
 
 
 
@@ -4450,11 +4501,35 @@ There is only one occurence of when Ahsda is placed after a dependent vowelː �
 #### 5.3.6. Samyok Sannya (​័)
 
 Samyok Sannya (​័) is usually placed after a consonant, a subscript or after a consonant shifter. \
-Khmer | Character | IPA | Gloss
--- | -- | -- | --
-ជ័រ |	ជ ័ រ | /coa/ | ‘rubber’
-ប៉័ង | ប ៉ ័ ង | /paŋ/ | ‘bread’
-ត្រ័យ | ត ្រ ័ យ | /traj/ | ‘threefold’
+
+
+<table width="80%">
+  <tr>
+    <th width="20%">Khmer</th>
+    <th width="30%">Character</th>
+    <th width="20%">IPA</th>
+	<th width="30%">Gloss</th>
+  </tr>
+  <tr>
+    <td>ជ័រ </td>
+    <td>ជ ័ រ </td>
+	<td>/coa/ </td>
+    <td>‘rubber’</td>
+  </tr>
+  <tr>
+    <td>ប៉័ង </td>
+    <td>ប ៉ ័ ង </td>
+	<td>/paŋ/ </td>
+    <td>‘bread’</td>
+  </tr>
+  <tr>
+    <td>ត្រ័យ </td>
+    <td>ត ្រ ័ យ </td>
+	<td>/traj/ </td>
+    <td>‘threefold’</td>
+  </tr>
+</table>
+
 
 Samyok Sannya is equivalent with vowel /a/ when the consonant preceding it is in the 1st series, but it can realize as /ea/, /e/ or /oa/ in other environments. 
 
@@ -4529,12 +4604,38 @@ Samyok Sannya is equivalent with vowel /a/ when the consonant preceding it is in
 
 Samyok Sannya (​័) in the present-day Khmer has another phonetic property, it is [əə]. Most words borrowed from English with the rhotacization at the end usually are transliterated into a consonant with Samyok.
 
-Khmer | Character | IPA | Gloss 
--- | -- | -- | -- 
-ម៉ាស្ទ័រ | ម ៉ ា ស ្ទ ័ រ | /maa.stəə/ | ‘master’
-កុំព្យូទ័រ | ក ុំ ព ្យ ូ ទ ័ រ | /kom.pjuu.təə/ | ‘computer’
-កុងទ័រ | ក ុ ង ទ ័ រ | /koŋ.təə/ | ‘counter’
-គូល័រ | គ ូ ល ័ រ | /kuu.ləə/ | ‘color’
+<table width="80%">
+  <tr>
+    <th width="20%">Khmer</th>
+    <th width="30%">Character</th>
+    <th width="20%">IPA</th>
+	<th width="30%">Gloss</th>
+  </tr>
+  <tr>
+    <td>ម៉ាស្ទ័រ </td>
+	<td>ម ៉ ា ស ្ទ ័ រ </td>
+    <td>/maa.stəə/ </td>
+    <td>‘master’</td>
+  </tr>
+  <tr>
+    <td>កុំព្យូទ័រ </td>
+	<td>ក ុំ ព ្យ ូ ទ ័ រ </td>
+    <td>/kom.pjuu.təə/ </td>
+    <td>‘computer’</td>
+  </tr>
+  <tr>
+    <td>កុងទ័រ </td>
+	<td>ក ុ ង ទ ័ រ </td>
+    <td>/koŋ.təə/ </td>
+    <td>‘counter’</td>
+  </tr>
+  <tr>
+    <td>គូល័រ </td>
+	<td>គ ូ ល ័ រ </td>
+    <td>/kuu.ləə/ </td>
+    <td>‘color’</td>
+  </tr>
+</table>  
 
 
 
@@ -4547,36 +4648,167 @@ Examples of words with Toandakhiat placed:
 
 
 *   after a subscript and a vowel:
-Khmer | Character | IPA | Gloss 
--- | -- | -- | -- 
-កិរ្តិ៍ </br> កេរ្តិ៍	 | ក ិ រ ្ត ិ ៍  </br> ក េ រ ្ត ិ ៍ | /kee/ | ‘reputation’ 
-ប៉ុស្តិ៍ | ប ៉ ុ ស ្ត ិ ៍ | /poh/ | ‘post office’
-ប្រសិទ្ធិ៍ | ប ្រ ស ិ ទ ្ធ ិ ៍ | /prɑ.sət/ | ‘a place name’
-រាមកិរ្តិ៍ | រ ា ម ក ិ រ ្ត ិ ៍ | /riem.kee/ | ‘Ramayanak’
-សួស្តិ៍ | ស ួ ស ្ត ិ ៍ | /suah/ | ‘glory’
+<table width="80%">
+  <tr>
+    <th width="20%">Khmer</th>
+    <th width="30%">Character</th>
+    <th width="20%">IPA</th>
+	<th width="30%">Gloss</th>
+  </tr>
+  <tr>
+    <td>កិរ្តិ៍ </br> កេរ្តិ៍	 </td>
+    <td>ក ិ រ ្ត ិ ៍  </br> ក េ រ ្ត ិ ៍  </td>
+    <td>/kee/ </td>
+	<td>‘reputation’</td>
+  </tr>
+  <tr>
+    <td>ប៉ុស្តិ៍ </td>
+	<td> ប ៉ ុ ស ្ត ិ ៍ </td>
+    <td> /poh/ </td>
+    <td> ‘post office’</td>
+  </tr>
+  <tr>
+    <td>ប្រសិទ្ធិ៍ </td>
+	<td> ប ្រ ស ិ ទ ្ធ ិ ៍ </td>
+    <td>/prɑ.sət/</td>
+    <td>‘a place name’</td>
+  </tr>
+  <tr>
+    <td>រាមកិរ្តិ៍ </td>
+	<td>រ ា ម ក ិ រ ្ត ិ ៍ </td>
+    <td>/riem.kee/ </td>
+    <td>‘Ramayanak’</td>
+  </tr> 
+  <tr>
+    <td>សួស្តិ៍ </td>
+	<td>ស ួ ស ្ត ិ ៍ </td>
+    <td>/suah/</td>
+    <td>‘glory’</td>
+  </tr>
+</table>
+
 *   after a consonant and vowel ិ 
-Khmer | Character | IPA | Gloss 
--- | -- | -- | -- 
-កឡោបិ៍ | ក ឡ ោ ប ិ ៍ | /kaʔ.laop/ | ‘a kind of basket’
-តែនតិ៍ | ត ែ ន ត ិ ៍ | /taen/ | ‘tent’
-ទីបេតិ៍ | ទ ី ប េ ត ិ ៍ | /tii.ɓee/ |  ‘Tibet mount’
-នាំអាទិ៍ | ន ាំ អ ា ទ ិ ៍ | /noam.ʔaat/ |  ‘to initiate’
-ពោធិ៍ | ព ោ ធ ិ ៍ | /poo/ |  ‘banyan’
-ពោធិ៍ធំ | ព ោ ធ ិ ៍ ធ ំ | /poo.tʰum/ |  ‘a kind of plant’
-ពោធិ៍ធ្លេ | ព ោ ធ ិ ៍ ធ ្ល េ | /poo.tlee/ |  ‘a kind of plant’
-ពោធិ៍បាយ | ព ោ ធ ិ ៍ ប ា យ | /poo.ɓaaj/ |  ‘a kind of banyan tree’
-ពោធិ៍សាត់ | ព ោ ធ ិ ៍ ស ា ត ់ | /poo.sat/ |  ‘Pursat province’
-ព្យាធិ៍ | ព ្យ ា ធ ិ ៍ | /pjie/ |  ‘leprosy’
-ព្រហស្បតិ៍ | ព ្រ ហ ស ្ប ត ិ ៍ | /prɔ.hoah/ |  ‘Thursday’
-វាទអាទិ៍ | វ ា ទ អ ា ទ ិ ៍ | /wiet.ʔaat/ |  ‘to try to gain power’
-សកវាទិ៍ | ស ក វ ា ទ ិ ៍ | /sak.kak.waa/ | 	‘’
-ស្មាធិ៍ | ស ្ម ា ធ ិ ៍ | /smaat/ | ‘meditate’
-ស្លឹកពោធិ៍ | ស ្ល ឹ ក ព ោ ធ ិ ៍ | /slək.poo/ | ‘banyan leaf’
+
+<table width="80%">
+  <tr>
+    <th width="20%">Khmer</th>
+    <th width="30%">Character</th>
+    <th width="20%">IPA</th>
+	<th width="30%">Gloss</th>
+  </tr>
+  <tr>
+    <td>កឡោបិ៍ </td>
+    <td>ក ឡ ោ ប ិ ៍ </td>
+    <td>/kaʔ.laop/ </td>
+	<td>‘a kind of basket’</td>
+  </tr>
+  <tr>
+    <td>តែនតិ៍ </td>
+	<td>ត ែ ន ត ិ ៍ </td>
+    <td>/taen/ </td>
+    <td>‘tent’</td>
+  </tr>
+  <tr>
+    <td>ទីបេតិ៍ </td>
+	<td>ទ ី ប េ ត ិ ៍ </td>
+	<td>/tii.ɓee/ </td>
+    <td>‘Tibet mount’</td>
+  </tr>
+  <tr>
+    <td>នាំអាទិ៍ </td>
+    <td>ន ាំ អ ា ទ ិ ៍ </td>
+	<td>/noam.ʔaat/ </td>
+    <td>‘to initiate’</td>
+  </tr>
+  <tr>
+    <td>ពោធិ៍ </td>
+    <td>ព ោ ធ ិ ៍ </td>
+	<td>/poo/ </td>
+    <td>‘banyan’</td>
+  </tr>  
+  <tr>
+    <td>ពោធិ៍ធំ </td>
+    <td>ព ោ ធ ិ ៍ ធ ំ </td>
+	<td>/poo.tʰum/ </td>
+    <td>‘a kind of plant’</td>
+  </tr>  
+  <tr>
+    <td>ពោធិ៍ធ្លេ </td>
+    <td>ព ោ ធ ិ ៍ ធ ្ល េ </td>
+	<td>/poo.tlee/ </td>
+    <td>‘a kind of plant’</td>
+  </tr>  
+  <tr>
+    <td>ពោធិ៍បាយ </td>
+    <td>ព ោ ធ ិ ៍ ប ា យ </td>
+	<td>/poo.ɓaaj/ </td>
+    <td>‘a kind of banyan tree’</td>
+  </tr>  
+  <tr>
+    <td>ពោធិ៍សាត់ </td>
+    <td>ព ោ ធ ិ ៍ ស ា ត ់ </td>
+	<td>/poo.sat/ </td>
+    <td>‘Pursat province’</td>
+  </tr>  
+  <tr>
+    <td>ព្យាធិ៍ </td>
+    <td>ព ្យ ា ធ ិ ៍ </td>
+	<td>/pjie/ </td>
+    <td>‘leprosy’</td>
+  </tr>  
+  <tr>
+    <td>ព្រហស្បតិ៍ </td>
+    <td>ព ្រ ហ ស ្ប ត ិ ៍ </td>
+	<td>/prɔ.hoah/ </td>
+    <td>‘Thursday’</td>
+  </tr>  
+  <tr>
+    <td>វាទអាទិ៍ </td>
+    <td>វ ា ទ អ ា ទ ិ ៍ </td>
+    <td>/wiet.ʔaat/ </td>
+	<td>‘to try to gain power’</td>
+  </tr>  
+  <tr>
+    <td>សកវាទិ៍ </td>
+    <td>ស ក វ ា ទ ិ ៍ </td>
+	<td>/sak.kak.waa/ </td>
+    <td>‘’</td>
+  </tr>  
+  <tr>
+    <td>ស្មាធិ៍</td>
+    <td>ស ្ម ា ធ ិ ៍</td>
+	<td>/smaat/</td>
+    <td>‘meditate’</td>
+  </tr>    
+  <tr>
+    <td>ស្លឹកពោធិ៍</td>
+    <td>ស ្ល ឹ ក ព ោ ធ ិ ៍ </td>
+	<td>/slək.poo/</td>
+    <td>‘banyan leaf’</td>
+  </tr>    
+</table>
+
 *   after ុ 
-Khmer | Character | IPA | Gloss 
--- | -- | -- | -- 
-រាហុ៍ | រ ា ហ ុ ៍ | /rie/ | ‘name of a giant’
-ចារុ៍ | ច ា រ ុ ៍ | /caa/ | ‘small tubes made of gold’
+<table width="80%">
+  <tr>
+    <th width="20%">Khmer</th>
+    <th width="30%">Character</th>
+    <th width="20%">IPA</th>
+	<th width="30%">Gloss</th>
+  </tr>
+  <tr>
+    <td>រាហុ៍</td>
+    <td>រ ា ហ ុ ៍</td>
+    <td>/rie/</td>
+	<td>‘name of a giant’</td>
+  </tr>
+  <tr>
+    <td>ចារុ៍</td>
+    <td>ច ា រ ុ ៍</td>
+    <td>/caa/</td>
+	<td>‘small tubes made of gold’</td>
+  </tr>
+</table>
 
 It should be rendered right on the consonant. It has never seen being used with any other vowel besides the ones mentioned above.
 
