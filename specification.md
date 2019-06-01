@@ -14,145 +14,6 @@ Conversion notes:
 * Thu May 02 2019 22:08:33 GMT-0700 (PDT)
 * Source doc: https://docs.google.com/open?id=1cSuVrHqid6g2Bf0dVsT3IjIdOsle6mbYYsJE-gXHH8o
 
-ERROR:
-undefined internal link to this URL: "#heading=h.heytalj5nhno".link text: Final Consonants
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.lb0zt9iswpxx".link text: Khmer Orthography
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.yvvrciwby1p".link text: Series Assimilation
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.6rj55mx00poh".link text: Inherent Vowels
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.nkrxdor2oauz".link text: Consonant Shifters
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.m5yfr5ee1x2b".link text: Appendix 1
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.jixwp7pzuotl".link text: Appendix 2
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.ifeekzpbj2si".link text: Appendix 3
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.cwjnd241t8ct".link text: Appendix 4
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.85tjn5trf11a".link text: Consonant Clusters
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.nkrxdor2oauz".link text: Consonant Shifters
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.p5qypot06j09".link text: Special Treatment of Consonant Shifters
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.oyx5zcphqrku".link text: Consonant Shifters with Consonant Clusters
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.l37q2kq6hfy6".link text: Appendix 5
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.2h1z5j4cirxy".link text: Pali
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.cgp0lxiftpvs".link text: Sanskrit
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.hc7eoqxwknzd".link text: Inscriptions
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.e6qfme7q5uf3".link text: Khmer Months of the Year
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.7chsfkqvhpuw".link text: Phase of the Moon
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.4m4qzxge5ekq".link text: Luna dates
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.f69y44o16z2b".link text: Consonant 
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.yoj90q2ioma".link text: Independent 
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.nkrxdor2oauz".link text:  Triisap or Muusikatoan
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.p5qypot06j09".link text: Special Treatment on Consonant Shifters
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.jowrd5ecyj4r".link text: Special Treatment of Consonant Shifters
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.z08bndir6nke".link text: Appendix 5
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.m5yfr5ee1x2b".link text: Initial Consonant Clusters
-?Did you generate a TOC?
-
-
-ERROR:
-undefined internal link to this URL: "#heading=h.nkrxdor2oauz".link text: Consonant Shifters
-?Did you generate a TOC?
-
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server.
 ----->
 
@@ -160,63 +21,6 @@ undefined internal link to this URL: "#heading=h.nkrxdor2oauz".link text: Conson
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 28; WARNINGs: 0; ALERTS: 57.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-<a href="#gdcalert14">alert14</a>
-<a href="#gdcalert15">alert15</a>
-<a href="#gdcalert16">alert16</a>
-<a href="#gdcalert17">alert17</a>
-<a href="#gdcalert18">alert18</a>
-<a href="#gdcalert19">alert19</a>
-<a href="#gdcalert20">alert20</a>
-<a href="#gdcalert21">alert21</a>
-<a href="#gdcalert22">alert22</a>
-<a href="#gdcalert23">alert23</a>
-<a href="#gdcalert24">alert24</a>
-<a href="#gdcalert25">alert25</a>
-<a href="#gdcalert26">alert26</a>
-<a href="#gdcalert27">alert27</a>
-<a href="#gdcalert28">alert28</a>
-<a href="#gdcalert29">alert29</a>
-<a href="#gdcalert30">alert30</a>
-<a href="#gdcalert31">alert31</a>
-<a href="#gdcalert32">alert32</a>
-<a href="#gdcalert33">alert33</a>
-<a href="#gdcalert34">alert34</a>
-<a href="#gdcalert35">alert35</a>
-<a href="#gdcalert36">alert36</a>
-<a href="#gdcalert37">alert37</a>
-<a href="#gdcalert38">alert38</a>
-<a href="#gdcalert39">alert39</a>
-<a href="#gdcalert40">alert40</a>
-<a href="#gdcalert41">alert41</a>
-<a href="#gdcalert42">alert42</a>
-<a href="#gdcalert43">alert43</a>
-<a href="#gdcalert44">alert44</a>
-<a href="#gdcalert45">alert45</a>
-<a href="#gdcalert46">alert46</a>
-<a href="#gdcalert47">alert47</a>
-<a href="#gdcalert48">alert48</a>
-<a href="#gdcalert49">alert49</a>
-<a href="#gdcalert50">alert50</a>
-<a href="#gdcalert51">alert51</a>
-<a href="#gdcalert52">alert52</a>
-<a href="#gdcalert53">alert53</a>
-<a href="#gdcalert54">alert54</a>
-<a href="#gdcalert55">alert55</a>
-<a href="#gdcalert56">alert56</a>
-<a href="#gdcalert57">alert57</a>
 
 <p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
@@ -503,7 +307,7 @@ Khmer phoneme inventory varies from one scholar to another. The inventory hereun
 
 
 ### 4.1 Consonants
-#### 4.1.1 Initial Consonants
+#### 4.1.1 Initial Consonants <a name="InitialConsonants"></a>
 
 There are 21 consonant phonemes shown in the table below. Twelve of them can only occur in the initial position (i.e. they are marked with a hyphen).
 
@@ -664,15 +468,7 @@ Aspirated plosives (pʰ, tʰ, cʰ, kʰ) , implosives (ɓ, ɗ, ɠ), fricatives (f
 
 Some foreign loanwords (i.e. English or French) may break this rule. For instance, ហ្វេសប៊ុក ‘Facebook’ may be pronounced as /fees.ɓuk/. 
 
-Also note that the orthographic representation may be different from the actual pronunciation when it comes to Pali/Sanskrit loanwords. See 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Final Consonants"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Final Consonants](#heading=h.heytalj5nhno) in 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Khmer Orthography"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Khmer Orthography](#heading=h.lb0zt9iswpxx).
+Also note that the orthographic representation may be different from the actual pronunciation when it comes to Pali/Sanskrit loanwords. See [Final Consonants](#FinalConsonants) in [Khmer Orthography](#5).
 
 
 
@@ -873,7 +669,7 @@ where:
 
 
 
-### 4.5. Series Assimilation
+### 4.5. Series Assimilation <a name="SeriesAssimilation"></a>
 
 Sok (2016:24) wrote:
 
@@ -1335,11 +1131,7 @@ In an essence, the vowel quality is changed in harmony with the series of the in
 
 គ /k/ (2nd series) + ា /aa|ie/	>	គា	/kie/
 
-When a word begins with an initial consonant cluster, the 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Series Assimilation"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Series Assimilation](#heading=h.yvvrciwby1p) comes in to play--the least sonorous consonant determines the series of the vowel.
+When a word begins with an initial consonant cluster, the [Series Assimilation](#SeriesAssimilation) comes in to play--the least sonorous consonant determines the series of the vowel.
 
 
 
@@ -2209,15 +2001,7 @@ In rare occurrences, independent vowel can be a subscript, i.e. សុហ្ឫ�
 
 ##### 5.2.1.3. Modified Initial Consonants
 
-Khmer consonants can be changed from one series to another if they do not have a counterpart. Those consonant are listed below. The characters used to modify these consonants are described in the following section (
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Inherent Vowels"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Inherent Vowels](#heading=h.6rj55mx00poh) and 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Consonant Shifters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Consonant Shifters](#heading=h.nkrxdor2oauz)).
+Khmer consonants can be changed from one series to another if they do not have a counterpart. Those consonant are listed below. The characters used to modify these consonants are described in the following section ([Inherent Vowels](#InherentVowels) and [Consonant Shifters](#ConsonantShifters)).
 
 Here is a list of consonants which can be modified.
 
@@ -2486,19 +2270,7 @@ Eight initial complex consonants are used to transliterate foreign loanwords whe
 #### 5.2.2. Consonant Clusters
 ##### 5.2.2.1. Two Consonant Clusters
 
-This [spreadsheet](https://docs.google.com/spreadsheets/d/1iEmx09fLJx3zxViglL9OM7ihoMeNIm2ULoEgc7sMKAk/edit#gid=563719400) shows the instances of consonant clusters occurring in word-initial position (in transparent cells, for examples see 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Appendix 1"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Appendix 1](#heading=h.m5yfr5ee1x2b)), in word medial position (in grey cells, for examples see 
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Appendix 2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Appendix 2](#heading=h.jixwp7pzuotl)) and in final position (in yellow cells, for examples see 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Appendix 3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Appendix 3](#heading=h.ifeekzpbj2si)).  Consonants on the top rows are the first member of the clusters (C<sub>1</sub>), and those on the far left column are the second member (C<sub>2</sub>), which are in subscript forms. The IPA corresponding to each consonant is included in the row and column next to C<sub>1 </sub>and C<sub>2</sub>. The orthographic realization of the clusters are placed in the intersecting cell. For example, the first cluster (ឆ្ក) is composed of ឆ and ក. ក and ក, ខ and ក, គ and ក, ឃ and ក, and ច and ក do not make a cluster, which is why the intersecting cells are empty. 
+This [spreadsheet](https://docs.google.com/spreadsheets/d/1iEmx09fLJx3zxViglL9OM7ihoMeNIm2ULoEgc7sMKAk/edit#gid=563719400) shows the instances of consonant clusters occurring in word-initial position (in transparent cells, for examples see [Appendix 1](#Word-InitialConsonantClusters)), in word medial position (in grey cells, for examples see [Appendix 2](#Word-MedialConsonantClusters)) and in final position (in yellow cells, for examples see [Appendix 3](#Word-FinalConsonantClusters)).  Consonants on the top rows are the first member of the clusters (C<sub>1</sub>), and those on the far left column are the second member (C<sub>2</sub>), which are in subscript forms. The IPA corresponding to each consonant is included in the row and column next to C<sub>1 </sub>and C<sub>2</sub>. The orthographic realization of the clusters are placed in the intersecting cell. For example, the first cluster (ឆ្ក) is composed of ឆ and ក. ក and ក, ខ and ក, គ and ក, ឃ and ក, and ច and ក do not make a cluster, which is why the intersecting cells are empty. 
 
 Note that ឋ /tʰ/ almost never have a subscript after it, only one instance that ឋ /tʰ/ is followed by a subscript as in ដ្ឋ្យ (ដ ្ឋ ្យ). 
 
@@ -2559,15 +2331,11 @@ Three consonant clusters are also found in the final position.
 *   -ន្ទ្រ	ន ្ទ ្រ		as in	សុរេន្ទ្រ		/soʔ.reen/		‘Indra’
 *   -ក្ត្រ	ក ្ត ្រ		as in	ភក្ត្រ		/pʰeak/			‘face’
 
-រ /r/ seems to play an important role in the three consonant clusters. According to the Chuon Nath dictionary data, it usually occurs as the last member of the cluster, but never to be found in between the first and the last member, or it is not pronounceable. For instance, ស្ព្រីង should be typed as it is spelled, like (ស /s/+ ្ព /p/+ ្រ /r/+ ី /ii/+ ង/ŋ/ → /spriiŋ/), not (ស /s/+ ្រ /r/+ ្ព /p/+ ី /ii/+ ង /ŋ/ → /srpiiŋ/). For a list of 50 instances of words with three consonant in the final position (i.e. one consonant followed by two subscripts), please refer to 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Appendix 4"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Appendix 4](#heading=h.cwjnd241t8ct).
+រ /r/ seems to play an important role in the three consonant clusters. According to the Chuon Nath dictionary data, it usually occurs as the last member of the cluster, but never to be found in between the first and the last member, or it is not pronounceable. For instance, ស្ព្រីង should be typed as it is spelled, like (ស /s/+ ្ព /p/+ ្រ /r/+ ី /ii/+ ង/ŋ/ → /spriiŋ/), not (ស /s/+ ្រ /r/+ ្ព /p/+ ី /ii/+ ង /ŋ/ → /srpiiŋ/). For a list of 50 instances of words with three consonant in the final position (i.e. one consonant followed by two subscripts), please refer to [Appendix 4](#ThreeConsonantClusters).
 
 
 
-#### 5.2.3. Final Consonants
+#### 5.2.3. Final Consonants <a name="FinalConsonants"></a>
 
 A final consonant occurs after a vowel in an orthographic syllable. For instance, ក /k/ in ស្អែក /sʔaek/ ‘tomorrow’ is a final consonant because it is in the coda position of the syllable and it is pronounced after the vowel ែ /ae/. However, it is impossible to do syllable analysis algorithmically because of the ambiguities in determining where the syllable boundaries in a sentence given that spaces are not used in between words in Khmer.  
 
@@ -2582,11 +2350,7 @@ Consonant clusters are found in the coda position of Pali/Sanskrit loanwords. Th
 សាស្ត្រ does not have a vowel after the cluster -ស្ត្រ, which is why it is left out of the pronunciation; សាស្ត្រា, however, has ា after the cluster (-ស្ត្រ). In this case, another syllable is created--ស្ត្រា /straa/. 
 
 **F = 	{ក ខ គ ឃ ង ច ជ ញ ដ ឋ ឌ ឍ ណ ត ថ ទ ធ ន ប ព ភ ម យ រ ល វ ស} or** \
-	a random consonant clusters of two or three consonants (See 
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Consonant Clusters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Consonant Clusters](#heading=h.85tjn5trf11a))**
+	**a random consonant clusters of two or three consonants (See [Consonant Clusters](#ConsonantClusters))**
 
 It is important to note that, unlike old Khmer, subscript never occurs after a dependent vowel in the present day Khmer. Here are some examples from Bernard (1902:40-42) and their corresponding words from Khmer Choun Nath Dictionary (1967).
 
@@ -2664,13 +2428,9 @@ Maspero (ibid:70,138) also described the used of subscript ្ង can also be pl
 
 Vowels are divided into three types in this paper: Inherent Vowels, Dependent Vowels and Independent Vowels. 
 
-##### 5.2.4.1. Inherent Vowels
+##### 5.2.4.1. Inherent Vowels <a name="InherentVowels"></a>
 
-Inherent vowels are invisible, so they do not have their orthographic representation. Two inherent vowels are used in the present day Khmer, consonants in the 1st series take /ɑɑ/, and those in the 2nd series take /ɔɔ/. Therefore each Khmer orthographic consonant should be pronounced as shown in the table below. The grey cells shows the modified consonants in correspondent with their counterparts. Explanation as to how they are modified, see 
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Consonant Shifters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Consonant Shifters](#heading=h.nkrxdor2oauz).
+Inherent vowels are invisible, so they do not have their orthographic representation. Two inherent vowels are used in the present day Khmer, consonants in the 1st series take /ɑɑ/, and those in the 2nd series take /ɔɔ/. Therefore each Khmer orthographic consonant should be pronounced as shown in the table below. The grey cells shows the modified consonants in correspondent with their counterparts. Explanation as to how they are modified, see [Consonant Shifters](#ConsonantShifters).
 
 
 <table>
@@ -3568,11 +3328,7 @@ In the present day, there is no evidence of an instance where an independent vow
 
 ### 5.3. Diacritics (signs)
 
-Eight diacritical signs are currently used in the present-day Khmer. They are Muusikatoan (​៉), Triisap (​៊), Bantoc (​់), Robat (​៌), Kakabat (​៎), Ahsda (​៏), Samyok Sannya (​័) and Toandakhiat (​៍). These play different roles in the Khmer spelling conventions. The following sections describe the usage of each of these. The following table shows the frequency of each diacritic as occurred in the headwords of the Chuon Nath Dictionary. _Usually, there is no occurrence of two diacritics in a row, except a combination of Consonant Shifter and a Samyok Sannya. _(See **
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Special Treatment of Consonant Shifters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Special Treatment of Consonant Shifters](#heading=h.p5qypot06j09)**)
+Eight diacritical signs are currently used in the present-day Khmer. They are Muusikatoan (​៉), Triisap (​៊), Bantoc (​់), Robat (​៌), Kakabat (​៎), Ahsda (​៏), Samyok Sannya (​័) and Toandakhiat (​៍). These play different roles in the Khmer spelling conventions. The following sections describe the usage of each of these. The following table shows the frequency of each diacritic as occurred in the headwords of the Chuon Nath Dictionary. _Usually, there is no occurrence of two diacritics in a row, except a combination of Consonant Shifter and a Samyok Sannya. _(See **[Special Treatment of Consonant Shifters](#SpecialTreatmentofConsonantShifters)**)
 
 
 <table>
@@ -3671,15 +3427,11 @@ Eight diacritical signs are currently used in the present-day Khmer. They are Mu
 
 
 
-#### 5.3.1. Consonant Shifters
+#### 5.3.1. Consonant Shifters <a name="ConsonantShifters"></a>
 
 Consonant Shifters are also known as “Series Shifters” or “Register Shifters”. As the name suggests, Consonant Shifters change the series of the consonant from the 1st to the 2nd or vice versa. This is done in order that the Khmer consonant chart is complete and each consonant has their corresponding counterpart as you can See Inherent Vowels above. 
 
-Consonant Shifters can also be used to change the series of consonant clusters. It is usually placed after the cluster, for it changes the series of the cluster, not either of the first nor the second alone (See **
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Consonant Shifters with Consonant Clusters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Consonant Shifters with Consonant Clusters](#heading=h.oyx5zcphqrku)**).
+Consonant Shifters can also be used to change the series of consonant clusters. It is usually placed after the cluster, for it changes the series of the cluster, not either of the first nor the second alone (See **[Consonant Shifters with Consonant Clusters](#ConsonantShifterswithConsonantClusters)**).
 
 
 
@@ -3793,7 +3545,7 @@ Another special case for ប is that even though its consonant quality is /ɓ/, 
 
 
 
-##### 5.3.1.4. Special Treatment of Consonant Shifters
+##### 5.3.1.4. Special Treatment of Consonant Shifters <a name="SpecialTreatmentofConsonantShifters"></a>
 
 According to the spelling convention (Khin 2017:44), Muusikatoan or Triisap has to be turned into a glype that looks like ុ when there is a vowel on top of the base consonant (a.k.a. Above Vowels). Khin (ibid) does not give a list of these vowels, but other scholars do include them. The ុ is not U+17BB, but it is a rendering version of the consonant shifter. Um & Seng (2012:52) and Kul (2008:28-31) state that ិ (U+17B7), ី (U+17B8), ឹ (U+17B9), ឺ (U+17BA), ើ (U+17BE) and ាំ (U+17B6 U+17C6) are the Above Vowels that fall into this special case.
 
@@ -3903,7 +3655,7 @@ Kul (ibid) and Nuon (1954:វសហ) describes a few exceptional cases of when S
 
     However, both spellings are found in everyday use. It may be because this rule has been overlooked.
 
-##### 5.3.1.5. Consonant Shifters with Consonant Clusters
+##### 5.3.1.5. Consonant Shifters with Consonant Clusters <a name="ConsonantShifterswithConsonantClusters"></a>
 
 Consonant Shifters can also be used with consonant clusters when the desired vowel is not the default one that determine by the least sonorous consonant or the cluster composed of consonants from the same series. The consonant shifter is usually placed in between the subscript and the vowel. To some, it should go after the base consonant, but in fact the shifter does not merely change the series of one of the two members. It changes the series of the cluster as a whole.
 
@@ -3918,11 +3670,7 @@ as opposed to ម្ងៃ /mŋej/
 *   ស្ប៉ឹម	ស ្ប ៉ ឹ ម	/spəm/		‘to be stuck at the mouth or entrance’ \
 as opposed to ស្បឹម /sɓəm/
 
-For list of all possible initial consonant clusters with their corresponding counterparts, please see 
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Appendix 5"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Appendix 5](#heading=h.l37q2kq6hfy6).
+For list of all possible initial consonant clusters with their corresponding counterparts, please see [Appendix 5](#InitialConsonantClustersinBothSeries).
 
 
 
@@ -4484,13 +4232,38 @@ Here are some examples of words (from the Choun Nath Dictionary) written with Ka
 
 Ahsda (​៏)  is restrictedly used on five consonants: ក ដ ន ម ហ. They are pronounced with their respective inherent vowel. It is used to disambiguate the single character words
 
-Khmer | IPA | Gloss
--- | -- | --
-ក៏ | /kɑɑ/ | ‘also’
-ដ៏ | /ɗɑɑ/ | ‘so, very’
-ន៏ | /nɑɑ/ | ‘(usually used with នុ៎ះ)’
-ម៏ | /mɔɔ/ |	‘to come (colloquial)’
-ហ៏ | /hɑɑ/ | ‘(say this when passing something to someone)’
+<table width="50%">
+  <tr>
+    <th width="20%">Khmer</th>
+    <th width="20%">IPA</th>
+	<th width="60%">Gloss</th>
+  </tr>
+  <tr>
+    <td>ក៏ </td>
+    <td>/kɑɑ/ </td>
+    <td>‘also’</td>
+  </tr>
+  <tr>
+    <td>ដ៏ </td>
+    <td>/ɗɑɑ/ </td>
+    <td>‘so, very’</td>
+  </tr>
+  <tr>
+    <td>ន៏ </td>
+    <td>/nɑɑ/ </td>
+    <td>‘(usually used with នុ៎ះ)’</td>
+  </tr>
+  <tr>
+    <td>ម៏ </td>
+    <td>/mɔɔ/ </td>
+    <td>‘to come (colloquial)’</td>
+  </tr>
+  <tr>
+    <td>ហ៏ </td>
+    <td>/hɑɑ/ </td>
+    <td>‘(say this when passing something to someone)’</td>
+  </tr>
+</table>
 
 Ahsda never occurs after a consonant cluster.
 
@@ -4816,19 +4589,7 @@ It should be rendered right on the consonant. It has never seen being used with 
 
 ### 5.4. Obsolete Characters
 
-Some signs are no longer used in the present-day Khmer texts. They have been known to be used in Pali/Sanskrit loanwords (see sections on 
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Pali"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Pali](#heading=h.2h1z5j4cirxy), 
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Sanskrit"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Sanskrit](#heading=h.cgp0lxiftpvs) and 
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Inscriptions"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Inscriptions](#heading=h.hc7eoqxwknzd)).
+Some signs are no longer used in the present-day Khmer texts. They have been known to be used in Pali/Sanskrit loanwords (see sections on [Pali](#Pali), [Sanskrit](#Sanskrit) and [Inscriptions](#10)).
 
 
 
@@ -5418,21 +5179,13 @@ Divination lore (a.k.a. លេខ​អត្ត “Lek Attak”) is used in Old
 
 
 
-### 5.8. Lunar Dates
+### 5.8. Lunar Dates <a name="LunarDates"></a>
 
-Khmer traditional date system follows the moon’s phase. It is divided into two main categories: ខ្នើត “waxing moon” and រនោច “waning moon”. The proper way of writing the date is using the Khmer numerals with a Khmer punctuation character “។”. Khin (2007:87-88) illustrates that the number to the left of the Khan (។) denotes days of the week (i.e. ១ for Sunday, ២ for Monday and so forth), to the right of it is the number value of Khmer months as given in 
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Khmer Months of the Year"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Khmer Months of the Year](#heading=h.e6qfme7q5uf3), and the number that goes above or underneath the sign corresponding with the 
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Phase of the Moon"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Phase of the Moon](#heading=h.7chsfkqvhpuw) (i.e. if number if above the sign, it denotes “waxing moon”; underneath, “waning moon”). For instance, ១᧺៥ is read as “Sunday, 10th day of the waning moon, 
+Khmer traditional date system follows the moon’s phase. It is divided into two main categories: ខ្នើត “waxing moon” and រនោច “waning moon”. The proper way of writing the date is using the Khmer numerals with a Khmer punctuation character “។”. Khin (2007:87-88) illustrates that the number to the left of the Khan (។) denotes days of the week (i.e. ១ for Sunday, ២ for Monday and so forth), to the right of it is the number value of Khmer months as given in [Khmer Months of the Year](#KhmerMonthsoftheYear), and the number that goes above or underneath the sign corresponding with the [Phase of the Moon](#PhaseoftheMoon) (i.e. if number if above the sign, it denotes “waxing moon”; underneath, “waning moon”). For instance, ១᧺៥ is read as “Sunday, 10th day of the waning moon, 
 
 
 
-#### 5.8.1. Phase of the Moon
+#### 5.8.1. Phase of the Moon <a name="PhaseoftheMoon"></a>
 ##### 5.8.1.1. ខ្នើត “Waxing Moon”
 
 Waxing moon, a.k.a. ខ្នើត /knaət/ in Khmer, is the first 15 days of the lunar month.
@@ -5477,13 +5230,12 @@ Waning moon, a.k.a. រនោច /rɔ.nooc/ in Khmer, is a period of 15 days in 
 *   ᧽	U+19FD		/ɗɑp.ɓəj.rooc/		‘the thirteenth day’
 *   ᧾	U+19FE		/ɗɑp.ɓuən.rooc/	‘the fourteenth day’
 *   ᧿	U+19FF		/ɗɑp.pram.rooc/	‘the fifteenth day’
-#### 5.8.2. Khmer Months of the Year
 
-Khmer months of the year is used in fortune telling and they have their own numeric value which is also used in Luna date described in a section on 
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Luna dates"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-[Luna dates](#heading=h.4m4qzxge5ekq).
+#### 5.8.2. Khmer Months of the Year <a name="KhmerMonthsoftheYear"><a/>
+
+Khmer months of the year is used in fortune telling and they have their own numeric value which is also used in Lunar date described in a section on [Lunar dates](#LunarDates).
 
 
 <table>
@@ -5623,70 +5375,41 @@ Khmer months of the year is used in fortune telling and they have their own nume
 ### 6.1. Consonant and Vowel Combination
 Khin (2007:41) illustrates the anatomy of Khmer consonants and how Khmer characters should be written. There are three levels to consider: (1) the top level is reserved for a vowel, Consonant Shifters and/or a diacritic, (2) the middle level is for consonants and (3) the bottom level is for subscripts and/or a vowel (see the image below). In level (1), if a vowel and a diacritic occur together, the diacritic stay above the vowel (i.e. អឺ៎), but if the diacritic is a Triisap, the vowel should be placed above the Triisap (i.e. អ៊‌ីត). In level (3), if a subscript is used with a Below Vowel[^13], the Below vowel should be placed right below the subscript (i.e. ស្ដុក). 
 
-
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character0.png "image_tooltip")
+![Anatomy of Khmer consonants](images/Khmer-Character0.png "Anatomy of Khmer consonants")
 
 
 However, given that the space is limited when below subscript and below vowel stacked together. Two solutions have been done: (a) put the below subscript and below vowel sideways and (b) shrink the base consonant to accommodate the subscript allowing the below vowel to stay above its default position.
 
+![The below subscript and below vowel stacked together](images/Khmer-Character1.png "The below subscript and below vowel stacked together")
 
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character1.png "image_tooltip")
  (a) 
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![The below subscript and below vowel side-by-side](images/Khmer-Character2.png "The below subscript and below vowel side-by-side")
 
+ (b) 
 
-![alt_text](images/Khmer-Character2.png "image_tooltip")
-	(b) 
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character3.png "image_tooltip")
+![The base consonant shrunk to accommodate the subscript](images/Khmer-Character3.png "The base consonant shrunk to accommodate the subscript")
 
 
 A consonant consists of two parts: the body and the head or usually called hair. For instance, ក is composed of an upside down U shape and a wavy line above it. The upside down U shape is the body and the wavy line is the hair. When ក stands on its own, the wavy line presides on the body fully; however, when a vowel[^14] that looks like ា is attached to it. The wavy line goes beyond the body and gets merged with the vowel as illustrated in (b). (a) is not recommended as it goes against the consonant and vowel composition convention.
 
 (a)
 
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![កា without the consonant and vowel merged](images/Khmer-Character4.png "កា without the consonant and vowel merged")
 
-
-![alt_text](images/Khmer-Character4.png "image_tooltip")
 (b)
 
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character5.png "image_tooltip")
+![កា with the consonant and vowel merged](images/Khmer-Character5.png "កា with the consonant and vowel merged")
 
 
 A proof of how Khmer characters should be presented when combining a consonant with a wavy line and a ា looking vowel exists in Khmer manuscript written on palm leaves (see image below). The word highlighted is ភាសា (ភ ា ស ា) and you may notice the difference in how the wavy line looks when the consonant stands alone and when it is attached to ា.
 
-
-
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character6.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character6.jpg "image_tooltip")
+![Khmer manuscript on palm leaves](images/Khmer-Character6.jpg "Khmer manuscript on palm leaves")
 
 
 NOTE: When ប is combined with ា ោ or ៅ , the shape of the consonant change to បា បោ and បៅ respectively (see the image below).
 
-
-
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character7.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character7.png "image_tooltip")
+![ប with ា ោ or ៅ](images/Khmer-Character7.png "ប with ា ោ or ៅ")
 
 
 
@@ -5697,32 +5420,17 @@ NOTE: When ប is combined with ា ោ or ៅ , the shape of the consonant chan
 
 This is the character when it stands alone.
 
-
-
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character8.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character8.png "image_tooltip")
+![ញ](images/Khmer-Character8.png "ញ")
 
 
 This is the character with ្ច attached to it.
 
-
-
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character9.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character9.png "image_tooltip")
+![ញ with ្ច](images/Khmer-Character9.png "ញ with ្ច")
 
 
 If the character (ញ) needs to be combined with its own subscript (្ញ), the combination should look like this:
 
-
-
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character10.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character10.png "image_tooltip")
+![ញ and its own subscript](images/Khmer-Character10.png "ញ and its own subscript")
 
 
 
@@ -5733,38 +5441,17 @@ When vowel ិ [U+17B7] is followed by diacritic ៍ [U+17CD], they get connecte
 
 
 ### 6.4. ក, គ, ត, ភ, វ and ិ, ី, ឹ, ឺ
-In some font, Khmer OS Muol for example, the combination of consonants ក (U+1780), គ (U+1782), ត (U+178F), ភ (U+1797) and វ (U+17) and above vowels (i.e.  ិ (), ី (), ឹ (), ឺ ()) becomes a glyph whose top line (i.e. the hair, the wavy line) got straighten and be in a shape similar to the vowels.
+In some font, Khmer OS Muol for example, the combination of consonants ក (U+1780), គ (U+1782), ត (U+178F), ភ (U+1797) and វ (U+179C) and above vowels (i.e.  ិ (), ី (), ឹ (), ឺ ()) becomes a glyph whose top line (i.e. the hair, the wavy line) got straighten and be in a shape similar to the vowels.
 
+![ក (U+1780) and above vowels](images/Khmer-Character11.png "ក (U+1780) and above vowels")
 
+![គ (U+1782) and above vowels](images/Khmer-Character12.png "គ (U+1782) and above vowels")
 
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character11.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![ត (U+178F) and above vowels](images/Khmer-Character13.png "ត (U+178F) and above vowels")
 
+![ភ (U+1797) and above vowels](images/Khmer-Character14.png "ភ (U+1797) and above vowels")
 
-![alt_text](images/Khmer-Character11.png "image_tooltip")
-
-
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character12.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character12.png "image_tooltip")
-
-
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character13.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character13.png "image_tooltip")
-
-
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character14.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character14.png "image_tooltip")
-
-
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character15.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character15.png "image_tooltip")
+![វ (U+179C) and above vowels](images/Khmer-Character15.png "វ (U+179C) and above vowels")
 
 
 
@@ -5886,24 +5573,12 @@ where
 
 
 
-*   Cons – 
-
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Consonant "). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Consonant ](#heading=h.f69y44o16z2b)character 
-*   IndV – 
-
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Independent "). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Independent ](#heading=h.yoj90q2ioma)vowel character
+*   Cons – [Consonant ](#InitialConsonants)character 
+*   IndV – [Independent ](#InherentVowels)vowel character
 *   COENG – The COENG code
 *   PreV – Vowel that is positioned before the base glyph
 *   BlwV – Vowel that is positioned below the base glyph
-*   RegShift –
-
-<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: " Triisap or Muusikatoan"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[ Triisap or Muusikatoan](#heading=h.nkrxdor2oauz) character
+*   RegShift –[ Triisap or Muusikatoan](#ConsonantShifters) character
 *   AbvV - Vowel that is positioned above the base glyph
 *   AbvS – A sign character that is positioned above the base glyph
 *   PstV – Vowel that is positioned after the base glyph
@@ -6338,11 +6013,7 @@ This is a case of combining a subscript with a consonant shifter. The Khmer spel
 
 #### 7.4.4. Concatenation of A Consonant Shifter and a Vowel
 
-This is a special case of Khmer text rendering. The consonant shifter, either ៊ [U+17CA] or ៉ [U+17C9], has to be rendered as a glyph that looks like ុ , when there is an above vowel attached to it (See 
-
-<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Special Treatment on Consonant Shifters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Special Treatment on Consonant Shifters](#heading=h.p5qypot06j09)).
+This is a special case of Khmer text rendering. The consonant shifter, either ៊ [U+17CA] or ៉ [U+17C9], has to be rendered as a glyph that looks like ុ , when there is an above vowel attached to it (See [Special Treatment on Consonant Shifters](#SpecialTreatmentonConsonantShifters)).
 
 *   Consonant Shifter (​៊) + Above vowel	ស ៊ ី		> ស៊ី	‘to eat (vulgar)’ 
 *   Above vowel + Below vowel		ស ី ុ 		> សុី 	**invalid sequence**
@@ -6385,11 +6056,7 @@ This is the case of identical subscript. The users do not see any different in t
 
 *   Zero Width Space is an invisible space (i.e. no width) which is usually put in between words in a sentence. It is helpful for text processing tools because it tells where the word boundaries are (Open Forum of Cambodia 2004:16-17).
 *   Zero Width non-Joiner can be inserted before consonant shifters in order to prevent them from being rendered as subscript (​ុ), and it can also be inserted directly before vowels in order to prevent the formation of ligatures between the base character and the vowel. (Kanjahn 2012:3).
-*   Zero Width Joiner can also be used before vowels to force a ligature between above vowels (see the section on **
-
-<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Special Treatment of Consonant Shifters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Special Treatment of Consonant Shifters](#heading=h.jowrd5ecyj4r)**) and certain consonants.
+*   Zero Width Joiner can also be used before vowels to force a ligature between above vowels (see the section on **[Special Treatment of Consonant Shifters](#SpecialTreatmentofConsonantShifters)**) and certain consonants.
 
 ## 8. Text Processing <a name="8"></a>
 
@@ -6420,12 +6087,7 @@ Below is the standard key arrangement approved by the National ICT Development A
 
 Here is how the layout looks:
 
-
-
-<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character16.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character16.png "image_tooltip")
+![Khmer Unicode Keyboard](images/Khmer-Character16.png "Khmer Unicode Keyboard")
 
 
 For smartphone, there is no standard keyboard layout in place when it comes to the number of rows on each layer and the number of characters on each row. However, most keyboards use 4x10 on each layer, meaning 4 rows and 10 characters on each row.
@@ -6438,9 +6100,7 @@ The Royal Academy of Cambodia was approached and asked for advice regarding the 
 
 Khmer typefaces have changed significantly since the 6th century. The following image shows how Khmer consonants evolved over time as quoted by Scheuren (2010:8) from Maspero (1915:48).
 
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character17.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/Khmer-Character17.png "image_tooltip")
+![Khmer consonants evolved over time](images/Khmer-Character17.png "Khmer consonants evolved over time")
 
 #### 8.3.1. Font Style
 
@@ -6454,9 +6114,7 @@ To date, the Mool style is usually used in banners and titles of books or articl
    </td>
    <td>
 
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character18.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/Khmer-Character18.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/Khmer-Character18.png" alt="Khmer OS Moul font face" title="Khmer OS Moul font face">
 
    </td>
   </tr>
@@ -6465,9 +6123,7 @@ To date, the Mool style is usually used in banners and titles of books or articl
    </td>
    <td>
 
-<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character19.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/Khmer-Character19.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/Khmer-Character19.png" alt="Khmer OS Metalchrieng font face" title="Khmer OS Metalchrieng font face">
 
    </td>
   </tr>
@@ -6476,9 +6132,7 @@ To date, the Mool style is usually used in banners and titles of books or articl
    </td>
    <td>
 
-<p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character20.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/Khmer-Character20.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/Khmer-Character20.png" alt="Khmer OS system font face" title="Khmer OS system font face">
 
    </td>
   </tr>
@@ -6644,11 +6298,7 @@ Khmer alphabet is not only used to write Khmer language, but it  is also used to
 *   a list of consonants, subscripts, vowels, diacritics, symbols and punctuations if applicable
 *   how the writing system is different from Khmer
 
-See 
-
-<p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Appendix 5"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Appendix 5](#heading=h.z08bndir6nke) for a side by side comparison of the characters existing in Khmer and each ethnic language.
+See [Appendix 6](#OrthographicComparisonCharts) for a side by side comparison of the characters existing in Khmer and each ethnic language.
 
 The following sections has a list of characters used in each ethnic minority language if the form of table where the orthographic characters are in the first row, phonemic representations corresponding with the orthographic characters in the second row and the unicode code points in the third row.
 
@@ -10149,7 +9799,7 @@ Punctuation are used in the same as in Khmer language (i.e. ។ “” «» ? ! 
 
 ### 9.7. Sastras
 
-#### 9.7.1. Pali
+#### 9.7.1. Pali <a name="Pali"></a>
 
 Nhok (1962:1-2) wrote that there are 41 characters in the Pali alphabet inventory--8 vowels and 33 consonants. Note that vowels are divided into two groups: independent and dependent. It is observed independent vowels usually start a syllable, while the dependent ones always attached to a initial consonant.
 
@@ -10841,7 +10491,7 @@ U+17C6
 *   Nikahit is used to combine with two vowels: ិ and ុ to make ិំ and ុំ. ិំ is exceptionally found in Pali, and never in Khmer spelling convention. (It may be replaced by ឹ in Khmer alphabet.)
 *   Consonants can be stacked together but not pronounced as a cluster. The subscript is pronounced as an initial consonant of the next syllable whether or not there is a vowel after it.
 
-#### 9.7.2. Sanskrit
+#### 9.7.2. Sanskrit <a name="Sanskrit"></a>
 
 This inventory is adapted from Huot (1956:1-5,18-21). In a more recent book, Hum (2005:ឌ,ឍ,ធ) includes three additional consonants: ឡ ក្ស ជ្ញ. Sanskrit has 33 consonants, 33 subscripts, nine dependent vowels, 13 independent vowels and six diacritics.
 
@@ -11600,6 +11250,8 @@ U+17AD
 
 ក្ឭ is rendered incorrectly here, it should be rendered as shown below
 
+![ក្ឭ](images/Khmer-Character21.png "ក្ឭ")
+
 ##### 9.7.2.6. Sanskrit Diacritics
 
 <table>
@@ -11615,12 +11267,7 @@ U+17AD
    </td>
    <td>៌
    </td>
-   <td>
-
-<p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character21.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/Khmer-Character21.png" width="" alt="alt_text" title="image_tooltip">
-
+   <td><img src="images/Khmer-Character24.png" width="" alt="Anuneaseka" title="Anuneaseka">
    </td>
   </tr>
   <tr>
@@ -11685,46 +11332,31 @@ U+17AD
 ហវីំឞិ \
 
 
-<p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character22.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character22.png "image_tooltip")
+![ហវីំឞិ](images/Khmer-Character22.png "ហវីំឞិ")
 
     *   Anusvara is placed on an indepdent vowel (ibid:115) \
 ឧំឞិ \
 
 
-<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character23.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character23.png "image_tooltip")
+![ឧំឞិ](images/Khmer-Character23.png "ឧំឞិ")
 
 *    ះ Visarga or Visachani (Huot 1956:19-20)
-*   
-
-<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character24.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+*    Anuneaseka (Huot 1956:19)
 
 
-![alt_text](images/Khmer-Character24.png "image_tooltip")
- Anuneaseka (Huot 1956:19)
+![Anuneaseka](images/Khmer-Character24.png "Anuneaseka")
+
+
 *   ៌ Athisvara RO in a cluster as the second member (Huot 1956:26). It is not listed as one of the 5 diacritics. It is instead an alternative appearance of រ when occurring after another consonant in an initial cluster.
     *   AbvV can be placed above the Athisvara (ibid:133) \
 ចតុថ៌ី \
 
-
-<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character25.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character25.png "image_tooltip")
+![ចតុថ៌ី](images/Khmer-Character25.png "ចតុថ៌ី")
 
     *   The Athisvara is placed on a subscript (ibid:160) \
 ចតុក្យ៌ស៑ \
 
-
-<p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character26.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character26.png "image_tooltip")
+![ចតុក្យ៌ស៑](images/Khmer-Character26.png "ចតុក្យ៌ស៑")
 
 ##### 9.7.2.7. How is the writing system different from Khmer?
 *   The use of the two obsolete characters (i.e. ឞ ឝ ៑).
@@ -11736,11 +11368,7 @@ U+17AD
     *   ស្ម្ឫតិ \
 
 
-<p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character27.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character27.png "image_tooltip")
- \
+![ស្ម្ឫតិ](images/Khmer-Character27.png "ស្ម្ឫតិ")
 
 *   Consonant clusters which never exist in Khmer languageː
     *   សត្ត្វ		sattva	‘animal’
@@ -11750,11 +11378,7 @@ U+17AD
 មត្ស្យ is not rendered correctly here, it should be rendered as shown below:
 
 
-
-<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Khmer-Character28.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Khmer-Character28.png "image_tooltip")
+![មត្ស្យ](images/Khmer-Character28.png "មត្ស្យ")
 
 
 
@@ -12358,7 +11982,7 @@ It is observed (1) that some obsolete characters are commonly used in minority l
 
 # Appendixes <a name="appendix"></a>
 
-## 1. Word-Initial Consonant Clusters
+## 1. Word-Initial Consonant Clusters <a name="InitialConsonantClusters"></a>
 
 All possible word-initial consonant clusters as found in the headwords in Khmer-Khmer Dictionary together with their phonemic representations, series, number of instances in the dictionary and the examples are illustrated in the table below. In the official Khmer-Khmer dictionary, 4397 instances of word-initial consonant clusters are found and and there are at least 164 possible unique clusters. Nine consonants (#33, #55, #56, #57, #58, #59, #134, #135 and #169) do not take a subscript in word-initial position. 
 
@@ -15500,7 +15124,7 @@ The number of instances found in the Khmer-Khmer Dictionary (KKD) is obtained by
   </tr>
 </table>
 
-## 2. Word-Medial Consonant Clusters
+## 2. Word-Medial Consonant Clusters <a name="Word-MedialConsonantClusters"></a>
 
 The table below show a list of all possible consonant clusters occurs in word-medial position. To do so, a RegEx pattern is used to filter for them. The pattern is “[^្]C្C[^្]” which guarantees that there is no preceding or trailing subscript. Figures and examples are obtained from an online dictionary ([http://dictionary.tovnah.com/reg-search](http://dictionary.tovnah.com/reg-search)). For example, [^្]ក្.[^្] matches any word containing ក and ្ which is followed by a consonant which has no subscript after it. 
 
@@ -16309,7 +15933,7 @@ In order not to show the same sequences of the consonant clusters, only the ones
   </tr>
 </table>
 
-## 3. Word-Final Consonant Clusters
+## 3. Word-Final Consonant Clusters <a name="Word-FinalConsonantClusters></a>
 
 Words ending in consonant clusters are Pali/Sanskrit loanwords.
 
@@ -17092,7 +16716,7 @@ Words ending in consonant clusters are Pali/Sanskrit loanwords.
   </tr>
 </table>
 
-## 4. Three Consonant Clusters
+## 4. Three Consonant Clusters <a name="ThreeConsonantClusters"></a>
 
 The consonant clusters with two subscripts occurs mostly in word-medial position (i.e. 170 instances found in the Khmer-Khmer Dictionary), then less frequent in the word-final position (i.e. 50 instances), and it rarely occurs in the initial position (i.e. only 4 instances found). There is no instance of when there are three subscripts follows a consonant. See the table below. Instances of three subscripts following a consonant does not exist in the KKD.
 
@@ -17243,17 +16867,9 @@ The consonant clusters with two subscripts occurs mostly in word-medial position
   </tr>
 </table>
 
-## 5. Initial Consonant Clusters in Both Series
+## 5. Initial Consonant Clusters in Both Series <a name="InitialConsonantClustersinBothSeries"></a>
 
-The following table is an extended list of 
-
-<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Initial Consonant Clusters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Initial Consonant Clusters](#heading=h.m5yfr5ee1x2b). The clusters modified by 
-
-<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Consonant Shifters"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Consonant Shifters](#heading=h.nkrxdor2oauz) are included next to their respective pair, however they are not officially used or recognized by the public yet. They are there as a reminder that they might be needed in the future, especially with transliterated words. 
+The following table is an extended list of [Initial Consonant Clusters](#InitialConsonantClusters). The clusters modified by [Consonant Shifters](#ConsonantShifters) are included next to their respective pair, however they are not officially used or recognized by the public yet. They are there as a reminder that they might be needed in the future, especially with transliterated words. 
 
 No attempt has been made to create a list of the more complex initial consonant clusters (i.e. three consonant clusters).
 
@@ -18332,7 +17948,7 @@ No attempt has been made to create a list of the more complex initial consonant 
   </tr>
 </table>
 
-## 6. Orthographic comparison [charts](https://docs.google.com/spreadsheets/d/1z-bBl4KJCcD2HNFnAgeshK7gNF37cJJi1nv30btg8Mk/edit#gid=13999464)
+## 6. Orthographic comparison [charts](https://docs.google.com/spreadsheets/d/1z-bBl4KJCcD2HNFnAgeshK7gNF37cJJi1nv30btg8Mk/edit#gid=13999464) <a name="OrthographicComparisonCharts"></a>
 ## 7. Khmer signs distribution [chart](https://docs.google.com/spreadsheets/d/1oDN8Eg05nXxVrrph3HBowa_R-2W75afB6uGNVDXfqBs/edit#gid=0)
 
 <!-- Footnotes themselves at the bottom. -->
