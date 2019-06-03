@@ -136,7 +136,7 @@ There are 27 languages spoken in Cambodia, according to the Ethnologue (Simons e
    <td>3
    </td>
    <td id="fn1">Brao [brb], Jarai [jra],
-   Central Mnong<sup><a href="fn1">[1]</a></sup> [cmo]
+   Central Mnong<sup><a href="#fn1">[1]</a></sup> [cmo]
    </td>
   </tr>
   <tr>
@@ -160,7 +160,7 @@ There are 27 languages spoken in Cambodia, according to the Ethnologue (Simons e
    </td>
    <td>2
    </td>
-   <td id="fn2">Kuay<sup><a href="fn2">[2]</a></sup> [kdt], Su’ung [syo]
+   <td id="fn2">Kuay<sup><a href="#fn2">[2]</a></sup> [kdt], Su’ung [syo]
    </td>
   </tr>
   <tr>
@@ -494,7 +494,7 @@ There are 18 monophthongsː 10 long monophthongs and 8 short monophthongs.
    </td>
    <td>ii
    </td>
-   <td id="fn3">ɨ<sup><a href="fn3">[3]</a></sup>
+   <td id="fn3">ɨ<sup><a href="#fn3">[3]</a></sup>
    </td>
    <td>ɨɨ
    </td>
@@ -508,15 +508,15 @@ There are 18 monophthongsː 10 long monophthongs and 8 short monophthongs.
    </td>
    <td>e
    </td>
-   <td id="fn4">ee<sup><a href="fn4">[4]</a></sup>
+   <td id="fn4">ee<sup><a href="#fn4">[4]</a></sup>
    </td>
    <td>ə
    </td>
-   <td id="fn5">əə<sup><a href="fn5">[5]</a></sup>
+   <td id="fn5">əə<sup><a href="#fn5">[5]</a></sup>
    </td>
    <td>o
    </td>
-   <td id="fn6">oo<sup><a href="fn6">[6]</a></sup>
+   <td id="fn6">oo<sup><a href="#fn6">[6]</a></sup>
    </td>
   </tr>
   <tr>
@@ -703,7 +703,7 @@ The table below reads IMPLOSIVE consonants are the least sonorous and SONORANT c
    </td>
    <td>1st Series
    </td>
-   <td id="fn7">ក      ច      ត      -     អ<sup><a href="fn7">[7]</a></sup>
+   <td id="fn7">ក      ច      ត      -     អ<sup><a href="#fn7">[7]</a></sup>
    </td>
   </tr>
   <tr>
@@ -2733,7 +2733,7 @@ The table below shows the vowels as taught in school (Um & Seng 2012ː1).
    </td>
   </tr>
   <tr>
-   <td id="fn8">ិ<sup><a href="fn8">[8]</a></sup>
+   <td id="fn8">ិ<sup><a href="#fn8">[8]</a></sup>
    </td>
    <td>U+17B7
    </td>
@@ -3226,7 +3226,7 @@ Independent vowels are able to start a syllable without an initial consonant or 
    </td>
    <td>U+17B1
    </td>
-   <td rowspan="2" colspan="3" id="fn9">ឱ្យ or ឲ្យ<sup><a href="fn9">[9]</a></sup> /<strong>ʔao</strong>j/ ‘to give’
+   <td rowspan="2" colspan="3" id="fn9">ឱ្យ or ឲ្យ<sup><a href="#fn9">[9]</a></sup> /<strong>ʔao</strong>j/ ‘to give’
    </td>
    <td rowspan="2" >55
 <p>
@@ -3574,7 +3574,7 @@ Kul (ibid) and Nuon (1954:វសហ) describes a few exceptional cases of when S
 
 <table width="80%">
 <tr>
-	<td width="20%" id="fn10">អ៊‌ឹម<sup><a href="fn10">[10]</a></sup></td>
+	<td width="20%" id="fn10">អ៊‌ឹម<sup><a href="#fn10">[10]</a></sup></td>
 	<td width="20%">អ ៊ ZWNJ ឹ ម</td>
 	<td width="20%">/ʔɨm/</td>
 	<td width="30%">‘to be breastfed’</td>
@@ -4182,7 +4182,7 @@ Here are some examples of words (from the Choun Nath Dictionary) written with Ka
     <td></td>
   </tr>
   <tr>
-    <td id="fn11">ណា៎ !  <br> ណ៎ះ<sup><a href="fn11">[11]</a></sup>   <br> ហ្ន៎ះ ! </td>
+    <td id="fn11">ណា៎ !  <br> ណ៎ះ<sup><a href="#fn11">[11]</a></sup>   <br> ហ្ន៎ះ ! </td>
     <td>/naa/ <br>/nah/  <br> /nah/</td>
 	<td>ណ ា ៎ !  <br> ណ ៎ ះ !  <br> ហ ្ន ៎ ះ !</td>
     <td>‘(affirmation)’</td>
@@ -5235,7 +5235,7 @@ Khmer months of the year is used in fortune telling and they have their own nume
   <tr>
    <td><strong>Khmer Name</strong>
    </td>
-   <td id="fn12"><strong>Sankrit Name</strong><sup><a href="fn12">[12]</a></sup>
+   <td id="fn12"><strong>Sankrit Name</strong><sup><a href="#fn12">[12]</a></sup>
    </td>
    <td><strong>English Transliteration</strong>
    </td>
@@ -5366,7 +5366,7 @@ Khmer months of the year is used in fortune telling and they have their own nume
 
 ## 6. Ligatures <a name="Ligatures"></a>
 ### 6.1. Consonant and Vowel Combination
-Khin (2007:41) illustrates the anatomy of Khmer consonants and how Khmer characters should be written. There are three levels to consider: (1) the top level is reserved for a vowel, Consonant Shifters and/or a diacritic, (2) the middle level is for consonants and (3) the bottom level is for subscripts and/or a vowel (see the image below). In level (1), if a vowel and a diacritic occur together, the diacritic stay above the vowel (i.e. អឺ៎), but if the diacritic is a Triisap, the vowel should be placed above the Triisap (i.e. អ៊‌ីត). In level (3), if a subscript is used with a Below <div id="fn13">Vowel<sup><a href="fn13">[13]</a></sup></div>, the Below vowel should be placed right below the subscript (i.e. ស្ដុក). 
+Khin (2007:41) illustrates the anatomy of Khmer consonants and how Khmer characters should be written. There are three levels to consider: (1) the top level is reserved for a vowel, Consonant Shifters and/or a diacritic, (2) the middle level is for consonants and (3) the bottom level is for subscripts and/or a vowel (see the image below). In level (1), if a vowel and a diacritic occur together, the diacritic stay above the vowel (i.e. អឺ៎), but if the diacritic is a Triisap, the vowel should be placed above the Triisap (i.e. អ៊‌ីត). In level (3), if a subscript is used with a Below <div id="fn13">Vowel<sup><a href="#fn13">[13]</a></sup></div>, the Below vowel should be placed right below the subscript (i.e. ស្ដុក). 
 
 ![Anatomy of Khmer consonants](images/Khmer-Character0.png "Anatomy of Khmer consonants")
 
@@ -5384,7 +5384,7 @@ However, given that the space is limited when below subscript and below vowel st
 ![The base consonant shrunk to accommodate the subscript](images/Khmer-Character3.png "The base consonant shrunk to accommodate the subscript")
 
 
-A consonant consists of two parts: the body and the head or usually called hair. For instance, ក is composed of an upside down U shape and a wavy line above it. The upside down U shape is the body and the wavy line is the hair. When ក stands on its own, the wavy line presides on the body fully; however, when a <div id="fn14"> vowel<sup><a href="fn14">[14]</a></sup></div> that looks like ា is attached to it. The wavy line goes beyond the body and gets merged with the vowel as illustrated in (b). (a) is not recommended as it goes against the consonant and vowel composition convention.
+A consonant consists of two parts: the body and the head or usually called hair. For instance, ក is composed of an upside down U shape and a wavy line above it. The upside down U shape is the body and the wavy line is the hair. When ក stands on its own, the wavy line presides on the body fully; however, when a <div id="fn14"> vowel<sup><a href="#fn14">[14]</a></sup></div> that looks like ា is attached to it. The wavy line goes beyond the body and gets merged with the vowel as illustrated in (b). (a) is not recommended as it goes against the consonant and vowel composition convention.
 
 (a)
 
@@ -5739,7 +5739,7 @@ The table below illustrates which character can be placed after another in the s
    </td>
    <td>x
    </td>
-   <td id="fn15">v<sup><a href="fn15">[15]</a></sup>
+   <td id="fn15">v<sup><a href="#fn15">[15]</a></sup>
    </td>
    <td>x
    </td>
@@ -6087,7 +6087,7 @@ For smartphone, there is no standard keyboard layout in place when it comes to t
 
 ### 8.2. Sorting
 
-The Royal Academy of Cambodia was approached and asked for advice regarding the sorting in Khmer. It turns out that there is no documentation related to this topic that could help. The Choun Nath dictionary seems to deploy two ways of sorting: (1) alphabetical order of characters and (2) alphabetical order of sounds. You may find words written with similar initial consonant sounds listed next to another. For instance, words begin with independent vowel ឫ are listed after the consonant រ which sounds similar to the independent vowel. A paper done by PAN <div id="fn16">localization<sup><a href="fn16">[16]</a></sup>(nd) entitled “Khmer Collation Development” suggests a solution that the sorting used in the Chuon Nath dictionary has to be adapted. Chuon Nath dictionary sorts entries based on they are pronounced, not the spelling. For instance, បង់ [U+1794 U+1784 U+17CB] is listed before បកតិ [U+1794 U+1780 U+178F U+17B7] even though the second character of the second word (i.e. ក [U+1780]) appears before that of the first word (i.e. ង [U+1784]) in the alphabet chart.
+The Royal Academy of Cambodia was approached and asked for advice regarding the sorting in Khmer. It turns out that there is no documentation related to this topic that could help. The Choun Nath dictionary seems to deploy two ways of sorting: (1) alphabetical order of characters and (2) alphabetical order of sounds. You may find words written with similar initial consonant sounds listed next to another. For instance, words begin with independent vowel ឫ are listed after the consonant រ which sounds similar to the independent vowel. A paper done by PAN <div id="fn16">localization<sup><a href="#fn16">[16]</a></sup>(nd) entitled “Khmer Collation Development” suggests a solution that the sorting used in the Chuon Nath dictionary has to be adapted. Chuon Nath dictionary sorts entries based on they are pronounced, not the spelling. For instance, បង់ [U+1794 U+1784 U+17CB] is listed before បកតិ [U+1794 U+1780 U+178F U+17B7] even though the second character of the second word (i.e. ក [U+1780]) appears before that of the first word (i.e. ង [U+1784]) in the alphabet chart.
 
 ### 8.3. Fonts 
 
@@ -7119,7 +7119,7 @@ U+179C
    <td>
    </td>
    <td id="fn17">
-ា<sup><a href="fn17">[17]</a></sup>
+ា<sup><a href="#fn17">[17]</a></sup>
    </td>
    <td>ិ
    </td>
@@ -11214,7 +11214,7 @@ inherent
    </td>
    <td>ក្ឬ
    </td>
-   <td id="fn18">ក្ឭ<sup><a href="fn18">[18]</a></sup>
+   <td id="fn18">ក្ឭ<sup><a href="#fn18">[18]</a></sup>
    </td>
   </tr>
   <tr>
@@ -11283,7 +11283,7 @@ U+17AD
 <p>
 អធ៌ស្វរៈ
    </td>
-   <td id="fn19">Anuneaseka<sup><a href="fn19">[19]</a></sup>
+   <td id="fn19">Anuneaseka<sup><a href="#fn19">[19]</a></sup>
 <p>
 អនុនាសិកៈ
    </td>
@@ -11419,7 +11419,7 @@ The oldest stone inscriptions written in Khmer language dated back to the 5th ce
    </td>
    <td>ឥ 
    </td>
-   <td id="fn20">៑<sup><a href="fn20">[20]</a></sup>
+   <td id="fn20">៑<sup><a href="#fn20">[20]</a></sup>
    </td>
   </tr>
   <tr>
@@ -11978,7 +11978,7 @@ It is observed (1) that some obsolete characters are commonly used in minority l
 
 All possible word-initial consonant clusters as found in the headwords in Khmer-Khmer Dictionary together with their phonemic representations, series, number of instances in the dictionary and the examples are illustrated in the table below. In the official Khmer-Khmer dictionary, 4397 instances of word-initial consonant clusters are found and and there are at least 164 possible unique clusters. Nine consonants (#33, #55, #56, #57, #58, #59, #134, #135 and #169) do not take a subscript in word-initial position. 
 
-The number of instances found in the Khmer-Khmer Dictionary (KKD) is obtained by doing <div id="fn21">RegEx<sup><a href="fn21">[21]</a></sup></div> searches on a pattern matching any words whose first member in the word-initial position is a consonant followed by a subscript without any trailing subscript after it. For instance, to find words beginning with ក្ង, look this pattern “^ក្ង([^្]|$)” up in an online dictionary (i.e. [http://dictionary.tovnah.com/reg-search](http://dictionary.tovnah.com/reg-search)). This could give a list of words which begin with ក្ង followed by either any character beside a subscript or nothing at all.
+The number of instances found in the Khmer-Khmer Dictionary (KKD) is obtained by doing <div id="fn21">RegEx<sup><a href="#fn21">[21]</a></sup></div> searches on a pattern matching any words whose first member in the word-initial position is a consonant followed by a subscript without any trailing subscript after it. For instance, to find words beginning with ក្ង, look this pattern “^ក្ង([^្]|$)” up in an online dictionary (i.e. [http://dictionary.tovnah.com/reg-search](http://dictionary.tovnah.com/reg-search)). This could give a list of words which begin with ក្ង followed by either any character beside a subscript or nothing at all.
 
 
 <table>
@@ -15140,7 +15140,7 @@ In order not to show the same sequences of the consonant clusters, only the ones
 <p>
  -ក្យ-
 <p id="fn22">
- -ក្ដ-<sup><a href="fn22">[22]</a></sup>
+ -ក្ដ-<sup><a href="#fn22">[22]</a></sup>
 <p>
  -ក្ត-
 <p>
@@ -15500,7 +15500,7 @@ In order not to show the same sequences of the consonant clusters, only the ones
   <tr>
    <td>-ត្.-
 <p id="fn23">
- -ត្ត-<sup><a href="fn23">[23]</a></sup>
+ -ត្ត-<sup><a href="#fn23">[23]</a></sup>
 <p>
  -ត្ដ​-
 <p>
@@ -16722,7 +16722,7 @@ The consonant clusters with two subscripts occurs mostly in word-medial position
 <p>
  ស្ត្រ-
 <p id="fn24">
-<strong> </strong>ហ្វ្រ-<sup><a href="fn24">[24]</a></sup>
+<strong> </strong>ហ្វ្រ-<sup><a href="#fn24">[24]</a></sup>
    </td>
    <td><strong>4</strong>
 <p>
@@ -17947,99 +17947,99 @@ No attempt has been made to create a list of the more complex initial consonant 
 ## Notes
 
 <p id="fn1">
-     <a href="fn1">[1]</a> Mnong is usually referred to as “Bunong” in Cambodia.
+     <a href="#fn1">[1]</a> Mnong is usually referred to as “Bunong” in Cambodia.
 </p>
 
 <p id="fn2">
-     <a href="fn2">[2]</a> Kuay is usually referred to as “Kuy” or “Kui” in Cambodia.
+     <a href="#fn2">[2]</a> Kuay is usually referred to as “Kuy” or “Kui” in Cambodia.
 </p>
 
 <p id="fn3">
-     <a href="fn3">[3]</a> Headley (2014ːx) uses /ɯ/.
+     <a href="#fn3">[3]</a> Headley (2014ːx) uses /ɯ/.
 </p>
 
 <p  id="fn4">
-     <a href="fn4">[4]</a> Headley (2014ːx) and Huffman (1970ː8-9) uses /ei/.
+     <a href="#fn4">[4]</a> Headley (2014ːx) and Huffman (1970ː8-9) uses /ei/.
 </p>
 
 <p id="fn5">
-     <a href="fn5">[5]</a>Huffman (1970ː8-9) uses /əɨ/
+     <a href="#fn5">[5]</a>Huffman (1970ː8-9) uses /əɨ/
 </p>
 
 <p id="fn6">
-     <a href="fn6">[6]</a> Headley (2014ːx) and Huffman (1970ː8-9) uses /ou/.
+     <a href="#fn6">[6]</a> Headley (2014ːx) and Huffman (1970ː8-9) uses /ou/.
 </p>
 
 <p id="fn7">
-     <a href="fn7">[7]</a>There is still a discussion over whether អ is a consonant or a vowel. It is widely considered as a consonant though.
+     <a href="#fn7">[7]</a>There is still a discussion over whether អ is a consonant or a vowel. It is widely considered as a consonant though.
 </p>
 
 <p  id="fn8">
-     <a href="fn8">[8]</a> When there is no final orthographic consonant, ិ is realized as /eʔ/ (Huffman 1970ː26)
+     <a href="#fn8">[8]</a> When there is no final orthographic consonant, ិ is realized as /eʔ/ (Huffman 1970ː26)
 </p>
 
 <p id="fn9">
-     <a href="fn9">[9]</a> ឲ្យ is discouraged in formal writing.
+     <a href="#fn9">[9]</a> ឲ្យ is discouraged in formal writing.
 </p>
 
 <p id="fn10">
-     <a href="fn10">[10]</a> ZWNJ is used to prevent the default rendering from happening.
+     <a href="#fn10">[10]</a> ZWNJ is used to prevent the default rendering from happening.
 </p>
 
 <p id="fn11">
-     <a href="fn11">[11]</a> ះ (Reahmuk) in many way behaves like a vowel, but since the Unicode has it as an After Diacritic, no other diacritic should be placed after it, or it would not be rendered correctly (i.e. ណ ះ ៎ = ណះ៎).
+     <a href="#fn11">[11]</a> ះ (Reahmuk) in many way behaves like a vowel, but since the Unicode has it as an After Diacritic, no other diacritic should be placed after it, or it would not be rendered correctly (i.e. ណ ះ ៎ = ណះ៎).
 </p>
 
 <p id="fn12">
-     <a href="fn12">[12]</a> The Sanskrit name of these months are adopted from <a href="https://en.wikipedia.org/wiki/Month#Hindu_calendar">https://en.wikipedia.org/wiki/Month#Hindu_calendar</a>. 
+     <a href="#fn12">[12]</a> The Sanskrit name of these months are adopted from <a href="https://en.wikipedia.org/wiki/Month#Hindu_calendar">https://en.wikipedia.org/wiki/Month#Hindu_calendar</a>. 
 </p>
 
 <p id="fn13">
-     <a href="fn13">[13]</a> Below Vowels are: ុ ូ ួ. 
+     <a href="#fn13">[13]</a> Below Vowels are: ុ ូ ួ. 
 </p>
 
 <p id="fn14">
-     <a href="fn14">[14]</a> The vowel can be any of these: ា, ោ and ៅ. 
+     <a href="#fn14">[14]</a> The vowel can be any of these: ា, ោ and ៅ. 
 </p>
 
 <p id="fn15">
-     <a href="fn15">[15]</a> This is only found in documents published for the fifth edition of the Chuon Nath dictionary, i.e. បាយ (ប ា យ) ‘rice’ in present day Khmer is written as បា្យ (ប ា ្យ) in Khmer-French dictionary (Bernard 1902). 
+     <a href="#fn15">[15]</a> This is only found in documents published for the fifth edition of the Chuon Nath dictionary, i.e. បាយ (ប ា យ) ‘rice’ in present day Khmer is written as បា្យ (ប ា ្យ) in Khmer-French dictionary (Bernard 1902). 
 </p>
 
 <p id="fn16">
-     <a href="fn16">[16]</a> The paper can be accessed at: [http://www.panl10n.net/english/final%20reports/pdf%20files/Cambodia/CAM01.pdf](http://www.panl10n.net/english/final%20reports/pdf%20files/Cambodia/CAM01.pdf) 
+     <a href="#fn16">[16]</a> The paper can be accessed at: [http://www.panl10n.net/english/final%20reports/pdf%20files/Cambodia/CAM01.pdf](http://www.panl10n.net/english/final%20reports/pdf%20files/Cambodia/CAM01.pdf) 
 </p>
 
 <p id="fn17">
-     <a href="fn17">[17]</a> The alphabet book only includes the first series of the vowels.
+     <a href="#fn17">[17]</a> The alphabet book only includes the first series of the vowels.
 </p>
 
 <p id="fn18">
-     <a href="fn18">[18]</a> Chrome does not render this sequence correctly, it should be shown up like the other two in the table.
+     <a href="#fn18">[18]</a> Chrome does not render this sequence correctly, it should be shown up like the other two in the table.
 </p>
 
 <p id="fn19">
-     <a href="fn19">[19]</a> This sign should be added to the Unicode character inventory.
+     <a href="#fn19">[19]</a> This sign should be added to the Unicode character inventory.
 </p>
 
 <p id="fn20">
-     <a href="fn20">[20]</a> Viriam is no longer used due to readability issue (ibid:16).
+     <a href="#fn20">[20]</a> Viriam is no longer used due to readability issue (ibid:16).
 </p>
 
 <p id="fn21">
-     <a href="fn21">[21]</a> RegEx is a shorthand for [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression).
+     <a href="#fn21">[21]</a> RegEx is a shorthand for [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression).
 </p>
 
 <p id="fn22">
-     <a href="fn22">[22]</a> -ក្ដ- and  -ក្ត- look identical, but they are different.
+     <a href="#fn22">[22]</a> -ក្ដ- and  -ក្ត- look identical, but they are different.
 </p>
 
 <p id="fn23">
-     <a href="fn23">[23]</a> -ត្ត- and  -ត្ដ​- looks identical, but they are different.
+     <a href="#fn23">[23]</a> -ត្ត- and  -ត្ដ​- looks identical, but they are different.
 </p>
 
 <p id="fn24">
-     <a href="fn24">[24]</a> The data in the Khmer-Khmer online dictionary has different character sequences. Instead of ហ្វ្រ (ហ ្វ ្រ), its sequence is ហ្រ្វ (ហ ្រ ្វ). The one used in this documentation is ហ្វ្រ (ហ ្វ ្រ).
+     <a href="#fn24">[24]</a> The data in the Khmer-Khmer online dictionary has different character sequences. Instead of ហ្វ្រ (ហ ្វ ្រ), its sequence is ហ្រ្វ (ហ ្រ ្វ). The one used in this documentation is ហ្វ្រ (ហ ្វ ្រ).
 </p>
 
 <!-- Docs to Markdown version 1.0β17 -->
