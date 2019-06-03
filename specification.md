@@ -192,7 +192,7 @@ There are 27 languages spoken in Cambodia, according to the Ethnologue (Simons e
   <tr>
    <td><strong>Total</strong>
    </td>
-   <td><strong><span style="text-decoration:underline;">27</span></strong>
+   <td><strong><mark style="text-decoration:underline;">27</mark></strong>
    </td>
    <td>
    </td>
@@ -1953,7 +1953,7 @@ A list of subscripts are included below. Thun (2011:17-18) wrote “ញ and ឡ 
   <tr>
    <td>ឡ
    </td>
-   <td><span style="background-color:yellow">្ឡ</span>
+   <td><mark style="background-color:yellow">្ឡ</mark>
    </td>
    <td>U+17D2 U+17A1
    </td>
@@ -1983,10 +1983,10 @@ Here are some examples of when subscript(s) occur. The subscripts are highlighte
 
 
 
-*   in initial cluster: 		ល្ហុង	= 	ល	 <span style="background-color:yellow">្ហ</span>	ុ	ង
-*   in disyllabic word: 		បន្លា	=	ប	ន	<span style="background-color:yellow">្ល</span>	ា
-*   in final cluster: 			សាស្ត្រ	=	ស	ា	ស	<span style="background-color:yellow">្ត</span>	<span style="background-color:yellow">្រ</span>
-*   after an independent vowel:	ឱ្យ	=	ឱ	<span style="background-color:yellow">្យ</span>
+*   in initial cluster: 		ល្ហុង	= 	ល	 <mark style="background-color:yellow">្ហ</mark>	ុ	ង
+*   in disyllabic word: 		បន្លា	=	ប	ន	<mark style="background-color:yellow">្ល</mark>	ា
+*   in final cluster: 			សាស្ត្រ	=	ស	ា	ស	<mark style="background-color:yellow">្ត</mark>	<mark style="background-color:yellow">្រ</mark>
+*   after an independent vowel:	ឱ្យ	=	ឱ	<mark style="background-color:yellow">្យ</mark>
 
 In rare occurrences, independent vowel can be a subscript, i.e. សុហ្ឫទ /soʔ.rɨt/ ‘buddy’.
 
@@ -4172,49 +4172,49 @@ Here are some examples of words (from the Choun Nath Dictionary) written with Ka
   <tr>
     <td>កូ៎ក ! </td>
 	<td>/kook/</td>
-    <td>ក <span style="background-color:yellow">ូ ៎</span> ក !</td>
+    <td>ក <mark style="background-color:yellow">ូ ៎</mark> ក !</td>
     <td>	‘sound made to catch others’ attention’</td>
   </tr>
   <tr>
     <td>កូ៎កៗ </td>
 	<td>/kook.kook/</td>
-    <td>ក <span style="background-color:yellow">ូ ៎</span> ក ៗ</td>
+    <td>ក <mark style="background-color:yellow">ូ ៎</mark> ក ៗ</td>
     <td></td>
   </tr>
   <tr>
     <td id="backtofn11">ណា៎ !  <br> ណ៎ះ<sup><a href="#fn11">[11]</a></sup>   <br> ហ្ន៎ះ ! </td>
     <td>/naa/ <br>/nah/  <br> /nah/</td>
-	<td>ណ <span style="background-color:yellow">ា ៎</span> !  <br> <span style="background-color:yellow">ណ ៎ ះ</span> !  <br> <span style="background-color:yellow">ហ ្ន ៎</span> ះ !</td>
+	<td>ណ <mark style="background-color:yellow">ា ៎</mark> !  <br> <mark style="background-color:yellow">ណ ៎ ះ</mark> !  <br> <mark style="background-color:yellow">ហ ្ន ៎</mark> ះ !</td>
     <td>‘(affirmation)’</td>
   </tr>
   <tr>
     <td>អឺ៎ះ ! </td>
 	<td>/ʔəəh/</td>
-    <td>អ <span style="background-color:yellow">ឺ ៎</span> ះ !</td>
+    <td>អ <mark style="background-color:yellow">ឺ ៎</mark> ះ !</td>
     <td>‘(exclamation denoting surprise)’</td>
   </tr>
     <tr>
     <td>អុ៎ក </td>
 	<td>/ʔok/</td>
-    <td>អ <span style="background-color:yellow">ុ ៎</span> ក</td>
+    <td>អ <mark style="background-color:yellow">ុ ៎</mark> ក</td>
     <td>‘to blame’</td>
   </tr>
   <tr>
     <td>អោ៎ ! </td>
 	<td>/ʔao/</td>
-    <td>អ <span style="background-color:yellow">ោ ៎</span> !</td>
+    <td>អ <mark style="background-color:yellow">ោ ៎</mark> !</td>
     <td>‘(exclamation of distress)’</td>
   </tr>
   <tr>
     <td>អ្ហ៊‌ឺ៎ះ ! </td>
 	<td>/ʔhɨh/</td>
-    <td>អ ្ហ ៊ ZWNJ ‍ ឺ <span style="background-color:yellow">៎ ះ</span></td>
+    <td>អ ្ហ ៊ ZWNJ ‍ ឺ <mark style="background-color:yellow">៎ ះ</mark></td>
     <td>‘(exclamation of when having a burden)’</td>
   </tr>
   <tr>
     <td>ឆា៎ </td>
 	<td>/cʰaa/</td>
-    <td><span style="background-color:yellow">ឆ ា ៎</span></td>
+    <td><mark style="background-color:yellow">ឆ ា ៎</mark></td>
     <td>‘(a word used to refrain in a song)’</td>
   </tr> 
 </table>
@@ -4278,19 +4278,19 @@ Samyok Sannya (​័) is usually placed after a consonant, a subscript or after
   </tr>
   <tr>
     <td>ជ័រ </td>
-    <td><span style="background-color:yellow">ជ ័</span> រ </td>
+    <td><mark style="background-color:yellow">ជ ័</mark> រ </td>
 	<td>/coa/ </td>
     <td>‘rubber’</td>
   </tr>
   <tr>
     <td>ប៉័ង </td>
-    <td>ប <span style="background-color:yellow">៉ ័</span> ង </td>
+    <td>ប <mark style="background-color:yellow">៉ ័</mark> ង </td>
 	<td>/paŋ/ </td>
     <td>‘bread’</td>
   </tr>
   <tr>
     <td>ត្រ័យ </td>
-    <td>ត <span style="background-color:yellow">្រ ័</span> យ </td>
+    <td>ត <mark style="background-color:yellow">្រ ័</mark> យ </td>
 	<td>/traj/ </td>
     <td>‘threefold’</td>
   </tr>
@@ -4423,31 +4423,31 @@ Examples of words with Toandakhiat placed:
   </tr>
   <tr>
     <td>កិរ្តិ៍  <br> កេរ្តិ៍	 </td>
-    <td>ក ិ រ <span style="background-color:yellow">្ត ិ ៍</span>   <br> ក េ រ <span style="background-color:yellow">្ត ិ ៍</span>  </td>
+    <td>ក ិ រ <mark style="background-color:yellow">្ត ិ ៍</mark>   <br> ក េ រ <mark style="background-color:yellow">្ត ិ ៍</mark>  </td>
     <td>/kee/ </td>
 	<td>‘reputation’</td>
   </tr>
   <tr>
     <td>ប៉ុស្តិ៍ </td>
-	<td> ប ៉ ុ ស <span style="background-color:yellow">្ត ិ ៍</span> </td>
+	<td> ប ៉ ុ ស <mark style="background-color:yellow">្ត ិ ៍</mark> </td>
     <td> /poh/ </td>
     <td> ‘post office’</td>
   </tr>
   <tr>
     <td>ប្រសិទ្ធិ៍ </td>
-	<td> ប ្រ ស ិ ទ <span style="background-color:yellow">្ធ ិ ៍</span> </td>
+	<td> ប ្រ ស ិ ទ <mark style="background-color:yellow">្ធ ិ ៍</mark> </td>
     <td>/prɑ.sət/</td>
     <td>‘a place name’</td>
   </tr>
   <tr>
     <td>រាមកិរ្តិ៍ </td>
-	<td>រ ា ម ក ិ រ <span style="background-color:yellow">្ត ិ ៍</span> </td>
+	<td>រ ា ម ក ិ រ <mark style="background-color:yellow">្ត ិ ៍</mark> </td>
     <td>/riem.kee/ </td>
     <td>‘Ramayanak’</td>
   </tr> 
   <tr>
     <td>សួស្តិ៍ </td>
-	<td>ស ួ ស <span style="background-color:yellow">្ត ិ ៍</span> </td>
+	<td>ស ួ ស <mark style="background-color:yellow">្ត ិ ៍</mark> </td>
     <td>/suah/</td>
     <td>‘glory’</td>
   </tr>
@@ -4464,91 +4464,91 @@ Examples of words with Toandakhiat placed:
   </tr>
   <tr>
     <td>កឡោបិ៍ </td>
-    <td>ក ឡ ោ <span style="background-color:yellow">ប ិ ៍</span> </td>
+    <td>ក ឡ ោ <mark style="background-color:yellow">ប ិ ៍</mark> </td>
     <td>/kaʔ.laop/ </td>
 	<td>‘a kind of basket’</td>
   </tr>
   <tr>
     <td>តែនតិ៍ </td>
-	<td>ត ែ ន <span style="background-color:yellow">ត ិ ៍</span> </td>
+	<td>ត ែ ន <mark style="background-color:yellow">ត ិ ៍</mark> </td>
     <td>/taen/ </td>
     <td>‘tent’</td>
   </tr>
   <tr>
     <td>ទីបេតិ៍ </td>
-	<td>ទ ី ប េ <span style="background-color:yellow">ត ិ ៍</span> </td>
+	<td>ទ ី ប េ <mark style="background-color:yellow">ត ិ ៍</mark> </td>
 	<td>/tii.ɓee/ </td>
     <td>‘Tibet mount’</td>
   </tr>
   <tr>
     <td>នាំអាទិ៍ </td>
-    <td>ន ាំ អ ា <span style="background-color:yellow">ទ ិ ៍</span> </td>
+    <td>ន ាំ អ ា <mark style="background-color:yellow">ទ ិ ៍</mark> </td>
 	<td>/noam.ʔaat/ </td>
     <td>‘to initiate’</td>
   </tr>
   <tr>
     <td>ពោធិ៍ </td>
-    <td>ព ោ <span style="background-color:yellow">ធ ិ ៍</span> </td>
+    <td>ព ោ <mark style="background-color:yellow">ធ ិ ៍</mark> </td>
 	<td>/poo/ </td>
     <td>‘banyan’</td>
   </tr>  
   <tr>
     <td>ពោធិ៍ធំ </td>
-    <td>ព ោ <span style="background-color:yellow">ធ ិ ៍</span> ធ ំ </td>
+    <td>ព ោ <mark style="background-color:yellow">ធ ិ ៍</mark> ធ ំ </td>
 	<td>/poo.tʰum/ </td>
     <td>‘a kind of plant’</td>
   </tr>  
   <tr>
     <td>ពោធិ៍ធ្លេ </td>
-    <td>ព ោ <span style="background-color:yellow">ធ ិ ៍</span> ធ ្ល េ </td>
+    <td>ព ោ <mark style="background-color:yellow">ធ ិ ៍</mark> ធ ្ល េ </td>
 	<td>/poo.tlee/ </td>
     <td>‘a kind of plant’</td>
   </tr>  
   <tr>
     <td>ពោធិ៍បាយ </td>
-    <td>ព ោ <span style="background-color:yellow">ធ ិ ៍</span> ប ា យ </td>
+    <td>ព ោ <mark style="background-color:yellow">ធ ិ ៍</mark> ប ា យ </td>
 	<td>/poo.ɓaaj/ </td>
     <td>‘a kind of banyan tree’</td>
   </tr>  
   <tr>
     <td>ពោធិ៍សាត់ </td>
-    <td>ព ោ <span style="background-color:yellow">ធ ិ ៍</span> ស ា ត ់ </td>
+    <td>ព ោ <mark style="background-color:yellow">ធ ិ ៍</mark> ស ា ត ់ </td>
 	<td>/poo.sat/ </td>
     <td>‘Pursat province’</td>
   </tr>  
   <tr>
     <td>ព្យាធិ៍ </td>
-    <td>ព ្យ ា <span style="background-color:yellow">ធ ិ ៍</span> </td>
+    <td>ព ្យ ា <mark style="background-color:yellow">ធ ិ ៍</mark> </td>
 	<td>/pjie/ </td>
     <td>‘leprosy’</td>
   </tr>  
   <tr>
     <td>ព្រហស្បតិ៍ </td>
-    <td>ព ្រ ហ ស ្ប <span style="background-color:yellow">ត ិ ៍</span> </td>
+    <td>ព ្រ ហ ស ្ប <mark style="background-color:yellow">ត ិ ៍</mark> </td>
 	<td>/prɔ.hoah/ </td>
     <td>‘Thursday’</td>
   </tr>  
   <tr>
     <td>វាទអាទិ៍ </td>
-    <td>វ ា ទ អ ា <span style="background-color:yellow">ទ ិ ៍</span> </td>
+    <td>វ ា ទ អ ា <mark style="background-color:yellow">ទ ិ ៍</mark> </td>
     <td>/wiet.ʔaat/ </td>
 	<td>‘to try to gain power’</td>
   </tr>  
   <tr>
     <td>សកវាទិ៍ </td>
-    <td>ស ក វ ា <span style="background-color:yellow">ទ ិ ៍</span> </td>
+    <td>ស ក វ ា <mark style="background-color:yellow">ទ ិ ៍</mark> </td>
 	<td>/sak.kak.waa/ </td>
     <td>‘’</td>
   </tr>  
   <tr>
     <td>ស្មាធិ៍</td>
-    <td>ស ្ម ា <span style="background-color:yellow">ធ ិ ៍</span></td>
+    <td>ស ្ម ា <mark style="background-color:yellow">ធ ិ ៍</mark></td>
 	<td>/smaat/</td>
     <td>‘meditate’</td>
   </tr>    
   <tr>
     <td>ស្លឹកពោធិ៍</td>
-    <td>ស ្ល ឹ ក ព ោ <span style="background-color:yellow">ធ ិ ៍</span> </td>
+    <td>ស ្ល ឹ ក ព ោ <mark style="background-color:yellow">ធ ិ ៍</mark> </td>
 	<td>/slək.poo/</td>
     <td>‘banyan leaf’</td>
   </tr>    
@@ -4564,13 +4564,13 @@ Examples of words with Toandakhiat placed:
   </tr>
   <tr>
     <td>រាហុ៍</td>
-    <td>រ ា ហ <span style="background-color:yellow">ុ ៍</span></td>
+    <td>រ ា ហ <mark style="background-color:yellow">ុ ៍</mark></td>
     <td>/rie/</td>
 	<td>‘name of a giant’</td>
   </tr>
   <tr>
     <td>ចារុ៍</td>
-    <td>ច ា រ <span style="background-color:yellow">ុ ៍</span></td>
+    <td>ច ា រ <mark style="background-color:yellow">ុ ៍</mark></td>
     <td>/caa/</td>
 	<td>‘small tubes made of gold’</td>
   </tr>
@@ -5989,15 +5989,15 @@ The following sections list the issues one by one. The examples are adopted from
 
 This is a case of when a “subscript” and a “vowel” are combined. Typing either one before another does not make any difference in the visual output on the screen, but it is invalid to place a Vowel before a Subscript. 
 
-*   Subscript + Vowel	ខ <span style="background-color:#BFBFBF">្ម ែ</span> រ 	> ខ្មែរ 	‘Khmer’
-*    Vowel + Subscript	ខ <span style="background-color:#BFBFBF">ែ ្ម</span> រ 	> ខែ្មរ	**<font color="red">invalid sequence</font>**
+*   Subscript + Vowel	ខ <mark style="background-color:#BFBFBF">្ម ែ</mark> រ 	> ខ្មែរ 	‘Khmer’
+*    Vowel + Subscript	ខ <mark style="background-color:#BFBFBF">ែ ្ម</mark> រ 	> ខែ្មរ	**<font color="red">invalid sequence</font>**
 
 #### 7.4.2. Concatenation of Two Subscripts
 
 This is a case of when having two subscripts after a base consonant, and one of the subscript is [U+17D2 U+179A] ្ត. Placing either subscript before another would have the same visual output. 
 
-*   Subscript + [U+17D2 U+179A]		ស <span style="background-color:#BFBFBF">្ត ្រ</span> ី 	> ស្ត្រី	‘woman’
-*   [U+17D2 U+179A] + Subscript		ស <span style="background-color:#BFBFBF">្រ ្ត</span> ី	> ស្រ្តី 	**<font color="red">invalid sequence</font>**
+*   Subscript + [U+17D2 U+179A]		ស <mark style="background-color:#BFBFBF">្ត ្រ</mark> ី 	> ស្ត្រី	‘woman’
+*   [U+17D2 U+179A] + Subscript		ស <mark style="background-color:#BFBFBF">្រ ្ត</mark> ី	> ស្រ្តី 	**<font color="red">invalid sequence</font>**
 
 #### 7.4.3. Concatenation of a Subscript and a Consonant Shifter
 
@@ -6005,17 +6005,17 @@ This is a case of combining a subscript with a consonant shifter. The Khmer spel
 
 
 
-*   Subscript + Consonant Shifter		ម <span style="background-color:#BFBFBF">្យ ៉</span> ា ង 	> ម្យ៉ាង 	‘one way’ 
-*   Consonant shifter + Subscript		ម <span style="background-color:#BFBFBF">៉ ្យ</span> ា ង	> ម៉្យាង	**<font color="red">invalid sequence</font>**
+*   Subscript + Consonant Shifter		ម <mark style="background-color:#BFBFBF">្យ ៉</mark> ា ង 	> ម្យ៉ាង 	‘one way’ 
+*   Consonant shifter + Subscript		ម <mark style="background-color:#BFBFBF">៉ ្យ</mark> ា ង	> ម៉្យាង	**<font color="red">invalid sequence</font>**
 
 #### 7.4.4. Concatenation of A Consonant Shifter and a Vowel
 
 This is a special case of Khmer text rendering. The consonant shifter, either ៊ [U+17CA] or ៉ [U+17C9], has to be rendered as a glyph that looks like ុ , when there is an above vowel attached to it (See [Special Treatment on Consonant Shifters](#SpecialTreatmentonConsonantShifters)).
 
-*   Consonant Shifter ( ​៊) + Above vowel	ស <span style="background-color:#BFBFBF">៊ ី</span>		> ស៊ី	‘to eat (vulgar)’ 
-*   Above vowel + Below vowel		ស <span style="background-color:#BFBFBF">ី ុ</span> 		> សុី 	**<font color="red">invalid sequence</font>**
-*   Below vowel + Above vowel		ស <span style="background-color:#BFBFBF">ុ ី</span> 		> សុី 	**<font color="red">invalid sequence</font>**
-*   Consonant Shifter ( ​៉) + Above vowel	ស <span style="background-color:#BFBFBF">៉ ី</span>		> ស៉ី	**<font color="red">incorrect sequence</font>**
+*   Consonant Shifter ( ​៊) + Above vowel	ស <mark style="background-color:#BFBFBF">៊ ី</mark>		> ស៊ី	‘to eat (vulgar)’ 
+*   Above vowel + Below vowel		ស <mark style="background-color:#BFBFBF">ី ុ</mark> 		> សុី 	**<font color="red">invalid sequence</font>**
+*   Below vowel + Above vowel		ស <mark style="background-color:#BFBFBF">ុ ី</mark> 		> សុី 	**<font color="red">invalid sequence</font>**
+*   Consonant Shifter ( ​៉) + Above vowel	ស <mark style="background-color:#BFBFBF">៉ ី</mark>		> ស៉ី	**<font color="red">incorrect sequence</font>**
 
 The last example is considered as incorrect rather than invalid because the character sequence is valid, but according to the usage of Muusikatoan ( ​៉) it cannot be used with the 1st series consonants.
 
@@ -6023,31 +6023,31 @@ The last example is considered as incorrect rather than invalid because the char
 
 This is one of the most common confusing character sequences. Which should come first is not a concern among users though because, like other issue, the output on the screen does not look any different.
 
-*   [U+17BB] [U+17C6]		ក <span style="background-color:#BFBFBF">ុ ំ</span>		> កុំ	‘don’t’ 
-*   [U+17C6] [U+17BB]		ក <span style="background-color:#BFBFBF">ំ ុ</span>		> កំុ	**<font color="red">invalid sequence</font>**
-*   [U+17B6] [U+17C6]		ច <span style="background-color:#BFBFBF">ា ំ</span>		> ចាំ 	‘to wait’
-*   [U+17C6] [U+17B6]		ច <span style="background-color:#BFBFBF">ំ ា</span>		> ចំា	**<font color="red">invalid sequence</font>**
+*   [U+17BB] [U+17C6]		ក <mark style="background-color:#BFBFBF">ុ ំ</mark>		> កុំ	‘don’t’ 
+*   [U+17C6] [U+17BB]		ក <mark style="background-color:#BFBFBF">ំ ុ</mark>		> កំុ	**<font color="red">invalid sequence</font>**
+*   [U+17B6] [U+17C6]		ច <mark style="background-color:#BFBFBF">ា ំ</mark>		> ចាំ 	‘to wait’
+*   [U+17C6] [U+17B6]		ច <mark style="background-color:#BFBFBF">ំ ា</mark>		> ចំា	**<font color="red">invalid sequence</font>**
 
 #### 7.4.6. One Unicode Code Point
 
 ោ [U+17C4] can be confused with a combination of េ [U+17C1] and ា [U+17B6] because the outputs of the three encoding on the screen look the same.
 
 *   [U+17C4]			ល ោ ក	> លោក	‘Mr.’ 
-*   [U+17C1] [U+17B6]		ល <span style="background-color:#BFBFBF">េ ា</span> ក	> លេាក 		**<font color="red">invalid sequence</font>**
-*   [U+17B6] [U+17C1]		ល <span style="background-color:#BFBFBF">ា េ</span> ក	> លាេក	**<font color="red">invalid sequence</font>**
+*   [U+17C1] [U+17B6]		ល <mark style="background-color:#BFBFBF">េ ា</mark> ក	> លេាក 		**<font color="red">invalid sequence</font>**
+*   [U+17B6] [U+17C1]		ល <mark style="background-color:#BFBFBF">ា េ</mark> ក	> លាេក	**<font color="red">invalid sequence</font>**
 
 Similarly, ើ [U+17BE] can be confused with a combination of េ [U+17C1] and ី [U+17B8].
 
 *   [U+17BE] 			ប ើ		> បើ	‘if’	
-*   [U+17C1] [U+17B8]		ប <span style="background-color:#BFBFBF">េ ី</span>		> បេី	**<font color="red">invalid sequence</font>**
-*   [U+17B8] [U+17C1]		ប <span style="background-color:#BFBFBF">ី េ</span>		 > បីេ	**<font color="red">invalid sequence</font>**
+*   [U+17C1] [U+17B8]		ប <mark style="background-color:#BFBFBF">េ ី</mark>		> បេី	**<font color="red">invalid sequence</font>**
+*   [U+17B8] [U+17C1]		ប <mark style="background-color:#BFBFBF">ី េ</mark>		 > បីេ	**<font color="red">invalid sequence</font>**
 
 #### 7.4.7. Similar Subscripts
 
 This is the case of identical subscript. The users do not see any different in the outlook of these two.
 
-*   [U+17D2] [U+178A]		ក ណ <span style="background-color:#BFBFBF">្ដ</span> ា ល	> កណ្ដាល 	‘Kandal province’
-*   [U+17D2] [U+178F]		ក ណ <span style="background-color:#BFBFBF">្ដ</span> ា ល	> កណ្តាល	**<font color="red">incorrect sequence</font>**
+*   [U+17D2] [U+178A]		ក ណ <mark style="background-color:#BFBFBF">្ដ</mark> ា ល	> កណ្ដាល 	‘Kandal province’
+*   [U+17D2] [U+178F]		ក ណ <mark style="background-color:#BFBFBF">្ដ</mark> ា ល	> កណ្តាល	**<font color="red">incorrect sequence</font>**
 
 #### 7.4.8. Spaces and Joiners
 
