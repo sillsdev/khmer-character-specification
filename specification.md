@@ -1134,7 +1134,7 @@ Phoneme-grapheme correspondence of initial consonants, modified initial consonan
 
 
 
-#### 5.2.1 Initial Consonants <a name="InitialConsonants"></a>
+#### 5.2.1 Initial Consonants <a name="OrthoInitialConsonants"></a>
 ##### 5.2.1.1. Initial Consonant Monographs
 
 The table below illustrates the grapheme-phoneme correspondences with their Unicode code points, series and examples. 
@@ -5566,8 +5566,8 @@ where
 
 
 
-*   Cons – [Consonant ](#InitialConsonants)character 
-*   IndV – [Independent ](#IndependentVowels)vowel character
+*   Cons – [Consonant](#OrthoInitialConsonants) character 
+*   IndV – [Independent](#IndependentVowels) vowel character
 *   COENG – The COENG code
 *   PreV – Vowel that is positioned before the base glyph
 *   BlwV – Vowel that is positioned below the base glyph
@@ -11905,11 +11905,11 @@ It is observed (1) that some obsolete characters are commonly used in minority l
 
 <p style="padding-top:0pt; text-indent:-30px; margin:30px; margin-top:5px; margin-bottom:5px;">Maspero, G. (1915). Grammaire de la langue khmère (cambodgien). Paris, Impr. nationale. Retrieved from <a href="http://archive.org/details/grammairedelala00maspgoog">http://archive.org/details/grammairedelala00maspgoog</a>.</p>
 
-<p style="padding-top:0pt; text-indent:-30px; margin:30px; margin-top:5px; margin-bottom:5px;">Muang, P. (2012). វចនានុក្រម​ទំពួន-ខ្មែរ “Tampuan-Khmer Dictionary.” (P. Tuy & S. Chhuk, Eds.) (First Draft). Phnom Penh. Retrieved from <a href="http://www.tampuanreader.com/en/dictionary">http://www.tampuanreader.com/en/dictionary</a></p>
+<p style="padding-top:0pt; text-indent:-30px; margin:30px; margin-top:5px; margin-bottom:5px;">Muang, P. (2012). វចនានុក្រម​ទំពួន-ខ្មែរ “Tampuan-Khmer Dictionary.” (P. Tuy & S. Chhuk, Eds.) (First Draft). Phnom Penh. Retrieved from <a href="http://www.tampuanreader.com/en/dictionary">http://www.tampuanreader.com/en/dictionary</a>.</p>
 
 <p style="padding-top:0pt; text-indent:-30px; margin:30px; margin-top:5px; margin-bottom:5px;">Nhok, T. (1962). បែបរៀនថ្មី ភាសាបាលីជាន់ដំបូង “New Method to Learn Basic Pali.” Retrieved February 14, 2018, from <a href="http://www.elibraryofcambodia.org/beb-rean-thmey-pheasa-balei-jon-dombong/">http://www.elibraryofcambodia.org/beb-rean-thmey-pheasa-balei-jon-dombong/</a>.</p>
 
-<p style="padding-top:0pt; text-indent:-30px; margin:30px; margin-top:5px; margin-bottom:5px;">Nuon, B. (1954). អក្ខរានុក្រមខ្មែរ “Khmer Lexicon.” Phnom Penh</p>
+<p style="padding-top:0pt; text-indent:-30px; margin:30px; margin-top:5px; margin-bottom:5px;">Nuon, B. (1954). អក្ខរានុក្រមខ្មែរ “Khmer Lexicon.” Phnom Penh.</p>
 
 <p style="padding-top:0pt; text-indent:-30px; margin:30px; margin-top:5px; margin-bottom:5px;">Open Forum of Cambodia. (2004) How to Type Khmer Unicode, Version 1.0:7–14. Retrieved from <a href="http://khmeros.info/download/KhmerUnicodeTyping.pdf">http://khmeros.info/download/KhmerUnicodeTyping.pdf</a>.</p>
 
@@ -16826,7 +16826,7 @@ The consonant clusters with two subscripts occurs mostly in word-medial position
 
 ## E. Initial Consonant Clusters in Both Series <a name="InitialConsonantClustersinBothSeries"></a>
 
-The following table is an extended list of [Initial Consonant Clusters](#InitialConsonantClusters). The clusters modified by [Consonant Shifters](#ConsonantShifters) are included next to their respective pair, however they are not officially used or recognized by the public yet. They are there as a reminder that they might be needed in the future, especially with transliterated words. 
+The following table is an extended list of [Initial Consonant Clusters](#Word-InitialConsonantClusters). The clusters modified by [Consonant Shifters](#ConsonantShifters) are included next to their respective pair, however they are not officially used or recognized by the public yet. They are there as a reminder that they might be needed in the future, especially with transliterated words. 
 
 No attempt has been made to create a list of the more complex initial consonant clusters (i.e. three consonant clusters).
 
