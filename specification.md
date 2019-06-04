@@ -94,9 +94,9 @@ During the French protectorate era, an attempt to romanize Khmer language was ma
 
 
 ## 3. The Linguistic Situation in Cambodia <a name="TheLinguisticSituationinCambodia"></a>
-   ### 3.1. Languages of Cambodia
+### 3.1. Languages of Cambodia
 
-There are 27 languages spoken in Cambodia, according to the Ethnologue (Simons et al. 2017).
+There are 27 languages spoken in Cambodia, according to the Ethnologue (Eberhard et al. 2019).
 
 
 <table>
@@ -119,9 +119,9 @@ There are 27 languages spoken in Cambodia, according to the Ethnologue (Simons e
   <tr>
    <td>wider communication
    </td>
-   <td>4
+   <td>3
    </td>
-   <td>Mandarin Chinese [cmn], Min Nan Chinese [nan], English [eng], French [fra]
+   <td>Min Nan Chinese [nan], English [eng], French [fra]
    </td>
   </tr>
   <tr>
@@ -144,9 +144,9 @@ There are 27 languages spoken in Cambodia, according to the Ethnologue (Simons e
   <tr>
    <td>vigorous
    </td>
-   <td>4
+   <td>5
    </td>
-   <td>wester Cham [cja], Hakka Chinese [hak], Kraol [rka], Tampuan [tpu]
+   <td>Western Cham [cja], Kaco’ [xkk], Hakka Chinese [hak], Kraol [rka], Tampuan [tpu]
    </td>
   </tr>
   <tr>
@@ -154,23 +154,23 @@ There are 27 languages spoken in Cambodia, according to the Ethnologue (Simons e
    </td>
    <td>6
    </td>
-   <td>Kaco’ [xkk], Kavet [krv], Krung [krr], Lao [lao], Lao Phuon [phu], Stieng Bulo [sti]
+   <td>Kavet [krv], Krung [krr], Lao [lao], Lao Phuon [phu], Mel-Khaonh [hkn], Stieng Bulo [sti]
    </td>
   </tr>
   <tr>
    <td>shifting
    </td>
-   <td>2
+   <td>1
    </td>
-   <td id="backtofn2">Kuay<sup><a href="#fn2">[2]</a></sup> [kdt], Su’ung [syo]
+   <td id="backtofn2">Kuay<sup><a href="#fn2">[2]</a></sup> [kdt]
    </td>
   </tr>
   <tr>
    <td>moribund
    </td>
-   <td>2
+   <td>3
    </td>
-   <td>Pear [pcb], Somray [smu]
+   <td>Pear [pcb], Somray [smu], Su’ung [syo]
    </td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ There are 27 languages spoken in Cambodia, according to the Ethnologue (Simons e
   <tr>
    <td><strong>Total</strong>
    </td>
-   <td><strong><mark style="text-decoration:underline;">27</mark></strong>
+   <td><strong>27</strong>
    </td>
    <td>
    </td>
@@ -437,7 +437,7 @@ There are 21 consonant phonemes shown in the table below. Twelve of them can onl
 </table>
 
 
-There is still a discussion on whether these phonemes are a combination of two phonemes: (unaspirated plosive + glottal fricative), i.e. (a) /ph, th, ch, kh/ versus (b) /pʰ, tʰ, cʰ, kʰ/. One might  argue that (a) is more likely to be more reasonable because the aspiration can be separated from the plosive when there is an infix. i.e. ខុស /khoh/ ‘to be wrong’ + -ម-, កំហុស /kɑm.hoh/ ‘mistake’.
+There is still a discussion on whether the following phonemes are a combination of two phonemes: (unaspirated plosive + glottal fricative), i.e. (a) /ph, th, ch, kh/ versus (b) /pʰ, tʰ, cʰ, kʰ/. One might  argue that (a) is likely to be more reasonable because the aspiration can be separated from the plosive when there is an infix. i.e. ខុស /khoh/ ‘to be wrong’ + -ម- /m/, កំហុស /kɑm.hoh/ ‘mistake’.
 
 For some foreign loan words, certain phonemes are used, yet they are not included in the table above as it is reserved for native phonemes. The phonemes are: labiodental fricative /f/, voiced alveolar fricative /z/, palatal fricative /ʃ/ and an alveolar implosive /ɠ/. They are usually found at the beginning of a syllable.
 
@@ -560,7 +560,7 @@ There are 18 monophthongsː 10 long monophthongs and 8 short monophthongs.
 
 #### 4.2.2. Diphthongs
 
-There are 9 diphthongsː / iə, ie, ae, ao, aə, ɨə, uə, ea, oa/. Vowels whose second members is a semi-vowel (i.e. /j/ or /w/) are not considered as diphthongs Ehrman (1972:9). A complete list of them is given belowː
+There are 9 diphthongsː / iə, ie, ae, ao, aə, ɨə, uə, ea, oa/. Vowels whose second member is a semi-vowel (i.e. /j/ or /w/) are not considered as diphthongs Ehrman (1972:9). A complete list of them is given belowː
 
 
 
@@ -672,7 +672,7 @@ Sok (2016:24) wrote:
 >*   _ក្បាល (ក+្+ប+ា+ល) 'head' is pronounced as /kɓaal/ because ក /k/ and ប /ɓ/ are in the first series, and the first series of vowel symbol ា is _/aa/_._
 >*   _គ្នា (គ+្+ន+ា) 'first person singular (informal)' is pronounced as /knie/ because គ and ន are both in the second series, and the second series of the vowel symbol ា is /ie/._
 
-After describing three accounts on the series assimilation, Sok (ibidː26-27) categorized the orthographic consonants into five groupsː IMPLOSIVE, UNASPIRATED PLOSIVE, ASPIRATED PLOSIVE, FRICATIVE, and SONORANT (See the table below). He hypothesized that the least sonorous consonant of an initial cluster determines the series of the following vowel based on the three accounts (Huffman (1970ː44), Kin (2007ː63) and Chan (2010ː107)).
+After describing three accounts on the series assimilation, Sok (ibidː26-27) categorized the orthographic consonants into five groupsː IMPLOSIVE, UNASPIRATED PLOSIVE, ASPIRATED PLOSIVE, FRICATIVE, and SONORANT (See the table below). The least sonorous consonant of an initial cluster determines the series of the following vowel (Huffman (1970ː44), Kin (2007ː63) and Chan (2010ː107)).
 
 The table below reads IMPLOSIVE consonants are the least sonorous and SONORANT consonants are the most sonorous. Those in between are ordered by increasing sonority. For instance. IMPLOSIVE consonants are less sonorous than UNASPIRATED PLOSIVE, and UNASPIRATED PLOSIVE are less sonorous than ASPIRATED PLOSIVE, and so forth.	
 
@@ -899,7 +899,7 @@ For examples, the vowel of ល្ហុង ‘papaya’ takes the 1st series bec
 </table>
 
 
-The series assimilation does not only occur in the monosyllabic words, but also disyllabic words. The rule is the same, the vowel of the second syllable (a.k.a. major syllable) is determined by the series of the series of the least sonorous initial consonant of the first syllable (a.k.a. minor syllable). However, this comes with a caveat. 
+The series assimilation does not only occur in the monosyllabic words, but also disyllabic words. The rule is the same, the vowel of the second syllable (a.k.a. major syllable) is determined by the series of the least sonorous initial consonant of the first syllable (a.k.a. minor syllable). However, this comes with a caveat. 
 
 Sok (ibid:29) describes:
 
@@ -1134,7 +1134,7 @@ Phoneme-grapheme correspondence of initial consonants, modified initial consonan
 
 
 
-#### 5.2.1 Initial Consonants
+#### 5.2.1 Initial Consonants <a name="InitialConsonants"></a>
 ##### 5.2.1.1. Initial Consonant Monographs
 
 The table below illustrates the grapheme-phoneme correspondences with their Unicode code points, series and examples. 
@@ -1558,7 +1558,7 @@ The table below illustrates the grapheme-phoneme correspondences with their Unic
 
 A subscript (a.k.a. Coeng, _lit. ‘foot’_) is an alternate form of a consonant which is usually placed after a consonant to form a consonant cluster. In Khmer orthography, if two consonants are put one after another, that means the first consonant is the initial consonant and the other one is the final consonant. កង and ក្ង are different and they are pronounced differently, /kɑɑŋ/ and /kŋɑɑ/ respectively. 
 
-A list of subscripts are included below. Thun (2011:17-18) wrote “ញ and ឡ must be written with their subscript (​្ញ and ្ឡ), but the subscript of ឡ (​្ឡ) /l/ is never used. [...] When subscript ញ (​្ញ) is placed under itself, it has to be replaced by its full form, but smaller in size, i.e. ញ្ញ. Consonant ដ /ɗ/ and ត /t/ have the same subscript because most words written with ត /t/ are pronounced as ដ /ɗ/, for example, មាតាបិតា /mie.ɗaa.ɓej.ɗa/, តំណាង /ɗɑm.naaŋ/ [...].”   
+A list of subscripts are included below. Thun (2011:17-18) wrote, “ញ and ឡ must be written with their subscript (​្ញ and ្ឡ), but the subscript of ឡ (​្ឡ) /l/ is never used. [...] When subscript ញ (​្ញ) is placed under itself, it has to be replaced by its full form, but smaller in size, i.e. ញ្ញ. Consonant ដ /ɗ/ and ត /t/ have the same subscript because most words written with ត /t/ are pronounced as ដ /ɗ/, for example, មាតាបិតា /mie.ɗaa.ɓej.ɗa/, តំណាង /ɗɑm.naaŋ/ [...].”   
 
 
 <table>
@@ -2260,10 +2260,10 @@ Eight initial complex consonants are used to transliterate foreign loanwords whe
 
 
 
-#### 5.2.2. Consonant Clusters
+#### 5.2.2. Consonant Clusters <a name="ConsonantClusters"></a>
 ##### 5.2.2.1. Two Consonant Clusters
 
-This [spreadsheet](https://docs.google.com/spreadsheets/d/1iEmx09fLJx3zxViglL9OM7ihoMeNIm2ULoEgc7sMKAk/edit#gid=563719400) shows the instances of consonant clusters occurring in word-initial position (in transparent cells, for examples see [Appendix A](#Word-InitialConsonantClusters)), in word medial position (in grey cells, for examples see [Appendix B](#Word-MedialConsonantClusters)) and in final position (in yellow cells, for examples see [Appendix C](#Word-FinalConsonantClusters)).  Consonants on the top rows are the first member of the clusters (C<sub>1</sub>), and those on the far left column are the second member (C<sub>2</sub>), which are in subscript forms. The IPA corresponding to each consonant is included in the row and column next to C<sub>1 </sub>and C<sub>2</sub>. The orthographic realization of the clusters are placed in the intersecting cell. For example, the first cluster (ឆ្ក) is composed of ឆ and ក. ក and ក, ខ and ក, គ and ក, ឃ and ក, and ច and ក do not make a cluster, which is why the intersecting cells are empty. 
+This [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQsAWYPmH-w5dMEXJbJUuXgxPUM0G32GzdPUF7WTQKh0UmCZYpG3hyoPFhuUQsxQJbOZqicDBuU-20z/pubhtml?gid=563719400&single=true) shows the instances of consonant clusters occurring in word-initial position (in transparent cells, for examples see [Appendix A](#Word-InitialConsonantClusters)), in word medial position (in grey cells, for examples see [Appendix B](#Word-MedialConsonantClusters)) and in final position (in yellow cells, for examples see [Appendix C](#Word-FinalConsonantClusters)).  Consonants on the top rows are the first member of the clusters (C<sub>1</sub>), and those on the far left column are the second member (C<sub>2</sub>), which are in subscript forms. The IPA corresponding to each consonant is included in the row and column next to C<sub>1 </sub>and C<sub>2</sub>. The orthographic realization of the clusters are placed in the intersecting cell. For example, the first cluster (ឆ្ក) is composed of ឆ and ក. ក and ក, ខ and ក, គ and ក, ឃ and ក, and ច and ក do not make a cluster, which is why the intersecting cells are empty. 
 
 Note that ឋ /tʰ/ almost never have a subscript after it, only one instance that ឋ /tʰ/ is followed by a subscript as in ដ្ឋ្យ (ដ ្ឋ ្យ). 
 
@@ -2955,8 +2955,7 @@ The table below shows the vowels as taught in school (Um & Seng 2012ː1).
 </table>
 
 
-These vowels (i.e. ើ ឿ ៀ ែ ៃ ោ) are composed of more than one part of vowels with similar look, but they do not have the quality of the each part (Kin 2007:45). That is to say, when writing, we write two parts of each of them by lifting up the pen. For instance, ើ is made up of េ /ee/ and \
- ី /əj|ii/, but the realization of ើ is /aə/, not /ee+əj/.
+These vowels (i.e. ើ ឿ ៀ ែ ៃ ោ) are composed of more than one part of vowels with similar look, but they do not have the quality of the each part (Kin 2007:45). That is to say, when writing, we write two parts of each of them by lifting up the pen. For instance, ើ is made up of េ /ee/ and ី /əj|ii/, but the realization of ើ is /aə/, not /ee+əj/.
 
 Vowels whose second member is ំ (a.k.a. Nikahit) or ះ (a.k.a. Reahmuk) always have /m/ or /h/ in the final position. Nikahit and Reahmuk act as a final /m/ and /n/ respectively. It marks the end of the syllable and cannot be followed by a vowel.
 
@@ -3083,7 +3082,7 @@ These are the vowels that do not exist in the official alphabetical order.
 
 
 
-##### 5.2.4.3. Independent Vowels
+##### 5.2.4.3. Independent Vowels <a name="IndependentVowels"></a>
 
 Independent vowels are able to start a syllable without an initial consonant or initial consonant cluster (Um & Seng 2012:3). They are usually used in Pali/Sanskrit loanwords. The corresponding phonemic transcription to each grapheme are in **bold** next to the example words. Independent vowel are rarely used in any new words in the contemporary Khmer language. Even in the 1990s, there were not many either. See how often they are used in the headwords in the Chuon Nath dictionary below.
 
@@ -4151,7 +4150,7 @@ According to the Khmer-English dictionary, Robat ( ​៌), which literally mean
 Robat is always put on the consonant, but never on a subscript. It may be followed by a vowel. It never occurs after a consonant cluster. No sign or vowel should be put above it.
 
 	គភ៌	/koa/		‘pregnancy’ 
-	ធម៌	/tʰoa/		‘Dhama’
+	ធម៌	/tʰoa/		‘Dharma’
 	មាគ៌ា	/mie.kie/	‘road, way’
 
 
@@ -5568,7 +5567,7 @@ where
 
 
 *   Cons – [Consonant ](#InitialConsonants)character 
-*   IndV – [Independent ](#InherentVowels)vowel character
+*   IndV – [Independent ](#IndependentVowels)vowel character
 *   COENG – The COENG code
 *   PreV – Vowel that is positioned before the base glyph
 *   BlwV – Vowel that is positioned below the base glyph
@@ -5578,7 +5577,7 @@ where
 *   PstV – Vowel that is positioned after the base glyph
 *   PstS – Sign character that is positioned after the base glyph
 *   { } – Indicates 0 to 2 occurrences
-*   [ ] – Indicates 0 or 1 occurrence
+*   \[ ] – Indicates 0 or 1 occurrence
 *   | – Exclusive OR
 *   \+ – Cumulative AND
 
@@ -6010,7 +6009,7 @@ This is a case of combining a subscript with a consonant shifter. The Khmer spel
 
 #### 7.4.4. Concatenation of A Consonant Shifter and a Vowel
 
-This is a special case of Khmer text rendering. The consonant shifter, either ៊ [U+17CA] or ៉ [U+17C9], has to be rendered as a glyph that looks like ុ , when there is an above vowel attached to it (See [Special Treatment on Consonant Shifters](#SpecialTreatmentonConsonantShifters)).
+This is a special case of Khmer text rendering. The consonant shifter, either ៊ [U+17CA] or ៉ [U+17C9], has to be rendered as a glyph that looks like ុ , when there is an above vowel attached to it (See [Special Treatment of Consonant Shifters](#SpecialTreatmentofConsonantShifters)).
 
 *   Consonant Shifter ( ​៊) + Above vowel	ស <mark style="background-color:#BFBFBF">៊ ី</mark>		> ស៊ី	‘to eat (vulgar)’ 
 *   Above vowel + Below vowel		ស <mark style="background-color:#BFBFBF">ី ុ</mark> 		> សុី 	**<font color="red">invalid sequence</font>**
@@ -11924,7 +11923,7 @@ It is observed (1) that some obsolete characters are commonly used in minority l
 
 <p style="padding-top:0pt; text-indent:-30px; margin:30px; margin-top:5px; margin-bottom:5px;">SCHILLER, E. (1994). Khmer nominalizing and causativizing infixes. Papers from the Second Annual Meeting of the Southeast Asian Linguistics Society, 309–326.</p>
 
-<p style="padding-top:0pt; text-indent:-30px; margin:30px; margin-top:5px; margin-bottom:5px;">Simons, Gary F. and Charles D. Fennig (eds.). 2017. Ethnologue: Languages of the World, Twentieth edition. Dallas, Texas: SIL International. Online version: <a href="http://www.ethnologue.com](http://www.ethnologue.com">http://www.ethnologue.com](http://www.ethnologue.com</a>.</p>
+<p style="padding-top:0pt; text-indent:-30px; margin:30px; margin-top:5px; margin-bottom:5px;">Eberhard, David M., Gary F. Simons, and Charles D. Fennig (eds.). 2019. Ethnologue: Languages of the World. Twenty-second edition. Dallas, Texas: SIL International. Online version: <a href="http://www.ethnologue.com">http://www.ethnologue.com</a>.</p>
 
 <p style="padding-top:0pt; text-indent:-30px; margin:30px; margin-top:5px; margin-bottom:5px;">Sok, M. (2016). Phonological principles and automatic phonemic and phonetic transcription of Khmer words (Master’s Thesis). Payap University, Thailand. Retrieved from <a href="http://inter.payap.ac.th/wp-content/uploads/linguistics_students/Makaras-Thesis.pdf">http://inter.payap.ac.th/wp-content/uploads/linguistics_students/Makaras-Thesis.pdf</a>.</p>
 
@@ -11940,11 +11939,11 @@ It is observed (1) that some obsolete characters are commonly used in minority l
 
 # Appendixes <a name="Appendixes"></a>
 
-## A. Word-Initial Consonant Clusters <a name="InitialConsonantClusters"></a>
+## A. Word-Initial Consonant Clusters <a name="Word-InitialConsonantClusters"></a>
 
 All possible word-initial consonant clusters as found in the headwords in Khmer-Khmer Dictionary together with their phonemic representations, series, number of instances in the dictionary and the examples are illustrated in the table below. In the official Khmer-Khmer dictionary, 4397 instances of word-initial consonant clusters are found and and there are at least 164 possible unique clusters. Nine consonants (#33, #55, #56, #57, #58, #59, #134, #135 and #169) do not take a subscript in word-initial position. 
 
-<p id="backtofn21">The number of instances found in the Khmer-Khmer Dictionary (KKD) is obtained by doing RegEx<sup><a href="#fn21">[21]</a></sup> searches on a pattern matching any words whose first member in the word-initial position is a consonant followed by a subscript without any trailing subscript after it. For instance, to find words beginning with ក្ង, look this pattern “^ក្ង([^្]|$)” up in an online dictionary (i.e. [http://dictionary.tovnah.com/reg-search](http://dictionary.tovnah.com/reg-search)). This could give a list of words which begin with ក្ង followed by either any character beside a subscript or nothing at all.</p>
+<p id="backtofn21">The number of instances found in the Khmer-Khmer Dictionary (KKD) is obtained by doing RegEx<sup><a href="#fn21">[21]</a></sup> searches on a pattern matching any words whose first member in the word-initial position is a consonant followed by a subscript without any trailing subscript after it. For instance, to find words beginning with ក្ង, look this pattern “^ក្ង([^្]|$)” up in an online dictionary (i.e. <a href="http://dictionary.tovnah.com/reg-search">http://dictionary.tovnah.com/reg-search</a>). This could give a list of words which begin with ក្ង followed by either any character beside a subscript or nothing at all.</p>
 
 
 <table>
@@ -17906,8 +17905,8 @@ No attempt has been made to create a list of the more complex initial consonant 
   </tr>
 </table>
 
-## F. Orthographic comparison [charts](https://docs.google.com/spreadsheets/d/1z-bBl4KJCcD2HNFnAgeshK7gNF37cJJi1nv30btg8Mk/edit#gid=13999464) <a name="OrthographicComparisonCharts"></a>
-## G. Khmer signs distribution [chart](https://docs.google.com/spreadsheets/d/1oDN8Eg05nXxVrrph3HBowa_R-2W75afB6uGNVDXfqBs/edit#gid=0)
+## F. Orthographic comparison [charts](https://docs.google.com/spreadsheets/d/1z-bBl4KJCcD2HNFnAgeshK7gNF37cJJi1nv30btg8Mk/edit?usp=sharing) <a name="OrthographicComparisonCharts"></a>
+## G. Khmer signs distribution [chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLUjpUel39UWRPub6lAT__YpvCdcOlcFgheG_xz6UUoxPZS2mVVgKspEk_Cdk-hVOASLmer9UOR5fv/pubhtml?gid=0&single=true)
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
@@ -18007,5 +18006,37 @@ No attempt has been made to create a list of the more complex initial consonant 
 <p id="fn24">
      <a href="#backtofn24">[24]</a> The data in the Khmer-Khmer online dictionary has different character sequences. Instead of ហ្វ្រ (ហ ្វ ្រ), its sequence is ហ្រ្វ (ហ ្រ ្វ). The one used in this documentation is ហ្វ្រ (ហ ្វ ្រ).
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Docs to Markdown version 1.0β17 -->
