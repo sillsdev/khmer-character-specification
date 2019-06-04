@@ -5577,7 +5577,7 @@ where
 *   PstV – Vowel that is positioned after the base glyph
 *   PstS – Sign character that is positioned after the base glyph
 *   { } – Indicates 0 to 2 occurrences
-*   \[ ] – Indicates 0 or 1 occurrence
+*   \[ \] – Indicates 0 or 1 occurrence
 *   | – Exclusive OR
 *   \+ – Cumulative AND
 
