@@ -27,7 +27,7 @@ Todd Bequette,  <br>
 Becky Bequette,  <br>
 Seth Wilson, and  <br>
 Martin Hosken  <br>
-Last Update: May 3, 2019
+Last Update: May 4, 2020
 </p>
 
 # Table of Contents
