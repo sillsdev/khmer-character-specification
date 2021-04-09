@@ -25,4 +25,4 @@ In order to properly view ths document, it is recommended to use "Khmer Mondulki
 	* font color 
 	* text indentation in reference section
 
-_To help with this rendering issue, a **PDF version** of this document was generated from an exported HTML using **MarkdownViewer++** and **Microsoft Print to PDF** on Firefox 76.0. **Khmer Mondulkiri** font is used._
+_To help with this rendering issue, a **PDF version - size A5** of this document was generated from an exported HTML using **MarkdownViewer++** and **Microsoft Print to PDF** on Firefox 76.0. **Khmer Mondulkiri** font is used._
