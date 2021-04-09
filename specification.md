@@ -27,7 +27,7 @@ Todd Bequette,  <br>
 Becky Bequette,  <br>
 Seth Wilson, and  <br>
 Martin Hosken  <br>
-Last Update: January 11, 2021
+Last Update: April 09, 2021
 </p>
 
 # Table of Contents
@@ -5461,18 +5461,6 @@ In some font, Khmer OS Muol for example, the combination of consonants ក (U+17
 
 There are discrepancies in character sequences posited by Unicode Standard (2018:646), Microsoft (2018) and the Open Forum (2004:7-14). 
 
-Unlike Unicode Standard and Open Forum, Microsoft breaks vowels into four subcategories based on where they are placed on the bast character: 
-
-(1) Pre-base Vowels (PreV): េ​ [U+17C1], ែ [U+17C2], ​ៃ [U+17C3], 
-
-(2) Below-base Vowel (BlwV):  ុ [U+17BB], ូ [U+17BC], ួ [U+17BD],  
-
-(3) Above-base Vowel (AbvV):  ិ [U+17B7], ី [U+17B8], ឹ [U+17B9], ឺ [U+17BA], ើ [U+17BE], and
-
-(4) Post-base Vowels (PstV):  ោ [U+17C4], ៅ [U+17C5], ៀ [U+17C0], ឿ [U+17BF], ា [U+17B6].
-
-Nikahit ( ំ U+17C6) and Reahmuk ( ះ U+17C7) are used as vowels. These are the only two that can be attached to another vowel to create vowel combination. Here are the common ones: ុំ (U+17BB U+17C6), ាំ (U+17B6 U+17C6), ុះ (U+17BB U+17C7), េះ (U+17C1 U+17C7) and ោះ (U+17C4 U+17C7). Khmer linguists usually consider them as one vowel unit. Unicode Standard, however, considers these as a combination of vowel and diacritics.
-
 Below are the character sequences posited by Unicode Standard, Microsoft and Open Forum:
 
 **Unicode Standard (2019:654)**
@@ -5488,8 +5476,6 @@ where
 *   V is a dependent vowel sign 
 *   Z is a zero width non-joiner or a zero width joiner 
 *   O is any other sign
-
-Prose: A base character can be a consonant or an independent vowel character. Either a robat or a consonant shifter comes after the base, and then the next slot is for subscript consonant or subscript independent vowel sign (aka Coeng + a consonant or an independent vowel sign) nested with a robat. What comes next is a vowel, other sign and again a subscript.
 
 A zero width non-joiner or a zero width joiner can be placed before a vowel if needed. 
 
@@ -5514,8 +5500,6 @@ where
 *   | – Exclusive OR
 *   \+ – Cumulative AND
 
-Prose: Independent vowel base character is not included in this rule. A consonant is the base character which can be followed by a one or two Coeng consonants or Coeng independent vowels. What comes next is a pre-base vowel or a below vowel. Then there is a RegShift (aka consonant shifter) which can be followed by an above vowel, up to two above sign, a post vowel and finally a post sign.
-
 Note: Microsoft states ZWNJ is to be placed in between the RegShift and the AbvV to prevent the RegShift from changing its shape. However, its example has ZWNJ before the RegShift.
 
 **Open Forum**
@@ -5539,7 +5523,6 @@ where
 *   Consonant shifter – [U+17C9, U+17CA]
 *   Robat – [U+17CC]
 
-Prose: (a) A robat can be placed after a consonant and followed by either a vowel or a sign. (b) A consonant or an independent vowel base character can optionally be followed by one or more Coeng consonants or Coeng independent vowel. What comes next is a consonant shifter and then a vowel preceding an above sign and/or after sign.
 
 The following characters are implemented differently.
 
@@ -5615,6 +5598,19 @@ The following characters are implemented differently.
    </td>
   </tr>
 </table>
+
+Unlike Unicode Standard and Open Forum, Microsoft breaks vowels into four subcategories based on where they are placed on the bast character: 
+
+(1) Pre-base Vowels (PreV): េ​ [U+17C1], ែ [U+17C2], ​ៃ [U+17C3], 
+
+(2) Below-base Vowel (BlwV):  ុ [U+17BB], ូ [U+17BC], ួ [U+17BD],  
+
+(3) Above-base Vowel (AbvV):  ិ [U+17B7], ី [U+17B8], ឹ [U+17B9], ឺ [U+17BA], ើ [U+17BE], and
+
+(4) Post-base Vowels (PstV):  ោ [U+17C4], ៅ [U+17C5], ៀ [U+17C0], ឿ [U+17BF], ា [U+17B6].
+
+Nikahit ( ំ U+17C6) and Reahmuk ( ះ U+17C7) are used as vowels. These are the only two that can be attached to another vowel to create vowel combination. Here are the common ones: ុំ (U+17BB U+17C6), ាំ (U+17B6 U+17C6), ុះ (U+17BB U+17C7), េះ (U+17C1 U+17C7) and ោះ (U+17C4 U+17C7). Khmer linguists usually consider them as one vowel unit. Unicode Standard, however, considers these as a combination of vowel and diacritics.
+
 
 
 ### 7.2. New Proposal
