@@ -27,7 +27,7 @@ Todd Bequette,  <br>
 Becky Bequette,  <br>
 Seth Wilson, and  <br>
 Martin Hosken  <br>
-Last Update: May 4, 2020
+Last Update: April 09, 2021
 </p>
 
 # Table of Contents
@@ -37,7 +37,7 @@ Last Update: May 4, 2020
 4. [Khmer Phoneme Inventory](#KhmerPhonemeInventory)
 5. [Khmer Orthography](#KhmerOrthography)
 6. [Ligatures](#Ligatures)
-7. [Unicode Encoding](#UnicodeEncoding)
+7. [Encoding Order](#EncodingOrder)
 8. [Text Processing](#TextProcessing)
 9. [Application of Khmer Script to Other Languages](#ApplicationofKhmerScripttoOtherLanguages)
 10. [Stone Inscriptions (Pre-Angkor, Angkor, Post-Angkor Era)](#StoneInscriptions)
@@ -5456,11 +5456,75 @@ In some font, Khmer OS Muol for example, the combination of consonants ក (U+17
 
 
 
-## 7. Unicode Encoding <a name="UnicodeEncoding"></a>
+## 7. Encoding Order <a name="EncodingOrder"></a>
 ### 7.1. Overview
 
-There are discrepancies in character sequences posited by Unicode Standard (2018:646), OpenType (2018) and the Open Forum (2004:7-14). Only the conflicting characters are in the table below.
+There are discrepancies in character sequences posited by Unicode Standard (2018:646), Microsoft (2018) and the Open Forum (2004:7-14). 
 
+Below are the character sequences posited by Unicode Standard, Microsoft and Open Forum:
+
+**Unicode Standard (2019:654)**
+
+    B {R | C} {S {R}}* {{Z} V} {O} {S}
+
+where
+
+*   B is a base character (consonant character, independent vowel character, and so on) 
+*   R is a Robat 
+*   C is a consonant shifter 
+*   S is a subscript consonant or independent vowel sign 
+*   V is a dependent vowel sign 
+*   Z is a zero width non-joiner or a zero width joiner 
+*   O is any other sign
+
+A zero width non-joiner or a zero width joiner can be placed before a vowel if needed. 
+
+**Microsoft (2018)**
+
+    Cons + {COENG + (Cons | IndV)} + [PreV | BlwV] + [RegShift] + [AbvV] + {AbvS} + [PstV] + [PstS]
+
+where
+
+*   Cons – [Consonant](#OrthoInitialConsonants) character 
+*   IndV – [Independent](#IndependentVowels) vowel character
+*   COENG – The COENG code
+*   PreV – Vowel that is positioned before the base glyph
+*   BlwV – Vowel that is positioned below the base glyph
+*   RegShift – [ Triisap or Muusikatoan](#ConsonantShifters) character
+*   AbvV – Vowel that is positioned above the base glyph
+*   AbvS – A sign character that is positioned above the base glyph
+*   PstV – Vowel that is positioned after the base glyph
+*   PstS – Sign character that is positioned after the base glyph
+*   { } – Indicates 0 to 2 occurrences
+*   \[ \] – Indicates 0 or 1 occurrence
+*   | – Exclusive OR
+*   \+ – Cumulative AND
+
+Note: Microsoft states ZWNJ is to be placed in between the RegShift and the AbvV to prevent the RegShift from changing its shape. However, its example has ZWNJ before the RegShift.
+
+**Open Forum**
+
+Open Forum of Cambodia (currently known as Open Institute) authored a document on “How to type Khmer Unicode” (2004) among other papers related to Khmer encoding issues as a part of their KhmerOS project whose aims were to localize and enable Khmer language in Linux and more. They have also created KhmerOS font family that has been adopted and used widely in Cambodia. 
+
+The Khmer character ordering was devised as:
+
+    a. Consonant + Robat {+ Vowel} {+ Sign}
+
+    b. Consonant + Coeng consonant(s) + Consonant-shifter + Vowel + Above signs + After signs
+
+where
+
+*   Consonant – [U+1780..U+17A2] or [U+17A5..U+17B3]
+*   Coeng consonant – [U+17D2] + {[U+1780..U+17A2] or [U+17A5..U+17B3]}
+*   Vowel – [U+17B6..U+17C5]
+*   Sign 
+    *   Above sign – [U+17C6, U+17CB, U+17CD..U+17D1, U+17D3, U+17DD]
+    *   After sign – [U+17C7, U+17C8]
+*   Consonant shifter – [U+17C9, U+17CA]
+*   Robat – [U+17CC]
+
+
+The following characters are implemented differently.
 
 <table>
   <tr>
@@ -5468,7 +5532,7 @@ There are discrepancies in character sequences posited by Unicode Standard (2018
    </td>
    <td><strong>Unicode Standard</strong>
    </td>
-   <td><strong>OpenType</strong>
+   <td><strong>Microsoft</strong>
    </td>
    <td><strong>Open Forum</strong>
    </td>
@@ -5535,8 +5599,7 @@ There are discrepancies in character sequences posited by Unicode Standard (2018
   </tr>
 </table>
 
-
-Unlike Unicode Standard and Open Forum, the OpenType breaks vowels into four subcategories: 
+Unlike Unicode Standard and Open Forum, Microsoft breaks vowels into four subcategories based on where they are placed on the bast character: 
 
 (1) Pre-base Vowels (PreV): េ​ [U+17C1], ែ [U+17C2], ​ៃ [U+17C3], 
 
@@ -5546,71 +5609,7 @@ Unlike Unicode Standard and Open Forum, the OpenType breaks vowels into four sub
 
 (4) Post-base Vowels (PstV):  ោ [U+17C4], ៅ [U+17C5], ៀ [U+17C0], ឿ [U+17BF], ា [U+17B6].
 
-In Khmer language grammar textbook, Nikahit ( ំ U+17C6) and Reahmuk ( ះ U+17C7) are included in the vowel inventory, even though they are described elsewhere as diacritics or signs. The public usually consider these two as vowels. Plus when these two characters are used with other vowels, i.e. ុ (U+17BB) as in ុះ, េ (U+17C1) as in េះ and ោ (U+17C4) as in ោះ, Khmer linguists usually consider them as one vowel unit. Unicode Standard, however, considers these as a combination of vowel and diacritics (Nikahit and Reahmuk).
-
-Below are the character sequences posited by Unicode Standard, OpenType and Open Forum:
-
-**Unicode Standard (2019:654)**
-
-    B {R | C} {S {R}}* {{Z} V} {O} {S}
-
-where
-
-
-
-*   B is a base character (consonant character, independent vowel character, and so on) 
-*   R is a Robat 
-*   C is a consonant shifter 
-*   S is a subscript consonant or independent vowel sign 
-*   V is a dependent vowel sign 
-*   Z is a zero width non-joiner or a zero width joiner 
-*   O is any other sign
-
-**OpenType (2018)**
-
-    Cons + {COENG + (Cons | IndV)} + [PreV | BlwV] + [RegShift] + [AbvV] + {AbvS} + [PstV] + [PstS]
-
-where
-
-
-
-*   Cons – [Consonant](#OrthoInitialConsonants) character 
-*   IndV – [Independent](#IndependentVowels) vowel character
-*   COENG – The COENG code
-*   PreV – Vowel that is positioned before the base glyph
-*   BlwV – Vowel that is positioned below the base glyph
-*   RegShift – [ Triisap or Muusikatoan](#ConsonantShifters) character
-*   AbvV – Vowel that is positioned above the base glyph
-*   AbvS – A sign character that is positioned above the base glyph
-*   PstV – Vowel that is positioned after the base glyph
-*   PstS – Sign character that is positioned after the base glyph
-*   { } – Indicates 0 to 2 occurrences
-*   \[ \] – Indicates 0 or 1 occurrence
-*   | – Exclusive OR
-*   \+ – Cumulative AND
-
-Note: OpenType states ZWNJ is to be placed in between the RegShift and the AbvV to prevent the RegShift from changing its shape. However, its example has ZWNJ before the RegShift.
-
-**Open Forum**
-
-Open Forum of Cambodia wrote a document on “How to type Khmer Unicode” (2004). Khmer character ordering was devised as:
-
-    Consonant + Robat {+ Vowel} {+ Sign}
-
-    Consonant + Coeng consonant(s) + Consonant-shifter + Vowel + Above signs + After signs
-
-where
-
-
-
-*   Consonant – [U+1780..U+17A2] or [U+17A5..U+17B3]
-*   Coeng consonant – [U+17D2] + {[U+1780..U+17A2] or [U+17A5..U+17B3]}
-*   Vowel – [U+17B6..U+17C5]
-*   Sign 
-    *   Above sign – [U+17C6, U+17CB, U+17CD..U+17D1, U+17D3, U+17DD]
-    *   After sign – [U+17C7, U+17C8]
-*   Consonant shifter – [U+17C9, U+17CA]
-*   Robat – [U+17CC]
+Nikahit ( ំ U+17C6) and Reahmuk ( ះ U+17C7) are used as vowels. These are the only two that can be attached to another vowel to create vowel combination. Here are the common ones: ុំ (U+17BB U+17C6), ាំ (U+17B6 U+17C6), ុះ (U+17BB U+17C7), េះ (U+17C1 U+17C7) and ោះ (U+17C4 U+17C7). Khmer linguists usually consider them as one vowel unit. Unicode Standard, however, considers these as a combination of vowel and diacritics.
 
 
 
@@ -5974,12 +5973,12 @@ The table below illustrates which character can be placed after another in the s
   </tr>
 </table>
 
-It is important to note that an orthographic syllable mentioned here is different from that used in linguistic context. An orthographic syllable start with a base which can be a consonant (or an independent vowel), therefore unlike a syllable in linguistic sense, there is no final consonant in an orthographic syllable. For instance, កាត់ (ក ា ត ់) /kat/ 'to cut' has one linguistic syllable, but two orthographic syllables--កា (ក ា) and ត់ (ត ់). 
+It is important to note that an orthographic syllable mentioned here is different from that used in linguistic context. An orthographic syllable start with a base character which can be a consonant (or an independent vowel), therefore unlike a syllable in linguistic sense, there is no final consonant in an orthographic syllable. For instance, កាត់ (ក ា ត ់) /kat/ 'to cut' has one linguistic syllable, but two orthographic syllables--កា (ក ា) and ត់ (ត ់). 
 
 Khmer spelling has evolved since the publication of the official dictionary. Six separate cases have been identified:
-* An indepdent vowel can be followed by a Coeng, i.e. ឥ្យសាន (ឥ ្យ ស ា ន) 'north east’.
-* An indepdent vowel can be followed by a register shifter, i.e. ឧ៊កញ៉ា (ឧ ៊ ក ញ ៉ ា) ​'tycoon’.
-* A Coeng can be followed by an indepdent vowel, i.e. ហ្ឫទ័យ (ហ ្ឫ ទ ័ យ) 'heart'. This entry exists in the Khmer official dictionary, but it has rarely been used nowadays.
+* An independent vowel can be followed by a Coeng, i.e. ឥ្យសាន (ឥ ្យ ស ា ន) 'north east’.
+* An independent vowel can be followed by a register shifter, i.e. ឧ៊កញ៉ា (ឧ ៊ ក ញ ៉ ា) ​'tycoon’.
+* A Coeng can be followed by an independent vowel, i.e. ហ្ឫទ័យ (ហ ្ឫ ទ ័ យ) 'heart'. This entry exists in the Khmer official dictionary, but it has rarely been used nowadays.
 * A vowel can be followed by a subscript (i.e. Coeng + Consonant), i.e. ង៉ៃ្យ (ង ៉ ៃ ្យ) 'day'.
 * A vowel can be followed by another vowel, i.e. ដេិរ (ដ េ ិ រ) 'to walk'.
 * A vowel can be followed by a Bantoc, i.e. ហុ់ច (ហ ុ ់ ច) 'to pass (sth to sb)'.
@@ -5992,12 +5991,10 @@ A noticable placement of a register shifter is that the Muusikatoan can be place
 
 According to Horton et al. (2017), there are at least eight cases of rendering issues in Khmer Unicode implementation. These eight issues lead to other problems for the end users and developers.
 
-*   **Confusability**: users are not able to make a sound judgement on which is the right way to type a word. Oftentimes, different sequences of the same characters are shown up exactly the same on the screen. 
-*   **Vulnerability**: users can be spoofed and taken advantage of. 
-*   **Searchability**: users are not able to find what they are looking for because they use different character sequences in the query.
+*   **Confusion**: users are not able to make a sound judgement on which is the right way to type a word. Oftentimes, different sequences of the same characters are shown up exactly the same on the screen. Consequently, users may be vulnerable of spoofing attack and/or unable to find  what they are looking for.
 *   **Compatibility**: when a user uses android to send/share text documents with a windows or mac user, the text may look different because of the different implementation in the rendering engines.
 
-To help improve the consistency in text input, users should be able to see for themselves whether what is typed is abide by the logical character order or not by showing the dotted circle when out of order; and/or the developers should be able to include a feature to auto-reorder of characters at the input level in a way that would be consistent with the character order.
+Consistency in text input can be improved by (1) showing the dotted circle (U+25CC) when users type out of a certain sets of character order rules or (2) automatically re-ordering characters at the input level. (2) cannot be done unless a set of character order rules is in place.
 
 The following sections list the issues one by one. The examples are adopted from the paper (Horton et al. 2017). The rendered text were done in Google Chrome 58.0 and Android 6.0.1.
 
@@ -6008,7 +6005,7 @@ The following sections list the issues one by one. The examples are adopted from
 This is a case of when a “subscript” and a “vowel” are combined. Typing either one before another does not make any difference in the visual output on the screen, but it is invalid to place a Vowel before a Subscript in contemporary Khmer. 
 
 *   Subscript + Vowel	ខ <mark style="background-color:#BFBFBF">្ម ែ</mark> រ 	> ខ្មែរ 	‘Khmer’
-*    Vowel + Subscript	ខ <mark style="background-color:#BFBFBF">ែ ្ម</mark> រ 	> ខែ្មរ	**<font color="red">invalid sequence,</font> but it was used before the publication of the Khmer-Khmer dictionary (1967)**
+*    Vowel + Subscript	<mark style="background-color:#BFBFBF">ែ ខ  ្ម</mark> រ 	> ខែ្មរ	**<font color="red">invalid sequence,</font> but it was used before the publication of the Khmer-Khmer dictionary in 1967 (See Scheuren (2010:42-43) )**
 
 This issue is complicated and a solution is probably to distinguish between the old Khmer (prior to the Khmer-Khmer Dictionary publication) and the contemporary Khmer (after the dictionary was published). Unicode Standard allows both for the time being. 
 
@@ -6171,9 +6168,9 @@ To date, the Mool style is usually used in banners and titles of books or articl
 
 #### 8.3.2. Font Rendering 
 
-Khmer font rendering is complex because characters are not rendered in a linear order. Vowels are not always found after the base consonant. They can go to the left, right, above, below or even around the base. Similarly, subscripts can be rendered to the left, right or below the base. These make it confusing to the users as to what should be typed when and placed where.
+Khmer font rendering is complex because characters are not rendered in a linear order. Vowels are not always found after the base consonant. They can go to the left, right, above, below or even around the base character. Similarly, subscripts can be rendered to the left, right or below the base character. These make it confusing to the users as to what should be typed when and placed where.
 
-Lists of vowel according to their positions when collating with the base are shown in the table below. 
+Lists of vowel according to their positions when collating with the base character are shown in the table below. 
 
 <table>
   <tr>
@@ -6320,11 +6317,25 @@ Here is a list of subscripts and where they should be rendered in their respecti
 
 ### 8.4. Diacritic Position
 
-All diacritics are placed on top of the base: ៉ ៊ ់ ៌ ៍ ័ ៏ ៎ ៝. Only one diacritic is usually found on a consonant in a syllable, except ‘a Consonant Shifter + Samyok Sannya’. There is also a common occurence of a consonant shifter with Nikahit “Consonant Shifter + Nikahit,” but be aware that Nikahit functions as a vowel in that environment, despites its name.
+All diacritics are placed on top of the base character: ៉ ៊ ់ ៌ ៍ ័ ៏ ៎ ៝. Only one diacritic is usually found on a consonant in a syllable, except ‘a Consonant Shifter + Samyok Sannya’. There is also a common occurence of a consonant shifter with Nikahit “Consonant Shifter + Nikahit,” but be aware that Nikahit functions as a vowel in that environment, despites its name.
 
 ## 9. Application of Khmer Script to Other Languages <a name="ApplicationofKhmerScripttoOtherLanguages"></a>
 
-Khmer alphabet is not only used to write Khmer language, but it  is also used to write at least six ethnic minority languages (i.e. Bunong, Tampuan, Brao, Krung, Jarai and Kuay) and two dead languages (i.e. Pali and Sanskrit). Each language requires unique syllable configuration and character sequences. This section describes the two main points in each language:
+Khmer alphabet is not only used to write Khmer language, but it  is also used to write at least six ethnic minority languages (i.e. Bunong, Tampuan, Brao, Krung, Jarai and Kuay) and two dead languages (i.e. Pali and Sanskrit). Each language requires unique syllable configuration and character sequences. However, a general character order can be posited as: 
+
+    B {S} [C] [V] {O} 
+
+where:
+* B – A base consonant character
+* S – A subscript  consonant (i.e. Coeng + Base)
+* C – A consonant shifter
+* V – A vowel sign
+* O – Any other sign
+* { } – Indicates 0 to 2 occurrences
+* [ ] – Indicates 0 to 1 occurrence
+
+
+This section describes two main points in each language:
 
 *   a list of consonants, subscripts, vowels, diacritics, symbols and punctuations if applicable
 *   how the writing system is different from Khmer
@@ -11368,7 +11379,7 @@ Wrong rendering on Chrome for Mobile v75.0.3770.143: the two characters do not c
 
 ![ហវីំឞិ](images/Khmer-Character22.png "ហវីំឞិ")
 
-*   Anusvara is placed on an indepdent vowel (ibid:115) <br>
+*   Anusvara is placed on an independent vowel (ibid:115) <br>
 ឧំឞិ 
 
 
@@ -11895,7 +11906,7 @@ The database of the Chuon Nath dictionary is available at: [https://code.google.
 
 ## 13. Summary <a name="Summary"></a>
 
-Khmer script is used to write Khmer, minority languages (i.e. Bunong, Tampuan, Brao, Jarai and Kuay), Pali, Sanskrit and inscription. When working with Khmer script on computer, according to the Unicode Standard, it is important to be mindful of the order of characters within each word. To compensate for sounds which do not exist in Khmer, the minority languages make use of characters that are no longer used in modern Khmer. (i.e. ឝ ឞ ៝). This paper seeks to describe each character in use in the Khmer script, including usage in _ligatures, unicode encoding, text processing _and_ how usage of the characters may differ in  minority languages._
+Khmer script is used to write Khmer, minority languages (i.e. Bunong, Tampuan, Brao, Jarai and Kuay), Pali, Sanskrit and inscription. When working with Khmer script on computer, according to the Unicode Standard, it is important to be mindful of the order of characters within each word. To compensate for sounds which do not exist in Khmer, the minority languages make use of characters that are no longer used in modern Khmer. (i.e. ឝ ឞ ៝). This paper seeks to describe each character in use in the Khmer script, including usage in _ligatures, encoding order, text processing _and_ how usage of the characters may differ in  minority languages._
 
 It is observed (1) that some obsolete characters are commonly used in minority languages, Sastra and inscriptions. One has to consider the outlook and rendering of those characters. (2) The character ordering is also another issue when it comes to one size fit all scenario. Khmer language uses certain characters for one purpose in one way, while they may be used differently for different purposes in minority languages.
 
