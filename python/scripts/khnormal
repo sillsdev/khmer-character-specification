@@ -1,0 +1,97 @@
+#!/usr/bin/python3
+# Copyright (c) 2021, SIL International.
+# Licensed under MIT license: https://opensource.org/licenses/MIT
+
+import enum, re
+
+class Cats(enum.Enum):
+    Other = 0; Base = 1; Robat = 2; Coeng = 3; Z = 4
+    Shift = 5; Vowel = 6; MS = 7; MF = 8
+
+categories =  ([Cats.Base] * 35     # 1780-17A2
+            + [Cats.Other] * 2      # 17A3-17A4
+            + [Cats.Vowel] * 33     # 17A5-17C5
+            + [Cats.MS]             # 17C6
+            + [Cats.MF] * 2         # 17C7-17C8
+            + [Cats.Shift] * 2      # 17C9-17CA
+            + [Cats.MS]             # 17CB
+            + [Cats.Robat]          # 17CC
+            + [Cats.MS] * 5         # 17CD-17D1
+            + [Cats.Coeng]          # 17D2
+            + [Cats.MS]             # 17D3
+            + [Cats.Other] * 9      # 17D4-17DC
+            + [Cats.MS])            # 17DD
+
+khres = {   # useful regular sub expressions used later
+    "BNB":  "[\u1780-\u1793\u1795-\u17A2]",
+    "SF":   "[\u179E-\u17A0\u17A2]",
+    "SNF":  "[\u1780-\u179D\u17A1]",
+    "SS":   "[\u1784\u1789\u1793\u1794\u1798-\u179D]",
+    "VA":   "[\u17B7-\u17BA\u17BE\u17D0\u17DD]|\u17B6\u17C6",
+}
+
+def charcat(c):
+    ''' Returns the Khmer character category for a single char string'''
+    o = ord(c)
+    if 0x1780 <= o <= 0x17DD:
+        return categories[o-0x1780]
+    elif o in (0x200C, 0x200D):
+        return Cats.Z
+    return Cats.Other
+
+def khnormal(txt):
+    ''' Returns khmer normalised string, without fixing or marking errors'''
+    # categorise every character in the string
+    charcats = [charcat(c) for c in txt]
+
+    # Recategorise base -> coeng after coeng char
+    for i in range(len(charcats)-1, 0, -1):
+        if charcats[i-1] == Cats.Coeng and charcats[i] == Cats.Base:
+            charcats[i] = Cats.Coeng
+
+    # find subranges of base+non other and sort components in the subrange
+    i = 0
+    res = []
+    while i < len(charcats):
+        c = charcats[i]
+        if c != Cats.Base:
+            res.append(txt[i])
+            i += 1
+            continue
+        # scan for end of syllable
+        j = i + 1
+        while j < len(charcats) and charcats[j].value > Cats.Base.value:
+            j += 1
+        # sort syllable based on character categories
+        # sort the char indices by category then position in string
+        newindices = sorted(range(i, j), key=lambda e:(charcats[e].value, e))
+        replaces = "".join(txt[n] for n in newindices)
+
+        replaces = re.sub("([\u17D2\u200C\u200D])[\u17D2\u200C\u200D]+", r"\1", replaces)
+        replaces = re.sub("\u17C1(\u17BB?)\u17B8", "\\1\u17BE", replaces)
+        replaces = re.sub("\u17C1(\u17BB?)\u17B6", "\\1\u17C4", replaces)
+        replaces = re.sub("\u17B8(\u17BB?)\u17C1", "\\1\u17BE", replaces)
+        replaces = re.sub("\u17B6(\u17BB?)\u17C1", "\\1\u17C4", replaces)
+        replaces = re.sub("({VA})(\u17BB)".format(**khres), r"\2\1", replaces)
+        replaces = re.sub("({SF}(?:\u17D2{BNB}){{0,2}}|{BNB}(?:\u17D2{SF}(?:\u17D2{BNB})?"
+                          "|\u17D2{BNB}\u17D2{SF}))\u17BB({VA})".format(**khres),
+                                 "\\1\u17CA\\2", replaces)
+        replaces = re.sub("({SS}(?:\u17D2{SNF}){{0,2}}|{SNF}(?:\u17D2{SS}(?:\u17D2{SNF})?"
+                          "|\u17D2{SNF}\u17D2{SS}))\u17BB({VA})".format(**khres),
+                                "\\1\u17C9\\2", replaces)
+        replaces = re.sub("(\u17D2\u179A)(\u17D2[\u1780-\u17B3])", r"\2\1", replaces)
+        replaces = re.sub("(\u17D2)\u178A", "\\1\u178F", replaces)
+        res.append(replaces)
+        i = j
+    return "".join(res)
+
+if __name__ == "__main__":
+    import sys
+
+    if len(sys.argv) < 2:
+        print("khnormal infile [outfile]")
+        sys.exit(1)
+    infile = open(sys.argv[1], encoding="utf-8") if sys.argv[1] != "-" else sys.stdin
+    outfile = open(sys.argv[2], "w", encoding="utf-8") if len(sys.argv) > 2 else sys.stdout
+    for l in infile.readlines():
+        outfile.write(khnormal(l))
