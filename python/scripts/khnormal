@@ -5,8 +5,8 @@
 import enum, re
 
 class Cats(enum.Enum):
-    Other = 0; Base = 1; Robat = 2; Coeng = 3; Z = 4
-    Shift = 5; Vowel = 6; MS = 7; MF = 8
+    Other = 0; Base = 1; Robat = 2; Coeng = 3
+    Shift = 4; Z = 5; VPre = 6; Vowel = 7; MS = 8; MF = 9
 
 categories =  ([Cats.Base] * 35     # 1780-17A2
             + [Cats.Other] * 2      # 17A3-17A4
@@ -24,10 +24,11 @@ categories =  ([Cats.Base] * 35     # 1780-17A2
 
 khres = {   # useful regular sub expressions used later
     "BNB":  "[\u1780-\u1793\u1795-\u17A2]",
-    "SF":   "[\u179E-\u17A0\u17A2]",
-    "SNF":  "[\u1780-\u179D\u17A1]",
+    "SF":   "[\u1780\u1781\u1785\u1786\u178A\u178B\u1790\u1795\u179E-\u17A0\u17A2]",
+    "SNF":  "[\u1782-\u1784\u1787\u1789\u178C-\u178E\u1791-\u1794\u1796-\u179D\u17A1]",
     "SS":   "[\u1784\u1789\u1793\u1794\u1798-\u179D]",
-    "VA":   "[\u17B7-\u17BA\u17BE\u17D0\u17DD]|\u17B6\u17C6",
+    "VA":   "[\u17C1-\u17C3]?[\u17B7-\u17BA]|[\u17BE\u17D0\u17DD]" + \
+            "|[\u17C1-\u17C3]?\u17B6\u17C6",
 }
 
 def charcat(c):
