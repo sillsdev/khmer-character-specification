@@ -52,8 +52,8 @@ khres = {   # useful regular sub expressions used later
     "COENGS":  "(?:(?:\u17D2{SCF})?\u17D2{B}|"
                "(?:(?:\u17D2[\u1783\u1788\u178D\u1794\u1799\u179F]\u200D(?={COENGR}))|"
                "(?:\u17D2{SCF}\u200D(?={COENGF}))))",
-    "SHIFT":   "(?:(?<={STRONG})[\u17C9\u17CA]?\u17CA\u200C(?=VA)|"
-               "(?<={NSTRONG})[\u17C9\u17CA]?\u17C9\u200C(?={VA}|[\u17D0\u17DD])|"
+    "SHIFT":   "(?:(?:(?:(?<={STRONG})[\u17C9\u17CA]?\u17CA\u200C|"
+               "(?<={NSTRONG})[\u17C9\u17CA]?\u17C9\u200C)(?={VA}))|"
                "[\u17C9\u17CA](?:[\u17C9\u17CA])?)",
     "V":       "(?:\u17C1[\u17B7-\u17BD]?|[\u17C2\u17C3][\u17B7-\u17BD]?\u17B6?|"
                "[\u17B7-\u17BD][\u17B6\u17C4\u17C5]|[\u17B4-\u17C5])",
