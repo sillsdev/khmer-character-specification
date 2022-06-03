@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Copyright (c) 2021, SIL International.
+# Copyright (c) 2021-2022, SIL International.
 # Licensed under MIT license: https://opensource.org/licenses/MIT
 
 import enum, re
@@ -53,8 +53,9 @@ khres = {   # useful regular sub expressions used later
                "(?:(?:\u17D2[\u1783\u1788\u178D\u1794\u1799\u179F]\u200D(?={COENGR}))|"
                "(?:\u17D2{SCF}\u200D(?={COENGF}))))",
     "SHIFT":   "(?:(?:(?:(?<={STRONG})[\u17C9\u17CA]?\u17CA\u200C|"
-               "(?<={NSTRONG})[\u17C9\u17CA]?\u17C9\u200C)(?={VA}))|[\u17C9\u17CA](?:[\u17C9\u17CA])?)",
-    "V":       "(?:\u17C1[\u17B7-\u17Bd]|[\u17C2\u17C3][\u17B6-\u17BD]|"
+               "(?<={NSTRONG})[\u17C9\u17CA]?\u17C9\u200C)(?={VA}))|"
+               "[\u17C9\u17CA](?:[\u17C9\u17CA])?)",
+    "V":       "(?:\u17C1[\u17B7-\u17BD]?|[\u17C2\u17C3][\u17B7-\u17BD]?\u17B6?|"
                "[\u17B7-\u17BD][\u17B6\u17C4\u17C5]|[\u17B4-\u17C5])",
     "MS":      "(?:[\u17C6\u17CB\u17CD-\u17CF\u17D1\u17D3]|"
                "(?<!\u17BB[\u17B6\u17C4\u17C5]?)[\u17D0\u17DD]|"
@@ -76,7 +77,7 @@ def charcat(c):
         return Cats.ZFCoeng
     return Cats.Other
 
-def khnormal(txt):
+def khnormal(txt, lang="km"):
     ''' Returns khmer normalised string, without fixing or marking errors'''
     # categorise every character in the string
     charcats = [charcat(c) for c in txt]
@@ -115,16 +116,19 @@ def khnormal(txt):
                           "\\1\u17CA", replaces)
         replaces = re.sub("({NSTRONG}[\u17C9\u17CA]?)\u17BB(?={VA})".format(**khres),
                           "\\1\u17C9", replaces)
-        replaces = re.sub("(\u17D2\u179A)(\u17D2[\u1780-\u17B3](?!\u200D))", r"\2\1", replaces)
+        replaces = re.sub("(\u17D2\u179A)(\u17D2[\u1780-\u17B3](?!\u200D))",
+                          r"\2\1\u200D" if lang.lower()=="tpu" else r"\2\1", replaces)
         replaces = re.sub("(\u17D2)\u178A", "\\1\u178F", replaces)
         res.append(replaces)
         i = j
     return "".join(res)
 
 def khtest(txt):
+    ''' Tests normalized text for conformance to Khmer encoding structure '''
     import regex
     syl = ("{B}\u17CC?{COENGS}?{SHIFT}?{V}?{MS}?|[\u17C7\u17C8]|"
-           "[\u17D4-\u17DC\u17E0-\u17F9\u19E0-\u19FF]|[^\u1780-\u17F9\u19E0-\u19FF]").format(**khres)
+           "[\u17D4-\u17DC\u17E0-\u17F9\u19E0-\u19FF]|"
+           "[^\u1780-\u17F9\u19E0-\u19FF]").format(**khres)
     res = regex.match(r"^({})+$".format(syl), txt)
     return res != None
 
@@ -137,17 +141,18 @@ if __name__ == "__main__":
     parser.add_argument("-u","--unicodes",action="store_true")
     parser.add_argument("-f","--fail",action="store_true",
                         help="Only print lines that fail the regex after normalising")
+    parser.add_argument("-l","--lang",default="km","Language specific processing")
     args = parser.parse_args()
 
     if args.unicodes:
         instr = "".join(chr(int(x, 16)) for x in args.infile)
-        res = khnormal(instr)
+        res = khnormal(instr, lang=args.lang)
         if not args.fail or not khtest(res):
             print(" ".join("{:04X}".format(ord(x)) for x in res))
     else:
         infile = open(args.infile[0], encoding="utf-8")
         outfile = open(args.outfile, "w", encoding="utf-8") if args.outfile else sys.stdout
         for l in infile.readlines():
-            res = khnormal(l)
+            res = khnormal(l, lang=args.lang)
             if not args.fail or not khtest(res):
                 outfile.write(res)
