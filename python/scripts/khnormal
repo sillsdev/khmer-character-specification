@@ -49,7 +49,7 @@ khres = {   # useful regular sub expressions used later
     # final all coengs
     "COENGF":  "[\u17C9\u17CA]?(?:[\u17C9\u17CA]\u200C?)?(?:{VA}|{VB})?"
                "[\u17B6\u17BF\u17C0\u17C4\u17C5]",
-    "COENGS":  "(?:(?:\u17D2{SCF})?\u17D2{B}|"
+    "COENGS":  "(?:(?:(?:\u17D2{SCF})?(?:\u17D2{B})|\u17D2{SCF}\u17D2\u179A\u200D)?"
                "(?:(?:\u17D2[\u1783\u1788\u178D\u1794\u1799\u179F]\u200D(?={COENGR}))|"
                "(?:\u17D2{SCF}\u200D(?={COENGF}))))",
     "SHIFT":   "(?:(?:(?:(?<={STRONG})[\u17C9\u17CA]?\u17CA\u200C|"
@@ -79,7 +79,10 @@ def charcat(c):
 
 def khnormal(txt, lang="km"):
     ''' Returns khmer normalised string, without fixing or marking errors'''
-    # categorise every character in the string
+    # Mark final coengs in Middle Khmer
+    if lang == "xhm":
+        txt = re.sub(r"([\u17B7-\u17C5]\u17D2)", r"\1\u200D", txt)
+    # Categorise every character in the string
     charcats = [charcat(c) for c in txt]
 
     # Recategorise base -> coeng after coeng char
@@ -87,7 +90,7 @@ def khnormal(txt, lang="km"):
         if charcats[i-1] == Cats.Coeng and charcats[i] == Cats.Base:
             charcats[i] = Cats.Coeng
 
-    # find subranges of base+non other and sort components in the subrange
+    # Find subranges of base+non other and sort components in the subrange
     i = 0
     res = []
     while i < len(charcats):
@@ -96,12 +99,12 @@ def khnormal(txt, lang="km"):
             res.append(txt[i])
             i += 1
             continue
-        # scan for end of syllable
+        # Scan for end of syllable
         j = i + 1
         while j < len(charcats) and charcats[j].value > Cats.Base.value:
             j += 1
-        # sort syllable based on character categories
-        # sort the char indices by category then position in string
+        # Sort syllable based on character categories
+        # Sort the char indices by category then position in string
         newindices = sorted(range(i, j), key=lambda e:(charcats[e].value, e))
         replaces = "".join(txt[n] for n in newindices)
 
@@ -111,13 +114,13 @@ def khnormal(txt, lang="km"):
         replaces = re.sub("\u17B8(\u17BB?)\u17C1", "\\1\u17BE", replaces)
         replaces = re.sub("\u17B6(\u17BB?)\u17C1", "\\1\u17C4", replaces)
         replaces = re.sub("({VA})(\u17BB)".format(**khres), r"\2\1", replaces)
-        # replace -u + upper vowel with consonant shifter
+        # Replace -u + upper vowel with consonant shifter
         replaces = re.sub("({STRONG}[\u17C9\u17CA]?)\u17BB(?={VA})".format(**khres),
                           "\\1\u17CA", replaces)
         replaces = re.sub("({NSTRONG}[\u17C9\u17CA]?)\u17BB(?={VA})".format(**khres),
                           "\\1\u17C9", replaces)
-        replaces = re.sub("(\u17D2\u179A)(\u17D2[\u1780-\u17B3](?!\u200D))",
-                          r"\2\1\u200D" if lang.lower()=="tpu" else r"\2\1", replaces)
+        replaces = re.sub("(\u17D2)(\u179A)(\u17D2[\u1780-\u17B3](?!\u200D))",
+                          r"\3\1\u200D\2" if lang.lower()=="tpu" else r"\3\1\2", replaces)
         replaces = re.sub("(\u17D2)\u178A", "\\1\u178F", replaces)
         res.append(replaces)
         i = j
@@ -141,7 +144,7 @@ if __name__ == "__main__":
     parser.add_argument("-u","--unicodes",action="store_true")
     parser.add_argument("-f","--fail",action="store_true",
                         help="Only print lines that fail the regex after normalising")
-    parser.add_argument("-l","--lang",default="km","Language specific processing")
+    parser.add_argument("-l","--lang",default="km",help="Language specific processing")
     args = parser.parse_args()
 
     if args.unicodes:
