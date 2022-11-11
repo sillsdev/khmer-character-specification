@@ -6,8 +6,8 @@ import enum, re
 
 class Cats(enum.Enum):
     Other = 0; Base = 1; Robat = 2; Coeng = 3; ZFCoeng = 4
-    CoengB = 5; Shift = 6; Z = 7; VPre = 8; VB = 9; VA = 10
-    VPost = 11; MS = 12; MF = 13
+    Shift = 5; Z = 6; VPre = 7; VB = 8; VA = 9
+    VPost = 10; MS = 11; MF = 12
 
 categories =  ([Cats.Base] * 35     # 1780-17A2
             + [Cats.Other] * 2      # 17A3-17A4
@@ -24,11 +24,12 @@ categories =  ([Cats.Base] * 35     # 1780-17A2
             + [Cats.Robat]          # 17CC
             + [Cats.MS] * 5         # 17CD-17D1
             + [Cats.Coeng]          # 17D2
-            + [Cats.Other] * 10     # 17D3-17DC
+            + [Cats.MS]             # 17D3
+            + [Cats.Other] * 9      # 17D4-17DC
             + [Cats.MS])            # 17DD
 
 khres = {   # useful regular sub expressions used later
-    "B":       "[\u1780-\u17A2\u17A5-\u17B3]",
+    "B":       "[\u1780-\u17A2\u17A5-\u17B3\u25CC]",
     "NonRo":   "[\u1780-\u1799\u179B-\u17A2\u17A5-\u17B3]",
     "NonBA":   "[\u1780-\u1793\u1795-\u17A2\u17A5-\u17B3]",
     "S1":      "[\u1780-\u1783\u1785-\u1788\u178A-\u178D\u178F-\u1792"
@@ -88,10 +89,10 @@ def khnormal(txt, lang="km"):
     # Categorise every character in the string
     charcats = [charcat(c) for c in txt]
 
-    # Recategorise base -> coeng after coeng char
-    for i in range(len(charcats)-1, 0, -1):
-        if charcats[i-1] in (Cats.Coeng, Cats.ZFCoeng) and charcats[i] == Cats.Base:
-            charcats[i] = Cats.CoengB
+    # Recategorise base or ZWJ -> coeng after coeng char
+    for i in range(1, len(charcats)):
+        if charcats[i-1] == Cats.Coeng and charcats[i] in (Cats.Base, Cats.ZFCoeng):
+            charcats[i] = Cats.Coeng
 
     # Find subranges of base+non other and sort components in the subrange
     i = 0
@@ -111,7 +112,7 @@ def khnormal(txt, lang="km"):
         newindices = sorted(range(i, j), key=lambda e:(charcats[e].value, e))
         replaces = "".join(txt[n] for n in newindices)
 
-        replaces = re.sub("([\u200C\u200D]|\u17D2\u200D?)[\u17D2\u200C\u200D]+",
+        replaces = re.sub("([\u200C\u200D]\u17D2?|\u17D2\u200D)[\u17D2\u200C\u200D]+",
                           r"\1", replaces)      # remove multiple invisible chars
         # map compoound vowel sequences to compounds with -u before to be converted
         replaces = re.sub("\u17C1([\u17BB-\u17BD]?)\u17B8", "\u17BE\\1", replaces)
@@ -132,12 +133,28 @@ def khnormal(txt, lang="km"):
 def khtest(txt):
     ''' Tests normalized text for conformance to Khmer encoding structure '''
     import regex
-    syl = ("{B}\u17CC?{COENG}?(?:\u17D2\u200D(?={COENGR})|{FCOENG}(?={COENGF})|"
+    syl = regex.compile("({B}\u17CC?{COENG}?(?:\u17D2\u200D(?={COENGR})|{FCOENG}(?={COENGF})|"
            "(?<={NSTRONG})\u17D2\u200D{S1}(?={COENGS}))?{SHIFT}?{V}?{MS}?[\u17C7\u17C8]?|"
-           "[\u17A3\u17A4\u17B4\u17B5\u17D3-\u17DC\u17E0-\u17F9]|"
-           "[^\u1780-\u17F9]").format(**khres)
-    res = regex.match(r"^({})+$".format(syl), txt)
-    return res != None
+           "[\u17A3\u17A4\u17B4\u17B5\u17D4-\u17DC]|[^\u1780-\u17DD])".format(**khres))
+    res = []
+    passed = True
+    while len(txt):
+        m = syl.match(txt)
+        if m:
+            res.append(m.group(1))
+            txt = txt[m.end(1):]
+            continue
+        passed = False
+        m = syl.match("\u25CC"+txt)
+        if m:
+            res.append("\u25CC"+m.group(1))
+            txt = txt[m.end(1)-1:]
+        else:
+            res.append("!{}!".format(txt[0]))
+            txt = txt[1:]
+    if not passed:
+        return "".join(res)
+    return None
 
 if __name__ == "__main__":
     import argparse, sys
@@ -157,9 +174,13 @@ if __name__ == "__main__":
         if not args.fail or not khtest(res):
             print(" ".join("{:04X}".format(ord(x)) for x in res))
     else:
-        infile = open(args.infile[0], encoding="utf-8")
+        infile = open(args.infile[0], encoding="utf-8") if args.infile[0] != "-" else sys.stdin
         outfile = open(args.outfile, "w", encoding="utf-8") if args.outfile else sys.stdout
         for l in infile.readlines():
             res = khnormal(l, lang=args.lang)
-            if not args.fail or not khtest(res):
+            if args.fail:
+                tested = khtest(res)
+                if tested is not None:
+                    outfile.write(tested)
+            else:
                 outfile.write(res)
