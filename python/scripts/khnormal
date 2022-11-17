@@ -43,9 +43,8 @@ khres = {   # useful regular sub expressions used later
     "STRONG":  "{S1}\u17CC?(?:\u17D2{NonBA}(?:\u17D2{NonBA})?)?|"
                "{NonBA}\u17CC?(?:\u17D2{S1}(?:\u17D2{NonBA})?|\u17D2{NonBA}\u17D2{S1})",
     # contains BA or only series 2
-    "NSTRONG": "(?:{S2}\u17CC?(?:\u17D2{S2}(?:\u17D2{S2})?)?|"
-               "\u1794(?:\u17D2{B}(?:\u17D2{B})?)?"
-               "\u17D2{B}\u17D2\u1794|\u17D2\u1794(?:\u17D2{B})?)",
+    "NSTRONG": "(?:{S2}\u17CC?(?:\u17D2{S2}(?:\u17D2{S2})?)?|\u1794\u17CC?{COENG}?|"
+               "{B}\u17CC?(?:\u17D2{NonRo}\u17D2\u1794|\u17D2\u1794(?:\u17D2{B}))?)",
     "COENG":   "(?:(?:\u17D2{NonRo})?\u17D2{B})",
     # final right spacing coeng
     "COENGR":  "(?:(?:[\u17C9\u17CA]\u200C?)?(?:{VB}?{VAS}|{VB}))",
@@ -60,7 +59,7 @@ khres = {   # useful regular sub expressions used later
                "[\u17C2\u17C3]?[\u17BC\u17BD]?[\u17B7-\u17BA]\u17B6|"
                "[\u17C2\u17C3]?[\u17BB-\u17BD]?\u17B6|\u17BE[\u17BC\u17BD]?\u17B6?|"
                "[\u17C1-\u17C5]?\u17BB(?![\u17D0\u17DD])|"
-               "[\u17C2-\u17C5]?[\u17BC\u17BD]?[\u17B7-\u17BA]?|[\u17BF\u17C0])",
+               "[\u17BF\u17C0]|[\u17C2-\u17C5]?[\u17BC\u17BD]?[\u17B7-\u17BA]?)",
     "MS":      "(?:(?:[\u17C6\u17CB\u17CD-\u17CF\u17D1\u17D3]|"
                "(?<!\u17BB[\u17B6\u17C4\u17C5]?)[\u17D0\u17DD])"
                "[\u17C6\u17CB\u17CD-\u17D1\u17D3\u17DD]?)"
@@ -134,27 +133,27 @@ def khtest(txt):
     ''' Tests normalized text for conformance to Khmer encoding structure '''
     import regex
     syl = regex.compile("({B}\u17CC?{COENG}?(?:\u17D2\u200D(?={COENGR})|{FCOENG}(?={COENGF})|"
-           "(?<={NSTRONG})\u17D2\u200D{S1}(?={COENGS}))?{SHIFT}?{V}?{MS}?[\u17C7\u17C8]?|"
-           "[\u17A3\u17A4\u17B4\u17B5\u17D4-\u17DC]|[^\u1780-\u17DD])".format(**khres))
+           "(?<={NSTRONG})\u17D2\u200D{S1}(?={COENGS}))?{SHIFT}?{V}{MS}?[\u17C7\u17C8]?|"
+           "[\u17A3\u17A4\u17B4\u17B5]|[^\u1780-\u17D2])".format(**khres))
     res = []
     passed = True
     while len(txt):
-        m = syl.match(txt)
+        m = syl.match(txt)          # match a syllable
         if m:
-            res.append(m.group(1))
-            txt = txt[m.end(1):]
-            continue
-        passed = False
-        m = syl.match("\u25CC"+txt)
-        if m:
-            res.append("\u25CC"+m.group(1))
+            res.append(m.group(1))  # add matched syllable to output
+            txt = txt[m.end(1):]    # update start to after this syllable
+            continue                # go round for the next syllable
+        passed = False                          # will return a failed string
+        m = syl.match("\u25CC"+txt)             # Try inserting 25CC and matching that
+        if m and m.end(1) > 1:
+            res.append(m.group(1))     # yes then insert 25CC in output
             txt = txt[m.end(1)-1:]
         else:
-            res.append("!{}!".format(txt[0]))
+            res.append("!{}!".format(txt[0]))   # output failure character
             txt = txt[1:]
-    if not passed:
+    if not passed:                  # if the output is different, return it
         return "".join(res)
-    return None
+    return None                     # return None as sentinal for pass
 
 if __name__ == "__main__":
     import argparse, sys
@@ -171,12 +170,15 @@ if __name__ == "__main__":
     if args.unicodes:
         instr = "".join(chr(int(x, 16)) for x in args.infile)
         res = khnormal(instr, lang=args.lang)
-        if not args.fail or not khtest(res):
+        if args.fail:
+            res = khtest(res)
+        if res is not None:
             print(" ".join("{:04X}".format(ord(x)) for x in res))
     else:
-        infile = open(args.infile[0], encoding="utf-8") if args.infile[0] != "-" else sys.stdin
+        infile = open(args.infile[0], encoding="utf-8") if args.infile[0] != "-" \
+                else sys.stdin
         outfile = open(args.outfile, "w", encoding="utf-8") if args.outfile else sys.stdout
-        for l in infile.readlines():
+        for i, l in enumerate(infile.readlines()):
             res = khnormal(l, lang=args.lang)
             if args.fail:
                 tested = khtest(res)
