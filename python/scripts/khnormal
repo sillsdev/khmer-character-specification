@@ -80,6 +80,13 @@ def charcat(c):
         return Cats.ZFCoeng
     return Cats.Other
 
+def lunar(m, base):
+    ''' Returns the lunar date symbol from the appropriate set base '''
+    v = (ord(m.group(1) or "\u17E0") - 0x17E0) * 10 + ord(m.group(2)) - 0x17E0
+    if v > 15:      # translate \u17D4\u17D2\u17E0 as well
+        return m.group(0)
+    return chr(v+base)
+
 def khnormal(txt, lang="km"):
     ''' Returns khmer normalised string, without fixing or marking errors'''
     # Mark final coengs in Middle Khmer
@@ -113,6 +120,7 @@ def khnormal(txt, lang="km"):
 
         replaces = re.sub("([\u200C\u200D]\u17D2?|\u17D2\u200D)[\u17D2\u200C\u200D]+",
                           r"\1", replaces)      # remove multiple invisible chars
+        replaces = re.sub("\u17BE\u17B6", "\u17C4\u17B8", replaces)  # confusable vowels
         # map compoound vowel sequences to compounds with -u before to be converted
         replaces = re.sub("\u17C1([\u17BB-\u17BD]?)\u17B8", "\u17BE\\1", replaces)
         replaces = re.sub("\u17C1([\u17BB-\u17BD]?)\u17B6", "\u17C4\\1", replaces)
@@ -125,6 +133,12 @@ def khnormal(txt, lang="km"):
         replaces = re.sub("(\u17D2\u179A)(\u17D2[\u1780-\u17B3])",
                           r"\2\1", replaces)    # coeng ro second
         replaces = re.sub("(\u17D2)\u178A", "\\1\u178F", replaces)  # coeng da->ta
+        # convert lunar dates from old style to use lunar date symbols
+        replaces = re.sub("(\u17E1?)([\u17E0-\u17E9])\u17D2\u17D4",
+                lambda m:lunar(m, 0x19E0), replaces)
+        replaces = re.sub("\u17D4\u17D2(\u17E1?)([\u17E0-\u17E9])",
+                lambda m:lunar(m, 0x19F0), replaces)
+        replaces = re.sub("\u17D4\u17D2\u17D4", "\u19F0", replaces)
         res.append(replaces)
         i = j
     return "".join(res)
