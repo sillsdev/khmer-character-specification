@@ -291,7 +291,7 @@ Other than the Khmer language, Khmer script is also used to write ethnic minorit
 </table>
 
 
-More information on each language can be found on the ethnologue website at [https://www.ethnologue.com/country/kh/languages](https://www.ethnologue.com/country/kh/languages). 
+More information on each language can be found on the ethnologue website at [https://www.ethnologue.com/country/KH/#languages](https://www.ethnologue.com/country/KH/#languages). 
 
 
 
