@@ -97,7 +97,7 @@ def khnormal(txt, lang="km"):
 
     # Recategorise base or ZWJ -> coeng after coeng char
     for i in range(1, len(charcats)):
-        if charcats[i-1] == Cats.Coeng and charcats[i] in (Cats.Base, Cats.ZFCoeng):
+        if txt[i-1] in "\u200D\u17D2" and charcats[i] in (Cats.Base, Cats.ZFCoeng):
             charcats[i] = Cats.Coeng
 
     # Find subranges of base+non other and sort components in the subrange
@@ -118,7 +118,7 @@ def khnormal(txt, lang="km"):
         newindices = sorted(range(i, j), key=lambda e:(charcats[e].value, e))
         replaces = "".join(txt[n] for n in newindices)
 
-        replaces = re.sub("([\u200C\u200D]\u17D2?|\u17D2\u200D)[\u17D2\u200C\u200D]+",
+        replaces = re.sub("(\u200D?\u17D2[\u17D2\u200C\u200D]+",
                           r"\1", replaces)      # remove multiple invisible chars
         replaces = re.sub("\u17BE\u17B6", "\u17C4\u17B8", replaces)  # confusable vowels
         # map compoound vowel sequences to compounds with -u before to be converted
