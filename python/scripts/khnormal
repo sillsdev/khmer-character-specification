@@ -52,7 +52,7 @@ khres = {   # useful regular sub expressions used later
     "COENGF":  "(?:(?:[\u17C9\u17CA]\u200C?)?[\u17C2-\u17C3]?{VB}?{VA}?"
                "[\u17B6\u17BF\u17C0\u17C4\u17C5])",
     "COENGS":  "(?:\u17C9\u200C?{VAS})",
-    "FCOENG":  "(?:\u17D2\u200D{NonRo})",
+    "FCOENG":  "(?:\u200D\u17D2{NonRo})",
     "SHIFT":   "(?:(?<={STRONG}{FCOENG}?)\u17CA\u200C(?={VA})|"
                "(?<={NSTRONG}{FCOENG}?)\u17C9\u200C(?={VAS})|[\u17C9\u17CA])",
     "V":       "(?:\u17C1[\u17BC\u17BD]?[\u17B7\u17B9\u17BA]?|"
@@ -91,7 +91,7 @@ def khnormal(txt, lang="km"):
     ''' Returns khmer normalised string, without fixing or marking errors'''
     # Mark final coengs in Middle Khmer
     if lang == "xhm":
-        txt = re.sub(r"([\u17B7-\u17C5]\u17D2)", "\\1\u200D", txt)
+        txt = re.sub(r"([\u17B7-\u17C5]\u17D2)", "\u200D\\1", txt)
     # Categorise every character in the string
     charcats = [charcat(c) for c in txt]
 
@@ -144,10 +144,11 @@ def khnormal(txt, lang="km"):
     return "".join(res)
 
 def khtest(txt):
-    ''' Tests normalized text for conformance to Khmer encoding structure '''
+    ''' Tests normalized text for conformance to Khmer encoding structure.
+        MIddle Khmer support is not strict. '''
     import regex
-    syl = regex.compile("({B}\u17CC?{COENG}?(?:\u17D2\u200D(?={COENGR})|{FCOENG}(?={COENGF})|"
-           "(?<={NSTRONG})\u17D2\u200D{S1}(?={COENGS}))?{SHIFT}?{V}{MS}?[\u17C7\u17C8]?|"
+    syl = regex.compile("({B}\u17CC?{COENG}?(?:\u200D\u17D2(?={COENGR})|{FCOENG}(?={COENGF})|"
+           "(?<={NSTRONG})\u200D\u17D2{S1}(?={COENGS}))?{SHIFT}?{V}{MS}?[\u17C7\u17C8]?|"
            "[\u17A3\u17A4\u17B4\u17B5]|[^\u1780-\u17D2])".format(**khres))
     res = []
     passed = True
