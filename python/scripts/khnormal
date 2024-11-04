@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Copyright (c) 2021-2022, SIL International.
+# Copyright (c) 2021-2024, SIL Global.
 # Licensed under MIT license: https://opensource.org/licenses/MIT
 
 import enum, re
@@ -197,11 +197,14 @@ if __name__ == "__main__":
         outfile = open(args.outfile, "w", encoding="utf-8") \
                                         if args.outfile else sys.stdout
         for i, l in enumerate(infile.readlines()):
+            l = re.sub(r"(.*?)#.*$", r"\1", l.strip())
+            if not len(l):
+                continue
             res = khnormal(l, lang=args.lang) if not args.notnormal else l
             if args.fail:
                 tested = khtest(res)
                 if tested is not None:
                     outfile.write((str(i) + ":\t" + l.strip() + "\t" \
-                                        if args.numbers else "") + tested)
+                                        if args.numbers else "") + tested + "\n")
             else:
                 outfile.write((str(i) + ":\t" if args.numbers else "") + res)
