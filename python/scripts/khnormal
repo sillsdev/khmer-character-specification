@@ -60,22 +60,22 @@ khres = {   # useful regular sub expressions used later
                        | \u17D2{NonBA}\u17D2{S1}  # nonba coeng + series 1 coeng
                     )""",
     # contains BA or only series 2
-    "NSTRONG": """(?:{S2}\u17CC?(?:\u17D2{S2}(?:\u17D2{S2})?)? # Series 2 with series 2 coengs
-                     |\u1794\u17CC?{COENG}?                    # ba with one goeng
-                     |{B}\u17CC?(?:\u17D2{NonRo}\u17D2\u1794   # anything with non ro coeng + coeng ba
-                                  |\u17D2\u1794(?:\u17D2{B}))        # or coeng bo + any coeng
+    "NSTRONG": """(?:{S2}\u17CC?(?:\u17D2{S2}(?:\u17D2{S2})?)? # Series 2 + series 2 coengs
+                     |\u1794\u17CC?(?:{COENG}(?:{COENG})?)?    # or ba with any coeng
+                     |{B}\u17CC?(?:\u17D2{NonRo}\u17D2\u1794   # or ba coeng
+                                  |\u17D2\u1794(?:\u17D2{B}))
                   )""",
     "COENG":   "(?:(?:\u17D2{NonRo})?\u17D2{B})",
     # final coeng
     "FCOENG":  "(?:\u200D(?:\u17D2{NonRo})+)",
     # Allowed shifter sequences in Modern Khmer
-    "SHIFT":   """(?:  (?<={STRONG}) \u17CA\u200C (?={VA})     # strong prefix + triisap held up
-                     | (?<={NSTRONG})\u17C9\u200C (?={VAS})    # weak prefix + muusikatoan held up
+    "SHIFT":   """(?:  (?<={STRONG}) \u17CA\u200C (?={VA})     # strong + triisap held up
+                     | (?<={NSTRONG})\u17C9\u200C (?={VAS})    # weak + muusikatoan held up
                      | [\u17C9\u17CA]                          # any shifter
                   )""",
     # Allowed shifter sequences in Middle Khmer
-    "SHIFTX":  """(?:(?<={STRONG}) \u17CA\u200C (?={VAX})      # strong prefix + triisap held up
-                    | (?<={NSTRONG})\u17C9\u200C (?={VASX})    # weak prefix + muusikatoan held up
+    "SHIFTX":  """(?:(?<={STRONG}) \u17CA\u200C (?={VAX})      # strong + triisap held up
+                    | (?<={NSTRONG})\u17C9\u200C (?={VASX})    # weak + muusikatoan held up
                     | [\u17C9\u17CA]                           # any shifter
                    )""",
     # Modern Khmer vowel
@@ -89,11 +89,11 @@ khres = {   # useful regular sub expressions used later
     # Modern Khmer Modifiers
     "MS":      """(?:(?:  [\u17C6\u17CB\u17CD-\u17CF\u17D1\u17D3]   # follows anything
                        | (?<!\u17BB) [\u17D0\u17DD])                # not after -u
-                     [\u17C6\u17CB\u17CD-\u17D1\u17D3\u17DD]?       # And an optional second
+                     [\u17C6\u17CB\u17CD-\u17D1\u17D3\u17DD]?   # And an optional second
                   )""",
     # Middle Khmer Modifiers
     "MSX":     """(?:(?:  [\u17C6\u17CB\u17CD-\u17CF\u17D1\u17D3]   # follows anything
-                        | (?<!\u17BB[\u17B6\u17C4\u17C5]?)          # blocking -u sequence
+                        | (?<!\u17BB[\u17B6\u17C4\u17C5]?)      # blocking -u sequence
                      [\u17D0\u17DD])                           # for these modifiers
                   [\u17C6\u17CB\u17CD-\u17D1\u17D3\u17DD]?     # And an optional second
                   )"""
