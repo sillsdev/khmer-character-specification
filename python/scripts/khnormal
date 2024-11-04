@@ -93,13 +93,13 @@ khres = {   # useful regular sub expressions used later
                   )""",
     # Middle Khmer Modifiers
     "MSX":     """(?:(?:  [\u17C6\u17CB\u17CD-\u17CF\u17D1\u17D3]   # follows anything
-                        | (?<!\u17BB[\u17B6\u17C4\u17C5]?)      # blocking -u sequence
+                        | (?<!\u17BB [\u17B6\u17C4\u17C5]?)    # blocking -u sequence
                      [\u17D0\u17DD])                           # for these modifiers
                   [\u17C6\u17CB\u17CD-\u17D1\u17D3\u17DD]?     # And an optional second
                   )"""
 }
 
-# expand 2 times: CEONGS -> VAS -> VA -> VAA
+# expand 3 times: SHIFTX -> VASX -> VAX -> VA
 for i in range(3):
     khres = {k: v.format(**khres) for k, v in khres.items()}
 
