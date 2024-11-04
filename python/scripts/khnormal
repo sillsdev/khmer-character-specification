@@ -2,7 +2,7 @@
 # Copyright (c) 2021-2024, SIL Global.
 # Licensed under MIT license: https://opensource.org/licenses/MIT
 
-import enum, re
+import enum, re, regex
 
 class Cats(enum.Enum):
     Other = 0; Base = 1; Robat = 2; Coeng = 3;
@@ -29,40 +29,74 @@ categories =  ([Cats.Base] * 35     # 1780-17A2
             + [Cats.MS])            # 17DD
 
 khres = {   # useful regular sub expressions used later
+    # All bases
     "B":       "[\u1780-\u17A2\u17A5-\u17B3\u25CC]",
+    # All consonants excluding Ro
     "NonRo":   "[\u1780-\u1799\u179B-\u17A2\u17A5-\u17B3]",
+    # All consonants exclude Bo
     "NonBA":   "[\u1780-\u1793\u1795-\u17A2\u17A5-\u17B3]",
+    # Series 1 consonants
     "S1":      "[\u1780-\u1783\u1785-\u1788\u178A-\u178D\u178F-\u1792"
                "\u1795-\u1797\u179E-\u17A0\u17A2]",
+    # Series 2 consonants
     "S2":      "[\u1784\u1780\u178E\u1793\u1794\u1798-\u179D\u17A1\u17A3-\u17B3]",
-    "VAA":     "(?:[\u17B7-\u17BA\u17BE\u17BF\u17DD]|\u17B6\u17C6)",
-    "VA":      "(?:[\u17C1-\u17C5]?{VAA})",
+    # Simple following Vowel in Modern Khmer
+    "VA":      "(?:[\u17B7-\u17BA\u17BE\u17BF\u17DD]|\u17B6\u17C6)",
+    # Above vowel (as per shifter rules) with vowel sequences
+    "VAX":     "(?:[\u17C1-\u17C5]?{VA})",
+    # Above vowel with samyok (modern khmer)
     "VAS":     "(?:{VA}|[\u17C1-\u17C3]?\u17D0)",
-    "VB":      "(?:[\u17C1-\u17C3][\u17BB-\u17BD])",
+    # Above vowel with samyok (middle khmer)
+    "VASX":    "(?:{VAX}|[\u17C1-\u17C3]?\u17D0)",
+    # Below vowel (with Middle Khmer prefix)
+    "VB":      "(?:[\u17C1-\u17C3]?[\u17BB-\u17BD])",
     # contains series 1 and no BA
-    "STRONG":  "{S1}\u17CC?(?:\u17D2{NonBA}(?:\u17D2{NonBA})?)?|"
-               "{NonBA}\u17CC?(?:\u17D2{S1}(?:\u17D2{NonBA})?|\u17D2{NonBA}\u17D2{S1})",
+    "STRONG":  """  {S1}\u17CC?                 # series 1 robat?
+                    (?:\u17D2{NonBA}            # nonba coengs
+                       (?:\u17D2{NonBA})?)?
+                  | {NonBA}\u17CC?              # nonba robat?
+                    (?:  \u17D2{S1}               # series 1 coeng
+                         (?:\u17D2{NonBA})?       #   + any nonba coeng
+                       | \u17D2{NonBA}\u17D2{S1}  # nonba coeng + series 1 coeng
+                    )""",
     # contains BA or only series 2
-    "NSTRONG": "(?:{S2}\u17CC?(?:\u17D2{S2}(?:\u17D2{S2})?)?|\u1794\u17CC?{COENG}?|"
-               "{B}\u17CC?(?:\u17D2{NonRo}\u17D2\u1794|\u17D2\u1794(?:\u17D2{B}))?)",
+    "NSTRONG": """(?:{S2}\u17CC?(?:\u17D2{S2}(?:\u17D2{S2})?)? # Series 2 with series 2 coengs
+                     |\u1794\u17CC?{COENG}?                    # ba with one goeng
+                     |{B}\u17CC?(?:\u17D2{NonRo}\u17D2\u1794   # anything with non ro coeng + coeng ba
+                                  |\u17D2\u1794(?:\u17D2{B}))        # or coeng bo + any coeng
+                  )""",
     "COENG":   "(?:(?:\u17D2{NonRo})?\u17D2{B})",
-    # final right spacing coeng
-    "COENGR":  "(?:(?:[\u17C9\u17CA]\u200C?)?(?:{VB}?{VAS}|{VB}))",
-    # final all coengs
-    "COENGF":  "(?:(?:[\u17C9\u17CA]\u200C?)?[\u17C2-\u17C3]?{VB}?{VA}?"
-               "[\u17B6\u17BF\u17C0\u17C4\u17C5])",
-    "COENGS":  "(?:\u17C9\u200C?{VAS})",
+    # final coeng
     "FCOENG":  "(?:\u200D(?:\u17D2{NonRo})+)",
-    "SHIFT":   "(?:(?<={STRONG})\u17CA\u200C(?={VA})|"
-               "(?<={NSTRONG})\u17C9\u200C(?={VAS})|[\u17C9\u17CA])",
-    "V":       "(?:\u17C1[\u17BC\u17BD]?[\u17B7\u17B9\u17BA]?|"
+    # Allowed shifter sequences in Modern Khmer
+    "SHIFT":   """(?:  (?<={STRONG}) \u17CA\u200C (?={VA})     # strong prefix + triisap held up
+                     | (?<={NSTRONG})\u17C9\u200C (?={VAS})    # weak prefix + muusikatoan held up
+                     | [\u17C9\u17CA]                          # any shifter
+                  )""",
+    # Allowed shifter sequences in Middle Khmer
+    "SHIFTX":  """(?:(?<={STRONG}) \u17CA\u200C (?={VAX})      # strong prefix + triisap held up
+                    | (?<={NSTRONG})\u17C9\u200C (?={VASX})    # weak prefix + muusikatoan held up
+                    | [\u17C9\u17CA]                           # any shifter
+                   )""",
+    # Modern Khmer vowel
+    "V":       "[\u17B6-\u17C5]?",
+    # Middle Khmer vowel sequences (not worth trying to unpack this)
+    "VX":      "(?:\u17C1[\u17BC\u17BD]?[\u17B7\u17B9\u17BA]?|"
                "[\u17C2\u17C3]?[\u17BC\u17BD]?[\u17B7-\u17BA]\u17B6|"
                "[\u17C2\u17C3]?[\u17BB-\u17BD]?\u17B6|\u17BE[\u17BC\u17BD]?\u17B6?|"
                "[\u17C1-\u17C5]?\u17BB(?![\u17D0\u17DD])|"
                "[\u17BF\u17C0]|[\u17C2-\u17C5]?[\u17BC\u17BD]?[\u17B7-\u17BA]?)",
-    "MS":      "(?:(?:[\u17C6\u17CB\u17CD-\u17CF\u17D1\u17D3]|"
-               "(?<!\u17BB[\u17B6\u17C4\u17C5]?)[\u17D0\u17DD])"
-               "[\u17C6\u17CB\u17CD-\u17D1\u17D3\u17DD]?)"
+    # Modern Khmer Modifiers
+    "MS":      """(?:(?:  [\u17C6\u17CB\u17CD-\u17CF\u17D1\u17D3]   # follows anything
+                       | (?<!\u17BB) [\u17D0\u17DD])                # not after -u
+                     [\u17C6\u17CB\u17CD-\u17D1\u17D3\u17DD]?       # And an optional second
+                  )""",
+    # Middle Khmer Modifiers
+    "MSX":     """(?:(?:  [\u17C6\u17CB\u17CD-\u17CF\u17D1\u17D3]   # follows anything
+                        | (?<!\u17BB[\u17B6\u17C4\u17C5]?)          # blocking -u sequence
+                     [\u17D0\u17DD])                           # for these modifiers
+                  [\u17C6\u17CB\u17CD-\u17D1\u17D3\u17DD]?     # And an optional second
+                  )"""
 }
 
 # expand 2 times: CEONGS -> VAS -> VA -> VAA
@@ -127,9 +161,9 @@ def khnormal(txt, lang="km"):
         replaces = re.sub("(\u17BE)(\u17BB)", r"\2\1", replaces)
         # Replace -u + upper vowel with consonant shifter
         replaces = re.sub("({STRONG}[\u17C1-\u17C5]?)\u17BB"
-                          "(?={VAA}|\u17D0)".format(**khres), "\\1\u17CA", replaces)
+                          "(?={VA}|\u17D0)".format(**khres), "\\1\u17CA", replaces, re.X)
         replaces = re.sub("({NSTRONG}[\u17C1-\u17C5]?)\u17BB"
-                          "(?={VAA}|\u17D0)".format(**khres), "\\1\u17C9", replaces)
+                          "(?={VA}|\u17D0)".format(**khres), "\\1\u17C9", replaces, re.X)
         replaces = re.sub("(\u17D2\u179A)(\u17D2[\u1780-\u17B3])",
                           r"\2\1", replaces)    # coeng ro second
         replaces = re.sub("(\u17D2)\u178A", "\\1\u178F", replaces)  # coeng da->ta
@@ -143,14 +177,16 @@ def khnormal(txt, lang="km"):
         i = j
     return "".join(res)
 
-def khtest(txt):
+testsyl = regex.compile("({B}\u17CC?{COENG}?{SHIFT}?{V}{MS}?[\u17C7\u17C8]?|"
+       "[\u17A3\u17A4\u17B4\u17B5]|[^\u1780-\u17D2])".format(**khres), regex.X)
+testsylx = regex.compile("({B}\u17CC?{COENG}?{SHIFTX}?{VX}{MSX}?[\u17C7\u17C8]?{FCOENG}?|"
+       "[\u17A3\u17A4\u17B4\u17B5]|[^\u1780-\u17D2])".format(**khres), regex.X)
+def khtest(txt, lang="km"):
     ''' Tests normalized text for conformance to Khmer encoding structure.
         MIddle Khmer support is not strict. '''
-    import regex
-    syl = regex.compile("({B}\u17CC?{COENG}?{SHIFT}?{V}{MS}?[\u17C7\u17C8]?{FCOENG}?|"
-           "[\u17A3\u17A4\u17B4\u17B5]|[^\u1780-\u17D2])".format(**khres))
     res = []
     passed = True
+    syl = testsylx if lang == "xhm" else testsyl
     while len(txt):
         m = syl.match(txt)          # match a syllable
         if m:
