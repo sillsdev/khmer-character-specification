@@ -1,12 +1,17 @@
 import pytest
 import subprocess
 import os
+import sys
 from difflib import Differ
 
 def test_normal(projectsdir, wordlist):
     ''' Tests that the normalized word conforms to the regexp'''
-    khnormal = os.path.join(os.path.dirname(__file__), '..', 'python', 'scripts', 'khnormal')
-    res = subprocess.check_output([khnormal, "-n", "-f", f"{projectsdir}/{wordlist}"]).decode("utf-8")
+    if sys.platform == "win32":
+        khnormal = ['python', '-X', 'utf8', os.path.join(os.path.dirname(__file__), '..', 'python', 'scripts', 'khnormal')]
+    else:
+        khnormal = [os.path.join(os.path.dirname(__file__), '..', 'python', 'scripts', 'khnormal')]
+
+    res = subprocess.check_output(khnormal + ["-n", "-f", f"{projectsdir}/{wordlist}"]).decode("utf-8")
     if len(res):
         print(res)
         if wordlist in ("bad_kh.txt", "cmo_words.txt", "cnd_words.txt"):
@@ -16,8 +21,12 @@ def test_normal(projectsdir, wordlist):
 
 def test_input(projectsdir, wordlist, updatedata):
     ''' Tests the input sequence to see if it is bad, before normalizing '''
-    khnormal = os.path.join(os.path.dirname(__file__), '..', 'python', 'scripts', 'khnormal')
-    res = subprocess.check_output([khnormal, "-N", "-n", "-f", f"{projectsdir}/{wordlist}"]).decode("utf-8")
+    if sys.platform == "win32":
+        khnormal = ['python', '-X', 'utf8', os.path.join(os.path.dirname(__file__), '..', 'python', 'scripts', 'khnormal')]
+    else:
+        khnormal = [os.path.join(os.path.dirname(__file__), '..', 'python', 'scripts', 'khnormal')]
+    # khnormal = os.path.join(os.path.dirname(__file__), '..', 'python', 'scripts', 'khnormal')
+    res = subprocess.check_output(khnormal + ["-N", "-n", "-f", f"{projectsdir}/{wordlist}"]).decode("utf-8")
     if not len(res):
         return
     lines = [s.strip() for s in res.split("\n") if len(s.strip())]
